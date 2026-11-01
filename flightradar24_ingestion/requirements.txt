@@ -1,0 +1,4 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+# Optional: use official SDK alongside this framework
+# fr24sdk>=0.3.1
