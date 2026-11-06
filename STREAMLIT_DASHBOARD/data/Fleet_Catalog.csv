@@ -1,0 +1,5 @@
+source,endpoint,coverage,refresh_cadence,quota_budget,last_run,status
+AirLabs,/fleets (GET),Partial snapshot — 649 aircraft in tab (see ingestion log),Monthly full pull + weekly top-airline refresh,"<= 900 / 1,000 req/month (free tier, soft cap)",2026-11-05T23:56:30.428807+00:00,ok
+Airline Fleet Monitor,/data/airlines.json (bulk export),"860 airlines, 25,226 airframes (snapshot 2026-09-17; idle/stored split + avg age are placeholders)",Weekly snapshot (Mon),"No key, no quota",2026-11-05T23:26:22.414138+00:00,ok
+Skylink,"/v3/adsb/aircraft (direct, data.skylinkapi.com)","762 airborne aircraft across 10 airlines (live ADS-B snapshot, direct trial)",Weekly ADS-B snapshot (Mon),"~195 / 1,000 req/month (trial)",2026-11-06T00:23:11.913121+00:00,ok
+OpenSky,aircraft database CSV,"1,750 airlines, 5,897 records (registered airframes)",Monthly refresh (1st),"Free, no key, no quota",2026-11-05T23:21:23+00:00,ok
