@@ -1,0 +1,861 @@
+airline,iata,icao,country,active,idle_7_29d,stored_30d_plus,total,average_age,coverage_confidence,slug,hubs,fetched_at
+Delta Air Lines,DL,DAL,United States,1388,0,0,1388,11.2,high,delta-air-lines,"KATL,KJFK,KLAX,KDTW,KMSP,KSLC,KBOS,KSEA",2026-11-05T23:26:22.414138+00:00
+American Airlines,AA,AAL,United States,1239,0,0,1239,11.2,high,american-airlines,"KDFW,KCLT,KMIA,KORD,KPHX,KPHL",2026-11-05T23:26:22.414138+00:00
+United Airlines,UA,UAL,United States,1016,0,0,1016,11.2,high,united-airlines,"KORD,KDEN,KIAH,KEWR,KSFO,KIAD,KLAX",2026-11-05T23:26:22.414138+00:00
+Southwest Airlines,WN,SWA,United States,875,0,0,875,11.2,high,southwest-airlines,,2026-11-05T23:26:22.414138+00:00
+China Southern Airlines,CZ,CSN,China,579,0,0,579,11.2,high,china-southern-airlines,,2026-11-05T23:26:22.414138+00:00
+Ryanair,FR,RYR,Ireland,497,0,0,497,11.2,high,ryanair,,2026-11-05T23:26:22.414138+00:00
+China Eastern Airlines,MU,CES,China,491,0,0,491,11.2,high,china-eastern-airlines,,2026-11-05T23:26:22.414138+00:00
+Air China,CA,CCA,China,412,0,0,412,11.2,high,air-china,,2026-11-05T23:26:22.414138+00:00
+Lufthansa,LH,DLH,Germany,400,0,0,400,11.2,high,lufthansa,"EDDF,EDDM",2026-11-05T23:26:22.414138+00:00
+SkyWest,OO,SKW,United States,398,0,0,398,11.2,high,skywest,,2026-11-05T23:26:22.414138+00:00
+Turkish Airlines,TK,THY,Turkey,393,0,0,393,11.2,high,turkish-airlines,LTFM,2026-11-05T23:26:22.414138+00:00
+easyJet,U2,EZY,United Kingdom,344,0,0,344,11.2,high,easyjet,,2026-11-05T23:26:22.414138+00:00
+British Airways,BA,BAW,United Kingdom,316,0,0,316,11.2,high,british-airways,"EGLL,EGKK",2026-11-05T23:26:22.414138+00:00
+Aeroflot Russian Airlines,SU,AFL,Russia,308,0,0,308,11.2,high,aeroflot-russian-airlines,,2026-11-05T23:26:22.414138+00:00
+Emirates,EK,UAE,United Arab Emirates,289,0,0,289,11.2,high,emirates,OMDB,2026-11-05T23:26:22.414138+00:00
+JetBlue Airways,B6,JBU,United States,281,0,0,281,11.2,high,jetblue-airways,,2026-11-05T23:26:22.414138+00:00
+Air France,AF,AFR,France,268,0,0,268,11.2,high,air-france,"LFPG,LFPO",2026-11-05T23:26:22.414138+00:00
+All Nippon Airways,NH,ANA,Japan,265,0,0,265,11.2,high,all-nippon-airways,"RJTT,RJAA",2026-11-05T23:26:22.414138+00:00
+Qatar Airways,QR,QTR,Qatar,261,0,0,261,11.2,high,qatar-airways,OTHH,2026-11-05T23:26:22.414138+00:00
+Air Canada,AC,ACA,Canada,236,0,0,236,11.2,high,air-canada,"CYYZ,CYVR,CYUL,CYYC",2026-11-05T23:26:22.414138+00:00
+Hainan Airlines,HU,CHH,China,207,0,0,207,11.2,high,hainan-airlines,,2026-11-05T23:26:22.414138+00:00
+Alaska Airlines,AS,ASA,ALASKA,204,0,0,204,11.2,high,alaska-airlines,,2026-11-05T23:26:22.414138+00:00
+IndiGo Airlines,6E,IGO,India,191,0,0,191,11.2,high,indigo-airlines,,2026-11-05T23:26:22.414138+00:00
+Saudi Arabian Airlines,SV,SVA,Saudi Arabia,189,0,0,189,11.2,high,saudi-arabian-airlines,,2026-11-05T23:26:22.414138+00:00
+Scandinavian Airlines System,SK,SAS,Sweden,188,0,0,188,11.2,high,scandinavian-airlines-system,,2026-11-05T23:26:22.414138+00:00
+Japan Airlines Domestic,JL,JAL,Japan,184,0,0,184,11.2,high,japan-airlines-domestic,,2026-11-05T23:26:22.414138+00:00
+Korean Air,KE,KAL,Republic of Korea,184,0,0,184,11.2,high,korean-air,,2026-11-05T23:26:22.414138+00:00
+Shenzhen Airlines,ZH,CSZ,China,174,0,0,174,11.2,high,shenzhen-airlines,,2026-11-05T23:26:22.414138+00:00
+Cathay Pacific,CX,CPA,Hong Kong SAR of China,173,0,0,173,11.2,high,cathay-pacific,VHHH,2026-11-05T23:26:22.414138+00:00
+Atlantic Southeast Airlines,EV,ASQ,United States,168,0,0,168,11.2,high,atlantic-southeast-airlines-2,,2026-11-05T23:26:22.414138+00:00
+Singapore Airlines,SQ,SIA,Singapore,161,0,0,161,11.2,high,singapore-airlines,WSSS,2026-11-05T23:26:22.414138+00:00
+Xiamen Airlines,MF,CXA,China,156,0,0,156,11.2,high,xiamen-airlines,,2026-11-05T23:26:22.414138+00:00
+Envoy Air,MQ,ENY,United States,149,0,0,149,11.2,high,envoy-air,,2026-11-05T23:26:22.414138+00:00
+Spirit Airlines,NK,NKS,United States,148,0,0,148,11.2,high,spirit-airlines,,2026-11-05T23:26:22.414138+00:00
+Skywest Airlines,,OZW,Australia,145,0,0,145,11.2,high,skywest-airlines,,2026-11-05T23:26:22.414138+00:00
+Etihad Airways,EY,ETD,United Arab Emirates,144,0,0,144,11.2,high,etihad-airways,,2026-11-05T23:26:22.414138+00:00
+KLM Royal Dutch Airlines,KL,KLM,Netherlands,143,0,0,143,11.2,high,klm,EHAM,2026-11-05T23:26:22.414138+00:00
+Garuda Indonesia,GA,GIA,Indonesia,142,0,0,142,11.2,high,garuda-indonesia,,2026-11-05T23:26:22.414138+00:00
+WestJet,WS,WJA,Canada,137,0,0,137,11.2,high,westjet,"CYYC,CYVR,CYYZ",2026-11-05T23:26:22.414138+00:00
+Qantas,QF,QFA,Australia,135,0,0,135,11.2,high,qantas,"YSSY,YMML,YBBN,YPPH",2026-11-05T23:26:22.414138+00:00
+Vueling Airlines,VY,VLG,Spain,134,0,0,134,11.2,high,vueling-airlines,,2026-11-05T23:26:22.414138+00:00
+Sichuan Airlines,3U,CSC,China,133,0,0,133,11.2,high,sichuan-airlines,,2026-11-05T23:26:22.414138+00:00
+Allegiant Air,G4,AAY,United States,130,0,0,130,11.2,high,allegiant-air,,2026-11-05T23:26:22.414138+00:00
+Air Berlin,AB,BER,Germany,128,0,0,128,11.2,high,air-berlin,,2026-11-05T23:26:22.414138+00:00
+Mesa Airlines,YV,ASH,United States,128,0,0,128,11.2,high,mesa-airlines,,2026-11-05T23:26:22.414138+00:00
+Avianca - Aerovias Nacionales de Colombia,AV,AVA,AVIANCA,127,0,0,127,11.2,high,avianca-aerovias-nacionales-de-colombia,,2026-11-05T23:26:22.414138+00:00
+Gol Transportes Aéreos,G3,GLO,Brazil,126,0,0,126,11.2,high,gol-transportes-aéreos,,2026-11-05T23:26:22.414138+00:00
+TAP Portugal,TP,TAP,Portugal,126,0,0,126,11.2,high,tap-portugal,,2026-11-05T23:26:22.414138+00:00
+Air India Limited,AI,AIC,India,122,0,0,122,11.2,high,air-india-limited,,2026-11-05T23:26:22.414138+00:00
+Wizz Air,W6,WZZ,Hungary,122,0,0,122,11.2,high,wizz-air,,2026-11-05T23:26:22.414138+00:00
+Azul,AD,AZU,Brazil,115,0,0,115,11.2,high,azul,,2026-11-05T23:26:22.414138+00:00
+Frontier Airlines,F9,FFT,United States,115,0,0,115,11.2,high,frontier-airlines,,2026-11-05T23:26:22.414138+00:00
+Lion Mentari Airlines,JT,LNI,Indonesia,115,0,0,115,11.2,high,lion-mentari-airlines,,2026-11-05T23:26:22.414138+00:00
+Norwegian Air Shuttle,DY,NAX,Norway,115,0,0,115,11.2,high,norwegian-air-shuttle,,2026-11-05T23:26:22.414138+00:00
+Shandong Airlines,SC,CDG,China,113,0,0,113,11.2,high,shandong-airlines,,2026-11-05T23:26:22.414138+00:00
+Virgin Australia,VA,VOZ,Australia,112,0,0,112,11.2,high,virgin-australia,,2026-11-05T23:26:22.414138+00:00
+Copa Airlines,CM,CMP,Panama,107,0,0,107,11.2,high,copa-airlines,,2026-11-05T23:26:22.414138+00:00
+S7 Airlines,S7,SBI,Russia,107,0,0,107,11.2,high,s7-airlines,,2026-11-05T23:26:22.414138+00:00
+Swissair,LX,SWR,Switzerland,107,0,0,107,11.2,high,swissair,,2026-11-05T23:26:22.414138+00:00
+Alitalia,AZ,AZA,Italy,105,0,0,105,11.2,high,alitalia,,2026-11-05T23:26:22.414138+00:00
+Iberia Airlines,IB,IBE,Spain,105,0,0,105,11.2,high,iberia-airlines,,2026-11-05T23:26:22.414138+00:00
+Austrian Airlines,OS,AUA,Austria,104,0,0,104,11.2,high,austrian-airlines,,2026-11-05T23:26:22.414138+00:00
+LAN Airlines,LA,LAN,Chile,102,0,0,102,11.2,high,lan-airlines,,2026-11-05T23:26:22.414138+00:00
+Ethiopian Airlines,ET,ETH,Ethiopia,101,0,0,101,11.2,high,ethiopian-airlines,HAAB,2026-11-05T23:26:22.414138+00:00
+Jet Airways,9W,JAI,India,100,0,0,100,11.2,high,jet-airways,,2026-11-05T23:26:22.414138+00:00
+Pegasus Airlines,PC,PGT,Turkey,100,0,0,100,11.2,high,pegasus-airlines,,2026-11-05T23:26:22.414138+00:00
+Asiana Airlines,OZ,AAR,Republic of Korea,98,0,0,98,11.2,high,asiana-airlines,,2026-11-05T23:26:22.414138+00:00
+Vietnam Airlines,VN,HVN,Vietnam,98,0,0,98,11.2,high,vietnam-airlines,,2026-11-05T23:26:22.414138+00:00
+China Airlines,CI,CAL,Taiwan,93,0,0,93,11.2,high,china-airlines,,2026-11-05T23:26:22.414138+00:00
+Tianjin Airlines,GS,GCR,China,90,0,0,90,11.2,high,tianjin-airlines,,2026-11-05T23:26:22.414138+00:00
+Shanghai Airlines,FM,CSH,China,89,0,0,89,11.2,high,shanghai-airlines,,2026-11-05T23:26:22.414138+00:00
+EVA Air,BR,EVA,Taiwan,88,0,0,88,11.2,high,eva-air,,2026-11-05T23:26:22.414138+00:00
+AeroMéxico,AM,AMX,Mexico,86,0,0,86,11.2,high,aeroméxico,,2026-11-05T23:26:22.414138+00:00
+Jet2.com,LS,EXS,United Kingdom,86,0,0,86,11.2,high,jet2com,,2026-11-05T23:26:22.414138+00:00
+Malaysia Airlines,MH,MAS,Malaysia,81,0,0,81,11.2,high,malaysia-airlines,,2026-11-05T23:26:22.414138+00:00
+Thai Airways International,TG,THA,Thailand,81,0,0,81,11.2,high,thai-airways-international,,2026-11-05T23:26:22.414138+00:00
+Volaris,Y4,VOI,Mexico,81,0,0,81,11.2,high,volaris,,2026-11-05T23:26:22.414138+00:00
+Egyptair,MS,MSR,Egypt,80,0,0,80,11.2,high,egyptair,,2026-11-05T23:26:22.414138+00:00
+AirAsia,AK,AXM,Malaysia,79,0,0,79,11.2,high,airasia,,2026-11-05T23:26:22.414138+00:00
+Norwegian Air International (D8),,IBK,Norway,79,0,0,79,11.2,high,norwegian-air-international-d8,,2026-11-05T23:26:22.414138+00:00
+Rossiya-Russian Airlines,FV,SDM,Russia,79,0,0,79,11.2,high,rossiya-russian-airlines,,2026-11-05T23:26:22.414138+00:00
+Eurowings,EW,EWG,Germany,76,0,0,76,11.2,high,eurowings,,2026-11-05T23:26:22.414138+00:00
+Finnair,AY,FIN,Finland,75,0,0,75,11.2,high,finnair,,2026-11-05T23:26:22.414138+00:00
+Spring Airlines,9C,CQH,China,75,0,0,75,11.2,high,spring-airlines,,2026-11-05T23:26:22.414138+00:00
+Thomsonfly,BY,TOM,United Kingdom,75,0,0,75,11.2,high,thomsonfly,,2026-11-05T23:26:22.414138+00:00
+Air Europa,UX,AEA,Spain,73,0,0,73,11.2,high,air-europa,,2026-11-05T23:26:22.414138+00:00
+Philippine Airlines,PR,PAL,Philippines,73,0,0,73,11.2,high,philippine-airlines,,2026-11-05T23:26:22.414138+00:00
+Atlas Air,5Y,GTI,United States,72,0,0,72,11.2,high,atlas-air,,2026-11-05T23:26:22.414138+00:00
+Flybe,BE,BEE,United Kingdom,71,0,0,71,11.2,high,flybe,,2026-11-05T23:26:22.414138+00:00
+Jetstar Airways,JQ,JST,Australia,71,0,0,71,11.2,high,jetstar-airways,,2026-11-05T23:26:22.414138+00:00
+Fly Dubai,FZ,FDB,United Arab Emirates,66,0,0,66,11.2,high,fly-dubai,,2026-11-05T23:26:22.414138+00:00
+Juneyao Airlines,HO,DKH,China,66,0,0,66,11.2,high,juneyao-airlines,,2026-11-05T23:26:22.414138+00:00
+KLM Cityhopper,WA,KLC,Netherlands,66,0,0,66,11.2,high,klm-cityhopper,,2026-11-05T23:26:22.414138+00:00
+Air New Zealand,NZ,ANZ,New Zealand,65,0,0,65,11.2,high,air-new-zealand,NZAA,2026-11-05T23:26:22.414138+00:00
+Hawaiian Airlines,HA,HAL,United States,65,0,0,65,11.2,high,hawaiian-airlines,,2026-11-05T23:26:22.414138+00:00
+Royal Air Maroc,AT,RAM,Morocco,65,0,0,65,11.2,high,royal-air-maroc,,2026-11-05T23:26:22.414138+00:00
+Aer Lingus,EI,EIN,Ireland,64,0,0,64,11.2,high,aer-lingus,,2026-11-05T23:26:22.414138+00:00
+SunExpress,XQ,SXS,Turkey,64,0,0,64,11.2,high,sunexpress,,2026-11-05T23:26:22.414138+00:00
+Horizon Air,QX,QXE,United States,63,0,0,63,11.2,high,horizon-air,,2026-11-05T23:26:22.414138+00:00
+Virgin America,VX,VRD,United States,63,0,0,63,11.2,high,virgin-america,,2026-11-05T23:26:22.414138+00:00
+El Al Israel Airlines,LY,ELY,Israel,62,0,0,62,11.2,high,el-al-israel-airlines,,2026-11-05T23:26:22.414138+00:00
+Aerolitoral,5D,SLI,Mexico,61,0,0,61,11.2,high,aerolitoral,,2026-11-05T23:26:22.414138+00:00
+Spicejet,SG,SEJ,India,61,0,0,61,11.2,high,spicejet,,2026-11-05T23:26:22.414138+00:00
+Air Canada Jazz,QK,JZA,Canada,60,0,0,60,11.2,high,air-canada-jazz,,2026-11-05T23:26:22.414138+00:00
+South African Airways,SA,SAA,South Africa,59,0,0,59,11.2,high,south-african-airways,,2026-11-05T23:26:22.414138+00:00
+Air Algerie,AH,DAH,Algeria,58,0,0,58,11.2,high,air-algerie,,2026-11-05T23:26:22.414138+00:00
+Air Wisconsin,ZW,AWI,United States,58,0,0,58,11.2,high,air-wisconsin,,2026-11-05T23:26:22.414138+00:00
+LOT Polish Airlines,LO,LOT,Poland,58,0,0,58,11.2,high,lot-polish-airlines,,2026-11-05T23:26:22.414138+00:00
+UTair Aviation,UT,UTA,Russia,58,0,0,58,11.2,high,utair-aviation,,2026-11-05T23:26:22.414138+00:00
+Aerolineas Argentinas,AR,ARG,Argentina,56,0,0,56,11.2,high,aerolineas-argentinas,,2026-11-05T23:26:22.414138+00:00
+Germanwings,4U,GWI,Germany,56,0,0,56,11.2,high,germanwings,,2026-11-05T23:26:22.414138+00:00
+Aegean Airlines,A3,AEE,Greece,55,0,0,55,11.2,high,aegean-airlines,,2026-11-05T23:26:22.414138+00:00
+Thai AirAsia,FD,AIQ,Thailand,55,0,0,55,11.2,high,thai-airasia,,2026-11-05T23:26:22.414138+00:00
+Ural Airlines,U6,SVR,Russia,55,0,0,55,11.2,high,ural-airlines,,2026-11-05T23:26:22.414138+00:00
+Condor Flugdienst,DE,CFG,Germany,54,0,0,54,11.2,high,condor-flugdienst,,2026-11-05T23:26:22.414138+00:00
+Virgin Atlantic Airways,VS,VIR,United Kingdom,54,0,0,54,11.2,high,virgin-atlantic-airways,,2026-11-05T23:26:22.414138+00:00
+Republic Airlines,YX,RPA,United States,53,0,0,53,11.2,high,republic-airlines,,2026-11-05T23:26:22.414138+00:00
+GoJet Airlines,G7,GJS,United States,51,0,0,51,11.2,high,gojet-airlines,,2026-11-05T23:26:22.414138+00:00
+Wings Air,IW,WON,Indonesia,51,0,0,51,11.2,high,wings-air,,2026-11-05T23:26:22.414138+00:00
+Air Baltic,BT,BTI,Latvia,50,0,0,50,11.2,high,air-baltic,,2026-11-05T23:26:22.414138+00:00
+Cebu Pacific,5J,CEB,Philippines,50,0,0,50,11.2,high,cebu-pacific,,2026-11-05T23:26:22.414138+00:00
+Transavia Holland,HV,TRA,Netherlands,50,0,0,50,11.2,high,transavia-holland,,2026-11-05T23:26:22.414138+00:00
+Air Nostrum,YW,ANE,Spain,47,0,0,47,11.2,medium,air-nostrum,,2026-11-05T23:26:22.414138+00:00
+Travel Service,QS,TVS,Czech Republic,46,0,0,46,11.2,medium,travel-service-2,,2026-11-05T23:26:22.414138+00:00
+WestJet Encore,WR,WEN,Canada,46,0,0,46,11.2,medium,westjet-encore,,2026-11-05T23:26:22.414138+00:00
+Dragonair,KA,HDA,DRAGON,45,0,0,45,11.2,medium,dragonair,,2026-11-05T23:26:22.414138+00:00
+Thomas Cook Airlines,MT,TCX,United Kingdom,45,0,0,45,11.2,medium,thomas-cook-airlines-2,,2026-11-05T23:26:22.414138+00:00
+Brussels Airlines,SN,BEL,International,44,0,0,44,11.2,medium,brussels-airlines-2,,2026-11-05T23:26:22.414138+00:00
+Icelandair,FI,ICE,Iceland,44,0,0,44,11.2,medium,icelandair,,2026-11-05T23:26:22.414138+00:00
+Oman Air,WY,OMA,Oman,44,0,0,44,11.2,medium,oman-air,,2026-11-05T23:26:22.414138+00:00
+VOLOTEA Airways,V7,VOE,Spain,44,0,0,44,11.2,medium,volotea-airways,,2026-11-05T23:26:22.414138+00:00
+Air Transat,TS,TSC,Canada,43,0,0,43,11.2,medium,air-transat,,2026-11-05T23:26:22.414138+00:00
+Ukraine International Airlines,PS,AUI,Ukraine,43,0,0,43,11.2,medium,ukraine-international-airlines,,2026-11-05T23:26:22.414138+00:00
+Air Arabia,G9,ABY,United Arab Emirates,42,0,0,42,11.2,medium,air-arabia,,2026-11-05T23:26:22.414138+00:00
+Bangkok Airways,PG,BKP,Thailand,42,0,0,42,11.2,medium,bangkok-airways,,2026-11-05T23:26:22.414138+00:00
+Malindo Air,OD,MXD,Malaysia,42,0,0,42,11.2,medium,malindo-air,,2026-11-05T23:26:22.414138+00:00
+Sriwijaya Air,SJ,SJY,Indonesia,42,0,0,42,11.2,medium,sriwijaya-air,,2026-11-05T23:26:22.414138+00:00
+Tiger Airways Australia,TR,TGW,Australia,42,0,0,42,11.2,medium,tiger-airways-australia,,2026-11-05T23:26:22.414138+00:00
+Hong Kong Airlines,HX,CRK,Hong Kong SAR of China,39,0,0,39,11.2,medium,hong-kong-airlines,,2026-11-05T23:26:22.414138+00:00
+Kenya Airways,KQ,KQA,Kenya,39,0,0,39,11.2,medium,kenya-airways,,2026-11-05T23:26:22.414138+00:00
+VietJet Air,VJ,VJC,Vietnam,39,0,0,39,11.2,medium,vietjet-air,,2026-11-05T23:26:22.414138+00:00
+Nas Air,XY,KNE,Saudi Arabia,38,0,0,38,11.2,medium,nas-air-3,,2026-11-05T23:26:22.414138+00:00
+China United Airlines,KN,CUA,China,37,0,0,37,11.2,medium,china-united-airlines,,2026-11-05T23:26:22.414138+00:00
+Go Air,G8,GOW,India,37,0,0,37,11.2,medium,go-air,,2026-11-05T23:26:22.414138+00:00
+Pakistan International Airlines,PK,PIA,Pakistan,37,0,0,37,11.2,medium,pakistan-international-airlines,,2026-11-05T23:26:22.414138+00:00
+Iraqi Airways,IA,IAW,Iraq,36,0,0,36,11.2,medium,iraqi-airways,,2026-11-05T23:26:22.414138+00:00
+Mahan Air,W5,IRM,Iran,36,0,0,36,11.2,medium,mahan-air,,2026-11-05T23:26:22.414138+00:00
+Monarch Airlines,ZB,MON,United Kingdom,36,0,0,36,11.2,medium,monarch-airlines,,2026-11-05T23:26:22.414138+00:00
+Iran Air,IR,IRA,Iran,35,0,0,35,11.2,medium,iran-air,,2026-11-05T23:26:22.414138+00:00
+Kuwait Airways,KU,KAC,Kuwait,35,0,0,35,11.2,medium,kuwait-airways,,2026-11-05T23:26:22.414138+00:00
+Niki,HG,NLY,Austria,35,0,0,35,11.2,medium,niki,,2026-11-05T23:26:22.414138+00:00
+Oceanair,O6,ONE,Brazil,35,0,0,35,11.2,medium,oceanair,,2026-11-05T23:26:22.414138+00:00
+Sun Country Airlines,SY,SCX,United States,35,0,0,35,11.2,medium,sun-country-airlines,,2026-11-05T23:26:22.414138+00:00
+Tunisair,TU,TAR,Tunisia,35,0,0,35,11.2,medium,tunisair,,2026-11-05T23:26:22.414138+00:00
+Belavia Belarusian Airlines,B2,BRU,Belarus,34,0,0,34,11.2,medium,belavia-belarusian-airlines,,2026-11-05T23:26:22.414138+00:00
+Gulf Air,GF,GFA,Oman,34,0,0,34,11.2,medium,gulf-air,,2026-11-05T23:26:22.414138+00:00
+Transavia France,TO,TVF,France,34,0,0,34,11.2,medium,transavia-france,,2026-11-05T23:26:22.414138+00:00
+SilkAir,MI,SLK,Singapore,33,0,0,33,11.2,medium,silkair,,2026-11-05T23:26:22.414138+00:00
+Tarom,RO,ROT,Romania,33,0,0,33,11.2,medium,tarom,,2026-11-05T23:26:22.414138+00:00
+Air France Hop,A5,HOP,International,32,0,0,32,11.2,medium,air-france-hop,,2026-11-05T23:26:22.414138+00:00
+Alliance Airlines,QQ,UTY,Australia,32,0,0,32,11.2,medium,alliance-airlines,,2026-11-05T23:26:22.414138+00:00
+Jetairfly,TB,JAF,Belgium,32,0,0,32,11.2,medium,jetairfly,,2026-11-05T23:26:22.414138+00:00
+United States Air Force,,AIO,United States,32,0,0,32,11.2,medium,united-states-air-force,,2026-11-05T23:26:22.414138+00:00
+Blue Air,0B,JOR,Romania,31,0,0,31,11.2,medium,blue-air,,2026-11-05T23:26:22.414138+00:00
+Nok Air,DD,NOK,Thailand,31,0,0,31,11.2,medium,nok-air,,2026-11-05T23:26:22.414138+00:00
+Comair,MN,CAW,South Africa,30,0,0,30,11.2,medium,comair-2,,2026-11-05T23:26:22.414138+00:00
+Tuninter,X3,TUI,Tunisia,30,0,0,30,11.2,medium,tuninter,,2026-11-05T23:26:22.414138+00:00
+Air Astana,KC,KZR,Kazakhstan,29,0,0,29,11.2,medium,air-astana,,2026-11-05T23:26:22.414138+00:00
+Azerbaijan Airlines,J2,AHY,Azerbaijan,29,0,0,29,11.2,medium,azerbaijan-airlines,,2026-11-05T23:26:22.414138+00:00
+Jeju Air,7C,JJA,Republic of Korea,29,0,0,29,11.2,medium,jeju-air,,2026-11-05T23:26:22.414138+00:00
+Porter Airlines,PD,POE,Canada,29,0,0,29,11.2,medium,porter-airlines,,2026-11-05T23:26:22.414138+00:00
+LAN Peru,LP,LPE,Peru,28,0,0,28,11.2,medium,lan-peru,,2026-11-05T23:26:22.414138+00:00
+Sky Airline,H2,SKU,Chile,28,0,0,28,11.2,medium,sky-airline,,2026-11-05T23:26:22.414138+00:00
+Boliviana de Aviacion (OB),OB,BOV,Bolivia,27,0,0,27,11.2,medium,boliviana-de-aviacion-ob,,2026-11-05T23:26:22.414138+00:00
+Skymark Airlines,BC,SKY,Japan,27,0,0,27,11.2,medium,skymark-airlines,,2026-11-05T23:26:22.414138+00:00
+Turkmenistan Airlines,T5,TUA,Turkmenistan,27,0,0,27,11.2,medium,turkmenistan-airlines,,2026-11-05T23:26:22.414138+00:00
+West Air China,PN,CHB,China,27,0,0,27,11.2,medium,west-air-china,,2026-11-05T23:26:22.414138+00:00
+Air Vistara,UK,VTI,India,26,0,0,26,11.2,medium,air-vistara,,2026-11-05T23:26:22.414138+00:00
+Austral Lineas Aereas,AU,AUT,Argentina,26,0,0,26,11.2,medium,austral-lineas-aereas,,2026-11-05T23:26:22.414138+00:00
+Binter Canarias,NT,IBB,Spain,26,0,0,26,11.2,medium,binter-canarias,,2026-11-05T23:26:22.414138+00:00
+Compass Airlines,CP,CPZ,United States,26,0,0,26,11.2,medium,compass-airlines,,2026-11-05T23:26:22.414138+00:00
+Germania,ST,GMI,Germany,26,0,0,26,11.2,medium,germania,,2026-11-05T23:26:22.414138+00:00
+Iberia Express,I2,IBS,Spain,26,0,0,26,11.2,medium,iberia-express,,2026-11-05T23:26:22.414138+00:00
+Pobeda,DP,PBD,Russia,26,0,0,26,11.2,medium,pobeda,,2026-11-05T23:26:22.414138+00:00
+SriLankan Airlines,UL,ALK,Sri Lanka,26,0,0,26,11.2,medium,srilankan-airlines,,2026-11-05T23:26:22.414138+00:00
+Royal Jordanian,RJ,RJA,Jordan,25,0,0,25,11.2,medium,royal-jordanian,,2026-11-05T23:26:22.414138+00:00
+Yamal Airlines,YL,LLM,Russia,25,0,0,25,11.2,medium,yamal-airlines,,2026-11-05T23:26:22.414138+00:00
+BA CityFlyer,CJ,CFE,United Kingdom,24,0,0,24,11.2,medium,ba-cityflyer,,2026-11-05T23:26:22.414138+00:00
+Meridiana,IG,ISS,Italy,24,0,0,24,11.2,medium,meridiana,,2026-11-05T23:26:22.414138+00:00
+Onur Air,8Q,OHY,Turkey,24,0,0,24,11.2,medium,onur-air,,2026-11-05T23:26:22.414138+00:00
+Air Busan,BX,ABL,Republic of Korea,23,0,0,23,11.2,medium,air-busan,,2026-11-05T23:26:22.414138+00:00
+AirAsia X,D7,XAX,Malaysia,23,0,0,23,11.2,medium,airasia-x,,2026-11-05T23:26:22.414138+00:00
+Atlasjet,KK,KKK,Turkey,23,0,0,23,11.2,medium,atlasjet,,2026-11-05T23:26:22.414138+00:00
+Jin Air,LJ,JNA,South Korea,23,0,0,23,11.2,medium,jin-air,,2026-11-05T23:26:22.414138+00:00
+Trans States Airlines,AX,LOF,United States,23,0,0,23,11.2,medium,trans-states-airlines,,2026-11-05T23:26:22.414138+00:00
+Air India Express,IX,AXB,India,22,0,0,22,11.2,medium,air-india-express,,2026-11-05T23:26:22.414138+00:00
+Helvetic Airways,2L,OAW,Switzerland,22,0,0,22,11.2,medium,helvetic-airways,,2026-11-05T23:26:22.414138+00:00
+Indonesia AirAsia,QZ,AWQ,Indonesia,22,0,0,22,11.2,medium,indonesia-airasia,,2026-11-05T23:26:22.414138+00:00
+Iran Aseman Airlines,EP,IRC,Iran,22,0,0,22,11.2,medium,iran-aseman-airlines,,2026-11-05T23:26:22.414138+00:00
+Lufthansa Cargo,LH,GEC,Germany,22,0,0,22,11.2,medium,lufthansa-cargo,,2026-11-05T23:26:22.414138+00:00
+Middle East Airlines,ME,MEA,Lebanon,22,0,0,22,11.2,medium,middle-east-airlines,,2026-11-05T23:26:22.414138+00:00
+Brussels Airlines,Y9,DAT,Belgium,21,0,0,21,11.2,medium,brussels-airlines,,2026-11-05T23:26:22.414138+00:00
+CityJet,WX,BCY,Ireland,21,0,0,21,11.2,medium,cityjet,,2026-11-05T23:26:22.414138+00:00
+Hebei Airlines,NS,HBH,China,21,0,0,21,11.2,medium,hebei-airlines,,2026-11-05T23:26:22.414138+00:00
+Jetstar Japan,GK,JJP,Japan,21,0,0,21,11.2,medium,jetstar-japan,,2026-11-05T23:26:22.414138+00:00
+Shaheen Air International,NL,SAI,Pakistan,21,0,0,21,11.2,medium,shaheen-air-international,,2026-11-05T23:26:22.414138+00:00
+Brazilian Air Force,,BRS,Brazil,20,0,0,20,11.2,medium,brazilian-air-force,,2026-11-05T23:26:22.414138+00:00
+British Midland Regional,,BMR,United Kingdom,20,0,0,20,11.2,medium,british-midland-regional,,2026-11-05T23:26:22.414138+00:00
+Hong Kong Express Airways,UO,HKE,Hong Kong SAR of China,20,0,0,20,11.2,medium,hong-kong-express-airways,,2026-11-05T23:26:22.414138+00:00
+Luxair,LG,LGL,Luxembourg,20,0,0,20,11.2,medium,luxair,,2026-11-05T23:26:22.414138+00:00
+Conviasa,V0,VCV,Venezuela,19,0,0,19,11.2,medium,conviasa,,2026-11-05T23:26:22.414138+00:00
+Tway Airlines,TW,TWB,South Korea,19,0,0,19,11.2,medium,tway-airlines,,2026-11-05T23:26:22.414138+00:00
+Aeroflot-Nord,5N,AUL,Russia,18,0,0,18,11.2,medium,aeroflot-nord,,2026-11-05T23:26:22.414138+00:00
+Aeromar,VW,TAO,Mexico,18,0,0,18,11.2,medium,aeromar-2,,2026-11-05T23:26:22.414138+00:00
+Air Mauritius,MK,MAU,Mauritius,18,0,0,18,11.2,medium,air-mauritius,,2026-11-05T23:26:22.414138+00:00
+Biman Bangladesh Airlines,BG,BBC,Bangladesh,18,0,0,18,11.2,medium,biman-bangladesh-airlines,,2026-11-05T23:26:22.414138+00:00
+Caribbean Airlines,BW,BWA,Trinidad and Tobago,18,0,0,18,11.2,medium,caribbean-airlines,,2026-11-05T23:26:22.414138+00:00
+Eastar Jet,ZE,ESR,South Korea,18,0,0,18,11.2,medium,eastar-jet,,2026-11-05T23:26:22.414138+00:00
+Jetstar Asia Airways,3K,JSA,Singapore,18,0,0,18,11.2,medium,jetstar-asia-airways,,2026-11-05T23:26:22.414138+00:00
+LAN Argentina,4M,DSM,Argentina,18,0,0,18,11.2,medium,lan-argentina,,2026-11-05T23:26:22.414138+00:00
+Piedmont Airlines (1948-1989),PT,PDT,United States,18,0,0,18,11.2,medium,piedmont-airlines-1948-1989,,2026-11-05T23:26:22.414138+00:00
+VIM Airlines,NN,MOV,Russia,18,0,0,18,11.2,medium,vim-airlines,,2026-11-05T23:26:22.414138+00:00
+Air Macau,NX,AMU,Macao,17,0,0,17,11.2,medium,air-macau,,2026-11-05T23:26:22.414138+00:00
+Air Southwest,,WOW,United Kingdom,17,0,0,17,11.2,medium,air-southwest,,2026-11-05T23:26:22.414138+00:00
+DAT Danish Air Transport,DX,DTR,Denmark,17,0,0,17,11.2,medium,dat-danish-air-transport,,2026-11-05T23:26:22.414138+00:00
+First Air,7F,FAB,Canada,17,0,0,17,11.2,medium,first-air,,2026-11-05T23:26:22.414138+00:00
+Jetstar Pacific,BL,PIC,Vietnam,17,0,0,17,11.2,medium,jetstar-pacific,,2026-11-05T23:26:22.414138+00:00
+Uni Air,B7,UIA,Taiwan,17,0,0,17,11.2,medium,uni-air,,2026-11-05T23:26:22.414138+00:00
+Air Niugini,PX,ANG,Papua New Guinea,16,0,0,16,11.2,medium,air-niugini,,2026-11-05T23:26:22.414138+00:00
+Edelweiss Air,WK,EDW,Switzerland,16,0,0,16,11.2,medium,edelweiss-air,,2026-11-05T23:26:22.414138+00:00
+GX Airlines,GX,CBG,China,16,0,0,16,11.2,medium,gx-airlines,,2026-11-05T23:26:22.414138+00:00
+Malta Air,AL,MAY,International,16,0,0,16,11.2,medium,malta-air,,2026-11-05T23:26:22.414138+00:00
+Network Aviation,QF,NWK,International,16,0,0,16,11.2,medium,network-aviation,,2026-11-05T23:26:22.414138+00:00
+Air Caraïbes,TX,FWI,France,15,0,0,15,11.2,medium,air-caraïbes,,2026-11-05T23:26:22.414138+00:00
+American Eagle Airlines,MQ,EGF,United States,15,0,0,15,11.2,medium,american-eagle-airlines,,2026-11-05T23:26:22.414138+00:00
+Chongqing Airlines,OQ,CQN,China,15,0,0,15,11.2,medium,chongqing-airlines,,2026-11-05T23:26:22.414138+00:00
+Croatia Airlines,OU,CTN,Croatia,15,0,0,15,11.2,medium,croatia-airlines,,2026-11-05T23:26:22.414138+00:00
+Japan Transocean Air,NU,JTA,Japan,15,0,0,15,11.2,medium,japan-transocean-air,,2026-11-05T23:26:22.414138+00:00
+Omni Air International,OY,OAE,United States,15,0,0,15,11.2,medium,omni-air-international,,2026-11-05T23:26:22.414138+00:00
+South East Asian Airlines,DG,SRQ,Philippines,15,0,0,15,11.2,medium,south-east-asian-airlines,,2026-11-05T23:26:22.414138+00:00
+TrasBrasil,I3,TBZ,Brazil,15,0,0,15,11.2,medium,trasbrasil,,2026-11-05T23:26:22.414138+00:00
+Adria Airways,JP,ADR,Slovenia,14,0,0,14,11.2,medium,adria-airways,,2026-11-05T23:26:22.414138+00:00
+Air Dolomiti,EN,DLA,Italy,14,0,0,14,11.2,medium,air-dolomiti,,2026-11-05T23:26:22.414138+00:00
+Air Philippines,2P,GAP,Philippines,14,0,0,14,11.2,medium,air-philippines,,2026-11-05T23:26:22.414138+00:00
+Arkefly,OR,TFL,Netherlands,14,0,0,14,11.2,medium,arkefly,,2026-11-05T23:26:22.414138+00:00
+Canadian North,5T,MPE,Canada,14,0,0,14,11.2,medium,canadian-north,,2026-11-05T23:26:22.414138+00:00
+Contact Air,Y9,KIS,Germany,14,0,0,14,11.2,medium,contact-air,,2026-11-05T23:26:22.414138+00:00
+easyJet Europe,EC,EJU,International,14,0,0,14,11.2,medium,easyjet-europe,,2026-11-05T23:26:22.414138+00:00
+Myanma Airways,UB,UBA,Myanmar,14,0,0,14,11.2,medium,myanma-airways,,2026-11-05T23:26:22.414138+00:00
+VivaColombia,5Z,VVC,Colombia,14,0,0,14,11.2,medium,vivacolombia,,2026-11-05T23:26:22.414138+00:00
+Air KBZ,K7,KBZ,Burma,13,0,0,13,11.2,medium,air-kbz,,2026-11-05T23:26:22.414138+00:00
+Air Pacific,FJ,FJI,Fiji,13,0,0,13,11.2,medium,air-pacific,,2026-11-05T23:26:22.414138+00:00
+Fuzhou Airlines,FU,FZA,China,13,0,0,13,11.2,medium,fuzhou-airlines,,2026-11-05T23:26:22.414138+00:00
+Hokkaido International Airlines,HD,ADO,Japan,13,0,0,13,11.2,medium,hokkaido-international-airlines,,2026-11-05T23:26:22.414138+00:00
+Libyan Arab Airlines,LN,LAA,Libya,13,0,0,13,11.2,medium,libyan-arab-airlines,,2026-11-05T23:26:22.414138+00:00
+TAAG Angola Airlines,DT,DTA,Angola,13,0,0,13,11.2,medium,taag-angola-airlines,,2026-11-05T23:26:22.414138+00:00
+Aigle Azur,ZI,AAF,France,12,0,0,12,11.2,medium,aigle-azur,,2026-11-05T23:26:22.414138+00:00
+Air Atlanta Icelandic,CC,ABD,Iceland,12,0,0,12,11.2,medium,air-atlanta-icelandic,,2026-11-05T23:26:22.414138+00:00
+Air Austral,UU,REU,France,12,0,0,12,11.2,medium,air-austral,,2026-11-05T23:26:22.414138+00:00
+Air Japan,NQ,AJX,Japan,12,0,0,12,11.2,medium,air-japan,,2026-11-05T23:26:22.414138+00:00
+Blue Panorama Airlines,BV,BPA,Italy,12,0,0,12,11.2,medium,blue-panorama-airlines,,2026-11-05T23:26:22.414138+00:00
+Caspian Airlines,RV,CPN,Iran,12,0,0,12,11.2,medium,caspian-airlines,,2026-11-05T23:26:22.414138+00:00
+Corse-Mediterranee,XK,CCM,France,12,0,0,12,11.2,medium,corse-mediterranee,,2026-11-05T23:26:22.414138+00:00
+EasyFly,VE,EFY,Colombia,12,0,0,12,11.2,medium,easyfly,,2026-11-05T23:26:22.414138+00:00
+EgyptAir Express,,MSE,Egypt,12,0,0,12,11.2,medium,egyptair-express,,2026-11-05T23:26:22.414138+00:00
+Firefly,FY,FFM,Malaysia,12,0,0,12,11.2,medium,firefly,,2026-11-05T23:26:22.414138+00:00
+I-Fly,H5,RSY,Russia,12,0,0,12,11.2,medium,i-fly,,2026-11-05T23:26:22.414138+00:00
+Rwandair Express,WB,RWD,Rwanda,12,0,0,12,11.2,medium,rwandair-express,,2026-11-05T23:26:22.414138+00:00
+Scat Air,DV,VSV,Kazakhstan,12,0,0,12,11.2,medium,scat-air,,2026-11-05T23:26:22.414138+00:00
+TAME,EQ,TAE,Ecuador,12,0,0,12,11.2,medium,tame,,2026-11-05T23:26:22.414138+00:00
+Air Malta,KM,AMC,Malta,11,0,0,11,11.2,medium,air-malta,,2026-11-05T23:26:22.414138+00:00
+Air Namibia,SW,NMB,Namibia,11,0,0,11,11.2,medium,air-namibia,,2026-11-05T23:26:22.414138+00:00
+Aircompany Yakutia,R3,SYL,Russia,11,0,0,11,11.2,medium,aircompany-yakutia,,2026-11-05T23:26:22.414138+00:00
+Cargoair,,CGF,International,11,0,0,11,11.2,medium,cargoair,,2026-11-05T23:26:22.414138+00:00
+Cimber Air,QI,CIM,Denmark,11,0,0,11,11.2,medium,cimber-air,,2026-11-05T23:26:22.414138+00:00
+Dniproavia,,UDN,Ukraine,11,0,0,11,11.2,medium,dniproavia,,2026-11-05T23:26:22.414138+00:00
+Finncomm Airlines,FC,WBA,Finland,11,0,0,11,11.2,medium,finncomm-airlines,,2026-11-05T23:26:22.414138+00:00
+Jazeera Airways,J9,JZR,Kuwait,11,0,0,11,11.2,medium,jazeera-airways,,2026-11-05T23:26:22.414138+00:00
+Lao Airlines,QV,LAO,Lao Peoples Democratic Republic,11,0,0,11,11.2,medium,lao-airlines,,2026-11-05T23:26:22.414138+00:00
+MNG Airlines,MB,MNB,Turkey,11,0,0,11,11.2,medium,mng-airlines,,2026-11-05T23:26:22.414138+00:00
+Olympic Airlines,OA,OAL,Greece,11,0,0,11,11.2,medium,olympic-airlines,,2026-11-05T23:26:22.414138+00:00
+Royal Brunei Airlines,BI,RBA,Brunei,11,0,0,11,11.2,medium,royal-brunei-airlines,,2026-11-05T23:26:22.414138+00:00
+Skynet Asia Airways,6J,SNJ,Japan,11,0,0,11,11.2,medium,skynet-asia-airways,,2026-11-05T23:26:22.414138+00:00
+Star Flyer,7G,SFJ,Japan,11,0,0,11,11.2,medium,star-flyer,,2026-11-05T23:26:22.414138+00:00
+Widerøe,WF,WIF,Norway,11,0,0,11,11.2,medium,widerøe,,2026-11-05T23:26:22.414138+00:00
+Belair Airlines,4T,BHP,Switzerland,10,0,0,10,11.2,medium,belair-airlines,,2026-11-05T23:26:22.414138+00:00
+Bulgaria Air,FB,LZB,Bulgaria,10,0,0,10,11.2,medium,bulgaria-air,,2026-11-05T23:26:22.414138+00:00
+Eurowings Europe,E2,EWE,International,10,0,0,10,11.2,medium,eurowings-europe,,2026-11-05T23:26:22.414138+00:00
+Far Eastern Air Transport,QE,EFA,Taiwan,10,0,0,10,11.2,medium,far-eastern-air-transport,,2026-11-05T23:26:22.414138+00:00
+FlyLAL Charters,,LLC,Lithuania,10,0,0,10,11.2,medium,flylal-charters,,2026-11-05T23:26:22.414138+00:00
+Ibex Airlines,FW,IBX,Japan,10,0,0,10,11.2,medium,ibex-airlines,,2026-11-05T23:26:22.414138+00:00
+Mango,JE,MNO,South Africa,10,0,0,10,11.2,medium,mango,,2026-11-05T23:26:22.414138+00:00
+Nesma Airlines,NE,NMA,Egypt,10,0,0,10,11.2,medium,nesma-airlines,,2026-11-05T23:26:22.414138+00:00
+Passaredo Transportes Aereos,2Z,PTB,Brazil,10,0,0,10,11.2,medium,passaredo-transportes-aereos,,2026-11-05T23:26:22.414138+00:00
+Syrian Arab Airlines,RB,SYR,Syrian Arab Republic,10,0,0,10,11.2,medium,syrian-arab-airlines,,2026-11-05T23:26:22.414138+00:00
+VLM Airlines,VG,VLM,Belgium,10,0,0,10,11.2,medium,vlm-airlines,,2026-11-05T23:26:22.414138+00:00
+Aero Contractors,AJ,NIG,Nigeria,9,0,0,9,11.2,medium,aero-contractors,,2026-11-05T23:26:22.414138+00:00
+Air Moldova,9U,MLD,Moldova,9,0,0,9,11.2,medium,air-moldova,,2026-11-05T23:26:22.414138+00:00
+Air Tahiti,VT,VTA,French Polynesia,9,0,0,9,11.2,medium,air-tahiti,,2026-11-05T23:26:22.414138+00:00
+Air Tahiti Nui,TN,THT,France,9,0,0,9,11.2,medium,air-tahiti-nui,,2026-11-05T23:26:22.414138+00:00
+Airblue,ED,ABQ,Pakistan,9,0,0,9,11.2,medium,airblue,,2026-11-05T23:26:22.414138+00:00
+AlbaStar,AP,LAV,Spain,9,0,0,9,11.2,medium,albastar,,2026-11-05T23:26:22.414138+00:00
+Bahamasair,UP,BHS,Bahamas,9,0,0,9,11.2,medium,bahamasair,,2026-11-05T23:26:22.414138+00:00
+Cubana de Aviación,CU,CUB,Cuba,9,0,0,9,11.2,medium,cubana-de-aviación,,2026-11-05T23:26:22.414138+00:00
+Georgian Airways,A9,TGZ,Georgia,9,0,0,9,11.2,medium,georgian-airways,,2026-11-05T23:26:22.414138+00:00
+Kam Air,RQ,KMF,Afghanistan,9,0,0,9,11.2,medium,kam-air,,2026-11-05T23:26:22.414138+00:00
+Leeward Islands Air Transport,LI,LIA,Antigua and Barbuda,9,0,0,9,11.2,medium,leeward-islands-air-transport,,2026-11-05T23:26:22.414138+00:00
+National Air Cargo,N8,NCR,United States,9,0,0,9,11.2,medium,national-air-cargo,,2026-11-05T23:26:22.414138+00:00
+Nouvel Air Tunisie,BJ,LBT,Tunisia,9,0,0,9,11.2,medium,nouvel-air-tunisie,,2026-11-05T23:26:22.414138+00:00
+Royal Flight,,DME,Russia,9,0,0,9,11.2,medium,royal-flight,,2026-11-05T23:26:22.414138+00:00
+Rusline,7R,RLU,Russia,9,0,0,9,11.2,medium,rusline,,2026-11-05T23:26:22.414138+00:00
+Singapore Airlines Cargo,SQ,SQC,Singapore,9,0,0,9,11.2,medium,singapore-airlines-cargo,,2026-11-05T23:26:22.414138+00:00
+TUIfly Nordic,6B,BLX,Sweden,9,0,0,9,11.2,medium,tuifly-nordic,,2026-11-05T23:26:22.414138+00:00
+Aerolineas Galapagos (Aerogal),2K,GLG,Ecuador,8,0,0,8,11.2,medium,aerolineas-galapagos-aerogal,,2026-11-05T23:26:22.414138+00:00
+Aeronautica Militare,,IAM,Italy,8,0,0,8,11.2,medium,aeronautica-militare,,2026-11-05T23:26:22.414138+00:00
+Air North Charter - Canada,4N,ANT,Canada,8,0,0,8,11.2,medium,air-north-charter-canada,,2026-11-05T23:26:22.414138+00:00
+Arkia Israel Airlines,IZ,AIZ,Israel,8,0,0,8,11.2,medium,arkia-israel-airlines,,2026-11-05T23:26:22.414138+00:00
+Corsairfly,SS,CRL,France,8,0,0,8,11.2,medium,corsairfly,,2026-11-05T23:26:22.414138+00:00
+Czech Airlines,OK,CSA,Czech Republic,8,0,0,8,11.2,medium,czech-airlines,,2026-11-05T23:26:22.414138+00:00
+Globus,GH,GLP,Russia,8,0,0,8,11.2,medium,globus,,2026-11-05T23:26:22.414138+00:00
+Lauda Motion (Amira Air),,LDM,International,8,0,0,8,11.2,medium,lauda-motion-amira-air,,2026-11-05T23:26:22.414138+00:00
+Morningstar Air Express,,MAL,Canada,8,0,0,8,11.2,medium,morningstar-air-express,,2026-11-05T23:26:22.414138+00:00
+Precision Air,PW,PRF,Tanzania,8,0,0,8,11.2,medium,precision-air,,2026-11-05T23:26:22.414138+00:00
+SATA International,S4,RZO,Portugal,8,0,0,8,11.2,medium,sata-international,,2026-11-05T23:26:22.414138+00:00
+Wind Rose Aviation,7W,WRC,Ukraine,8,0,0,8,11.2,medium,wind-rose-aviation,,2026-11-05T23:26:22.414138+00:00
+Abu Dhabi Amiri Flight,MO,AUH,United Arab Emirates,7,0,0,7,11.2,medium,abu-dhabi-amiri-flight,,2026-11-05T23:26:22.414138+00:00
+Afriqiyah Airways,8U,AAW,Libya,7,0,0,7,11.2,medium,afriqiyah-airways,,2026-11-05T23:26:22.414138+00:00
+Air Tanzania,TC,ATC,Tanzania,7,0,0,7,11.2,medium,air-tanzania,,2026-11-05T23:26:22.414138+00:00
+Israir,6H,ISR,Israel,7,0,0,7,11.2,medium,israir,,2026-11-05T23:26:22.414138+00:00
+Kal Star Aviation,,KLS,Indonesia,7,0,0,7,11.2,medium,kal-star-aviation,,2026-11-05T23:26:22.414138+00:00
+Lauda Air,NG,LDA,Austria,7,0,0,7,11.2,medium,lauda-air,,2026-11-05T23:26:22.414138+00:00
+Linhas A,TM,LAM,Mozambique,7,0,0,7,11.2,medium,linhas-a,,2026-11-05T23:26:22.414138+00:00
+Malta Air Charter,3O,MAC,Malta,7,0,0,7,11.2,medium,malta-air-charter,,2026-11-05T23:26:22.414138+00:00
+Malta MedAir,MM,MMO,International,7,0,0,7,11.2,medium,malta-medair,,2026-11-05T23:26:22.414138+00:00
+Nile Air,NP,NIA,Egypt,7,0,0,7,11.2,medium,nile-air,,2026-11-05T23:26:22.414138+00:00
+Orient Thai Airlines,OX,OEA,Thailand,7,0,0,7,11.2,medium,orient-thai-airlines,,2026-11-05T23:26:22.414138+00:00
+Overland Airways,OJ,OLA,Nigeria,7,0,0,7,11.2,medium,overland-airways,,2026-11-05T23:26:22.414138+00:00
+Red Wings,WZ,RWZ,Russia,7,0,0,7,11.2,medium,red-wings,,2026-11-05T23:26:22.414138+00:00
+TRIP Linhas A,T4,TIB,Brazil,7,0,0,7,11.2,medium,trip-linhas-a,,2026-11-05T23:26:22.414138+00:00
+US-Bangla Airlines,BS,UBG,Bangladesh,7,0,0,7,11.2,medium,us-bangla-airlines,,2026-11-05T23:26:22.414138+00:00
+Air Caledonie International,SB,ACI,France,6,0,0,6,11.2,medium,air-caledonie-international,,2026-11-05T23:26:22.414138+00:00
+Air Seychelles,HM,SEY,Seychelles,6,0,0,6,11.2,medium,air-seychelles,,2026-11-05T23:26:22.414138+00:00
+Aires,4C,ARE,S.A.,6,0,0,6,11.2,medium,aires,,2026-11-05T23:26:22.414138+00:00
+Airlines PNG,CG,TOK,Papua New Guinea,6,0,0,6,11.2,medium,airlines-png,,2026-11-05T23:26:22.414138+00:00
+Alrosa Mirny Air Enterprise,6R,DRU,Russia,6,0,0,6,11.2,medium,alrosa-mirny-air-enterprise,,2026-11-05T23:26:22.414138+00:00
+Aurigny Air Services,GR,AUR,United Kingdom,6,0,0,6,11.2,medium,aurigny-air-services,,2026-11-05T23:26:22.414138+00:00
+CEIBA Intercontinental,C2,CEL,Equatorial Guinea,6,0,0,6,11.2,medium,ceiba-intercontinental,,2026-11-05T23:26:22.414138+00:00
+COBALT,,FCB,Cyprus,6,0,0,6,11.2,medium,cobalt,,2026-11-05T23:26:22.414138+00:00
+FlyEgypt,FT,FEG,Egypt,6,0,0,6,11.2,medium,flyegypt,,2026-11-05T23:26:22.414138+00:00
+Maleth-Aero,DB,MLT,International,6,0,0,6,11.2,medium,maleth-aero,,2026-11-05T23:26:22.414138+00:00
+Mandarin Airlines,AE,MDA,Taiwan,6,0,0,6,11.2,medium,mandarin-airlines,,2026-11-05T23:26:22.414138+00:00
+Mauritania Airlines International,L6,MAI,Mauritania,6,0,0,6,11.2,medium,mauritania-airlines-international,,2026-11-05T23:26:22.414138+00:00
+Montenegro Airlines,YM,MGX,Montenegro,6,0,0,6,11.2,medium,montenegro-airlines,,2026-11-05T23:26:22.414138+00:00
+QantasLink / National Jet Systems,QF,QJE,International,6,0,0,6,11.2,medium,qantaslink-national-jet-systems,,2026-11-05T23:26:22.414138+00:00
+Sky Express,G3,SEH,Greece,6,0,0,6,11.2,medium,sky-express-2,,2026-11-05T23:26:22.414138+00:00
+Spring Airlines Japan,IJ,SJO,Japan,6,0,0,6,11.2,medium,spring-airlines-japan,,2026-11-05T23:26:22.414138+00:00
+Transaero Airlines,UN,TSO,Russia,6,0,0,6,11.2,medium,transaero-airlines,,2026-11-05T23:26:22.414138+00:00
+ViaAir,,SRY,United States,6,0,0,6,11.2,medium,viaair,,2026-11-05T23:26:22.414138+00:00
+XL Airways France,U5,SEU,France,6,0,0,6,11.2,medium,xl-airways-france,,2026-11-05T23:26:22.414138+00:00
+Aerolane,XL,LNE,Ecuador,5,0,0,5,11.2,medium,aerolane,,2026-11-05T23:26:22.414138+00:00
+Air Botswana,BP,BOT,Botswana,5,0,0,5,11.2,medium,air-botswana,,2026-11-05T23:26:22.414138+00:00
+Air Guyane,GG,GUY,French Guiana,5,0,0,5,11.2,medium,air-guyane,,2026-11-05T23:26:22.414138+00:00
+Air Madagascar,MD,MDG,Madagascar,5,0,0,5,11.2,medium,air-madagascar,,2026-11-05T23:26:22.414138+00:00
+Air Zimbabwe,UM,AZW,Zimbabwe,5,0,0,5,11.2,medium,air-zimbabwe,,2026-11-05T23:26:22.414138+00:00
+AlMasria Universal Airlines,UJ,LMU,Egypt,5,0,0,5,11.2,medium,almasria-universal-airlines,,2026-11-05T23:26:22.414138+00:00
+Aloha Airlines,AQ,AAH,United States,5,0,0,5,11.2,medium,aloha-airlines,,2026-11-05T23:26:22.414138+00:00
+Ariana Afghan Airlines,FG,AFG,Afghanistan,5,0,0,5,11.2,medium,ariana-afghan-airlines,,2026-11-05T23:26:22.414138+00:00
+Aserca Airlines,R7,OCA,Venezuela,5,0,0,5,11.2,medium,aserca-airlines,,2026-11-05T23:26:22.414138+00:00
+ATRAN Cargo Airlines,V8,VAS,Russian Federation,5,0,0,5,11.2,medium,atran-cargo-airlines,,2026-11-05T23:26:22.414138+00:00
+Cayman Airways,KX,CAY,Cayman Islands,5,0,0,5,11.2,medium,cayman-airways,,2026-11-05T23:26:22.414138+00:00
+Eastern Airways,T3,EZE,United Kingdom,5,0,0,5,11.2,medium,eastern-airways,,2026-11-05T23:26:22.414138+00:00
+El-Buraq Air Transport,UZ,BRQ,Libya,5,0,0,5,11.2,medium,el-buraq-air-transport,,2026-11-05T23:26:22.414138+00:00
+Kuzu Airlines Cargo,GO,KZU,Turkey,5,0,0,5,11.2,medium,kuzu-airlines-cargo,,2026-11-05T23:26:22.414138+00:00
+Norwegian Air Shuttle,DY,NOZ,International,5,0,0,5,11.2,medium,norwegian-air-shuttle-2,,2026-11-05T23:26:22.414138+00:00
+Royal Nepal Airlines,RA,RNA,Nepal,5,0,0,5,11.2,medium,royal-nepal-airlines,,2026-11-05T23:26:22.414138+00:00
+Santa Barbara Airlines,S3,BBR,Venezuela,5,0,0,5,11.2,medium,santa-barbara-airlines,,2026-11-05T23:26:22.414138+00:00
+Sprintair,,SRN,Poland,5,0,0,5,11.2,medium,sprintair,,2026-11-05T23:26:22.414138+00:00
+TAMPA,QT,TPA,Colombia,5,0,0,5,11.2,medium,tampa,,2026-11-05T23:26:22.414138+00:00
+Turkuaz Airlines,,TRK,Turkey,5,0,0,5,11.2,medium,turkuaz-airlines,,2026-11-05T23:26:22.414138+00:00
+Uzbekistan Airways,HY,UZB,Uzbekistan,5,0,0,5,11.2,medium,uzbekistan-airways,,2026-11-05T23:26:22.414138+00:00
+AeroRep,P5,RPB,Colombia,4,0,0,4,11.2,low,aerorep,,2026-11-05T23:26:22.414138+00:00
+Airnorth,TL,ANO,Australia,4,0,0,4,11.2,low,airnorth,,2026-11-05T23:26:22.414138+00:00
+Amaszonas,Z8,AZN,Bolivia,4,0,0,4,11.2,low,amaszonas,,2026-11-05T23:26:22.414138+00:00
+Atlantic Airways,RC,FLI,Faroe Islands,4,0,0,4,11.2,low,atlantic-airways,,2026-11-05T23:26:22.414138+00:00
+CAL Cargo Air Lines,5C,ICL,Israel,4,0,0,4,11.2,low,cal-cargo-air-lines,,2026-11-05T23:26:22.414138+00:00
+Canaryfly,PM,CNF,Spain,4,0,0,4,11.2,low,canaryfly,,2026-11-05T23:26:22.414138+00:00
+City Airline,SR,SDR,Sweden,4,0,0,4,11.2,low,city-airline,,2026-11-05T23:26:22.414138+00:00
+Darwin Airline,0D,DWT,Switzerland,4,0,0,4,11.2,low,darwin-airline,,2026-11-05T23:26:22.414138+00:00
+Druk Air,KB,DRK,Bhutan,4,0,0,4,11.2,low,druk-air,,2026-11-05T23:26:22.414138+00:00
+easyJet Switzerland,DS,EZS,International,4,0,0,4,11.2,low,easyjet-switzerland,,2026-11-05T23:26:22.414138+00:00
+Eritrean Airlines,B8,ERT,Eritrea,4,0,0,4,11.2,low,eritrean-airlines,,2026-11-05T23:26:22.414138+00:00
+MIAT Mongolian Airlines,OM,MGL,Mongolia,4,0,0,4,11.2,low,miat-mongolian-airlines,,2026-11-05T23:26:22.414138+00:00
+Myanmar Airways International,8M,MMM,Myanmar,4,0,0,4,11.2,low,myanmar-airways-international,,2026-11-05T23:26:22.414138+00:00
+Novair,N9,NVR,Sweden,4,0,0,4,11.2,low,novair,,2026-11-05T23:26:22.414138+00:00
+Qatar Executive,QE,QQE,International,4,0,0,4,11.2,low,qatar-executive,,2026-11-05T23:26:22.414138+00:00
+Regional Express,ZL,RXA,Australia,4,0,0,4,11.2,low,regional-express,,2026-11-05T23:26:22.414138+00:00
+Royal Air Cambodge,VJ,RAC,Cambodia,4,0,0,4,11.2,low,royal-air-cambodge,,2026-11-05T23:26:22.414138+00:00
+SAS Connect,SL,SZS,International,4,0,0,4,11.2,low,sas-connect,,2026-11-05T23:26:22.414138+00:00
+SATA Air Acores,SP,SAT,Portugal,4,0,0,4,11.2,low,sata-air-acores,,2026-11-05T23:26:22.414138+00:00
+Sky Express,XW,SXR,Russia,4,0,0,4,11.2,low,sky-express-3,,2026-11-05T23:26:22.414138+00:00
+Sudan Airways,SD,SUD,Sudan,4,0,0,4,11.2,low,sudan-airways,,2026-11-05T23:26:22.414138+00:00
+Surinam Airways,PY,SLM,Suriname,4,0,0,4,11.2,low,surinam-airways,,2026-11-05T23:26:22.414138+00:00
+Thai Vietjet Air,VZ,TVJ,Thailand,4,0,0,4,11.2,low,thai-vietjet-air,,2026-11-05T23:26:22.414138+00:00
+TransNusa Air,8B,TNU,Indonesia,4,0,0,4,11.2,low,transnusa-air,,2026-11-05T23:26:22.414138+00:00
+Yemenia,IY,IYE,Yemen,4,0,0,4,11.2,low,yemenia,,2026-11-05T23:26:22.414138+00:00
+Yeti Airlines,,NYT,Nepal,4,0,0,4,11.2,low,yeti-airlines,,2026-11-05T23:26:22.414138+00:00
+Air Explore,ED,AXE,Slovakia,3,0,0,3,11.2,low,air-explore,,2026-11-05T23:26:22.414138+00:00
+Air Iceland,NY,FXI,Iceland,3,0,0,3,11.2,low,air-iceland,,2026-11-05T23:26:22.414138+00:00
+Air Senegal,HC,SZN,International,3,0,0,3,11.2,low,air-senegal,,2026-11-05T23:26:22.414138+00:00
+AMC Airlines,,AMV,Egypt,3,0,0,3,11.2,low,amc-airlines,,2026-11-05T23:26:22.414138+00:00
+AtlasGlobal Ukraine,,UJX,Ukraine,3,0,0,3,11.2,low,atlasglobal-ukraine,,2026-11-05T23:26:22.414138+00:00
+Bassaka airlines,5B,BSX,Cambodia,3,0,0,3,11.2,low,bassaka-airlines,,2026-11-05T23:26:22.414138+00:00
+Cape Air,9K,KAP,United States,3,0,0,3,11.2,low,cape-air,,2026-11-05T23:26:22.414138+00:00
+Carpatair,V3,KRP,Romania,3,0,0,3,11.2,low,carpatair,,2026-11-05T23:26:22.414138+00:00
+CCML Airlines,CW,CCC,Colombia,3,0,0,3,11.2,low,ccml-airlines,,2026-11-05T23:26:22.414138+00:00
+Felix Airways,FU,FXX,Yemen,3,0,0,3,11.2,low,felix-airways,,2026-11-05T23:26:22.414138+00:00
+Fly One,F5,FI5,Moldova,3,0,0,3,11.2,low,fly-one,,2026-11-05T23:26:22.414138+00:00
+French Bee,BF,FBU,International,3,0,0,3,11.2,low,french-bee,,2026-11-05T23:26:22.414138+00:00
+Gazpromavia,4G,GZP,Russia,3,0,0,3,11.2,low,gazpromavia,,2026-11-05T23:26:22.414138+00:00
+Golden Myanmar Airlines,Y5,GMR,Burma,3,0,0,3,11.2,low,golden-myanmar-airlines,,2026-11-05T23:26:22.414138+00:00
+Grand China Air,CN,GDC,China,3,0,0,3,11.2,low,grand-china-air,,2026-11-05T23:26:22.414138+00:00
+Himalaya Airlines,H9,HIM,International,3,0,0,3,11.2,low,himalaya-airlines,,2026-11-05T23:26:22.414138+00:00
+Lufthansa CityLine,CL,CLH,Germany,3,0,0,3,11.2,low,lufthansa-cityline,,2026-11-05T23:26:22.414138+00:00
+Mexicana de Aviaci,MX,MXA,Mexico,3,0,0,3,11.2,low,mexicana-de-aviaci,,2026-11-05T23:26:22.414138+00:00
+Sky Angkor Airlines (ZA),ZA,SWM,Cambodia,3,0,0,3,11.2,low,sky-angkor-airlines-za,,2026-11-05T23:26:22.414138+00:00
+SkyUp Airlines,,SQP,International,3,0,0,3,11.2,low,skyup-airlines,,2026-11-05T23:26:22.414138+00:00
+Thomas Cook Airlines,FQ,TCW,Belgium,3,0,0,3,11.2,low,thomas-cook-airlines,,2026-11-05T23:26:22.414138+00:00
+United Airways,UD,UBD,Bangladesh,3,0,0,3,11.2,low,united-airways,,2026-11-05T23:26:22.414138+00:00
+Wizz Air UK,W9,WUK,International,3,0,0,3,11.2,low,wizz-air-uk,,2026-11-05T23:26:22.414138+00:00
+Aero K,RF,EOK,International,2,0,0,2,11.2,low,aero-k,,2026-11-05T23:26:22.414138+00:00
+Air Burkina,2J,VBW,Burkina Faso,2,0,0,2,11.2,low,air-burkina,,2026-11-05T23:26:22.414138+00:00
+Air Indus,PP,AI0,Pakistan,2,0,0,2,11.2,low,air-indus,,2026-11-05T23:26:22.414138+00:00
+Air Jamaica,JM,AJM,Jamaica,2,0,0,2,11.2,low,air-jamaica,,2026-11-05T23:26:22.414138+00:00
+Air Vanuatu,NF,AVN,Vanuatu,2,0,0,2,11.2,low,air-vanuatu,,2026-11-05T23:26:22.414138+00:00
+AirAsia Japan,DJ,WAJ,Japan,2,0,0,2,11.2,low,airasia-japan,,2026-11-05T23:26:22.414138+00:00
+Aruba Airlines,AG,ARU,Aruba,2,0,0,2,11.2,low,aruba-airlines,,2026-11-05T23:26:22.414138+00:00
+Asian Wings Airways,AW,AWM,Burma,2,0,0,2,11.2,low,asian-wings-airways,,2026-11-05T23:26:22.414138+00:00
+Blue Air,0B,BMS,International,2,0,0,2,11.2,low,blue-air-2,,2026-11-05T23:26:22.414138+00:00
+Bluebird Airways (BZ),BZ,BBG,Greece,2,0,0,2,11.2,low,bluebird-airways-bz,,2026-11-05T23:26:22.414138+00:00
+CargoLogic Germany,,GCL,International,2,0,0,2,11.2,low,cargologic-germany,,2026-11-05T23:26:22.414138+00:00
+Carpatair Flight Training,,SMW,Romania,2,0,0,2,11.2,low,carpatair-flight-training,,2026-11-05T23:26:22.414138+00:00
+Copterline,,AAQ,Finland,2,0,0,2,11.2,low,copterline,,2026-11-05T23:26:22.414138+00:00
+Denim Air,,DNM,Netherlands,2,0,0,2,11.2,low,denim-air,,2026-11-05T23:26:22.414138+00:00
+Dynamic Airways,2D,DYA,United States,2,0,0,2,11.2,low,dynamic-airways,,2026-11-05T23:26:22.414138+00:00
+Fly 540 Tanzania,,FTZ,International,2,0,0,2,11.2,low,fly-540-tanzania,,2026-11-05T23:26:22.414138+00:00
+Fly Jamaica Airways,OJ,FJM,Jamaica,2,0,0,2,11.2,low,fly-jamaica-airways,,2026-11-05T23:26:22.414138+00:00
+Fly540,5H,FFV,Kenya,2,0,0,2,11.2,low,fly540,,2026-11-05T23:26:22.414138+00:00
+Flyme (VP),VP,VQI,Maldives,2,0,0,2,11.2,low,flyme-vp,,2026-11-05T23:26:22.414138+00:00
+Hi Fly Malta,3L,HFM,International,2,0,0,2,11.2,low,hi-fly-malta,,2026-11-05T23:26:22.414138+00:00
+Indonesa Air Aisa X,XT,IDX,Indonesia,2,0,0,2,11.2,low,indonesa-air-aisa-x,,2026-11-05T23:26:22.414138+00:00
+Interair South Africa,D6,ILN,South Africa,2,0,0,2,11.2,low,interair-south-africa,,2026-11-05T23:26:22.414138+00:00
+ITA Airways,AZ,ITY,International,2,0,0,2,11.2,low,ita-airways,,2026-11-05T23:26:22.414138+00:00
+Japan Asia Airways,JF,JAA,Japan,2,0,0,2,11.2,low,japan-asia-airways,,2026-11-05T23:26:22.414138+00:00
+Korea Express Air,,KEA,South Korea,2,0,0,2,11.2,low,korea-express-air,,2026-11-05T23:26:22.414138+00:00
+LACSA,LR,LRC,Costa Rica,2,0,0,2,11.2,low,lacsa,,2026-11-05T23:26:22.414138+00:00
+LatCharter,,LTC,Latvia,2,0,0,2,11.2,low,latcharter,,2026-11-05T23:26:22.414138+00:00
+Libyan Wings,,LWA,International,2,0,0,2,11.2,low,libyan-wings,,2026-11-05T23:26:22.414138+00:00
+Luxwing,BN,LWG,International,2,0,0,2,11.2,low,luxwing,,2026-11-05T23:26:22.414138+00:00
+Malaysia Wings,3W,MWI,Malaysia,2,0,0,2,11.2,low,malaysia-wings,,2026-11-05T23:26:22.414138+00:00
+Maldivo Airlines,NR,MAV,Maldives,2,0,0,2,11.2,low,maldivo-airlines,,2026-11-05T23:26:22.414138+00:00
+Mann Yadanarpon Airlines,7Y,MYP,Burma,2,0,0,2,11.2,low,mann-yadanarpon-airlines,,2026-11-05T23:26:22.414138+00:00
+Martinair,MP,MPH,Netherlands,2,0,0,2,11.2,low,martinair,,2026-11-05T23:26:22.414138+00:00
+Med-View Airline,VL,MEV,International,2,0,0,2,11.2,low,med-view-airline,,2026-11-05T23:26:22.414138+00:00
+Mega Maldives,LV,MEG,International,2,0,0,2,11.2,low,mega-maldives,,2026-11-05T23:26:22.414138+00:00
+Nordstar Airlines,Y7,TYA,International,2,0,0,2,11.2,low,nordstar-airlines-2,,2026-11-05T23:26:22.414138+00:00
+Pouya Air,,PYA,Iran,2,0,0,2,11.2,low,pouya-air,,2026-11-05T23:26:22.414138+00:00
+Privatair,,PTI,Switzerland,2,0,0,2,11.2,low,privatair,,2026-11-05T23:26:22.414138+00:00
+Royal Falcon,RL,RFJ,Jordan,2,0,0,2,11.2,low,royal-falcon,,2026-11-05T23:26:22.414138+00:00
+Ryanair UK,RK,RUK,International,2,0,0,2,11.2,low,ryanair-uk,,2026-11-05T23:26:22.414138+00:00
+Saratov Aviation Division,6W,SOV,Russia,2,0,0,2,11.2,low,saratov-aviation-division,,2026-11-05T23:26:22.414138+00:00
+ScotAirways,,SAY,United Kingdom,2,0,0,2,11.2,low,scotairways,,2026-11-05T23:26:22.414138+00:00
+Small Planet Airlines,,ELC,Lithuania,2,0,0,2,11.2,low,small-planet-airlines,,2026-11-05T23:26:22.414138+00:00
+SmartLynx Airlines Estonia,,MYX,International,2,0,0,2,11.2,low,smartlynx-airlines-estonia,,2026-11-05T23:26:22.414138+00:00
+Solomon Airlines,IE,SOL,Solomon Islands,2,0,0,2,11.2,low,solomon-airlines,,2026-11-05T23:26:22.414138+00:00
+Sunrise Airways,S6,KSZ,Haiti,2,0,0,2,11.2,low,sunrise-airways,,2026-11-05T23:26:22.414138+00:00
+Svyaz Rossiya,7R,SJM,Russia,2,0,0,2,11.2,low,svyaz-rossiya,,2026-11-05T23:26:22.414138+00:00
+Transair,,TTZ,Canada,2,0,0,2,11.2,low,transair,,2026-11-05T23:26:22.414138+00:00
+Vision Air International,,VIS,Pakistan,2,0,0,2,11.2,low,vision-air-international,,2026-11-05T23:26:22.414138+00:00
+Wataniya Airways,,KW1,Kuwait,2,0,0,2,11.2,low,wataniya-airways,,2026-11-05T23:26:22.414138+00:00
+ACE Belgium Freighters,X7,FRH,International,1,0,0,1,11.2,low,ace-belgium-freighters,,2026-11-05T23:26:22.414138+00:00
+Aeronexus Corporate,,ARN,International,1,0,0,1,11.2,low,aeronexus-corporate,,2026-11-05T23:26:22.414138+00:00
+Air Arabia Egypt,E5,RBG,Egypt,1,0,0,1,11.2,low,air-arabia-egypt,,2026-11-05T23:26:22.414138+00:00
+Air Bagan,W9,JAB,Myanmar,1,0,0,1,11.2,low,air-bagan,,2026-11-05T23:26:22.414138+00:00
+Air Bucharest,,BUR,Romania,1,0,0,1,11.2,low,air-bucharest,,2026-11-05T23:26:22.414138+00:00
+Air Greenland,GL,GRL,Denmark,1,0,0,1,11.2,low,air-greenland,,2026-11-05T23:26:22.414138+00:00
+Air Saint Pierre,PJ,SPM,France,1,0,0,1,11.2,low,air-saint-pierre,,2026-11-05T23:26:22.414138+00:00
+Air VIA,VL,VIM,Bulgaria,1,0,0,1,11.2,low,air-via,,2026-11-05T23:26:22.414138+00:00
+AsiaCargo Express,3G,CXM,International,1,0,0,1,11.2,low,asiacargo-express,,2026-11-05T23:26:22.414138+00:00
+Astral Aviation,8V,ACP,Kenya,1,0,0,1,11.2,low,astral-aviation,,2026-11-05T23:26:22.414138+00:00
+Avcon Jet San Marino,,VAJ,International,1,0,0,1,11.2,low,avcon-jet-san-marino,,2026-11-05T23:26:22.414138+00:00
+Beijing Capital Airlines,JD,CBJ,International,1,0,0,1,11.2,low,beijing-capital-airlines,,2026-11-05T23:26:22.414138+00:00
+Blue1,KF,BLF,Finland,1,0,0,1,11.2,low,blue1,,2026-11-05T23:26:22.414138+00:00
+Cargolux Italia,C8,ICV,International,1,0,0,1,11.2,low,cargolux-italia,,2026-11-05T23:26:22.414138+00:00
+Cello Aviation,,CLJ,United Kingdom,1,0,0,1,11.2,low,cello-aviation,,2026-11-05T23:26:22.414138+00:00
+Cyprus Airways,CY,CYP,Cyprus,1,0,0,1,11.2,low,cyprus-airways,,2026-11-05T23:26:22.414138+00:00
+Daallo Airlines,D3,DAO,Djibouti,1,0,0,1,11.2,low,daallo-airlines,,2026-11-05T23:26:22.414138+00:00
+Dubrovnik Air,,DBK,Croatia,1,0,0,1,11.2,low,dubrovnik-air,,2026-11-05T23:26:22.414138+00:00
+Dutch Antilles Express,,DNL,Netherlands Antilles,1,0,0,1,11.2,low,dutch-antilles-express,,2026-11-05T23:26:22.414138+00:00
+Eastern Air Express,,HWA,International,1,0,0,1,11.2,low,eastern-air-express-2,,2026-11-05T23:26:22.414138+00:00
+Eastok Avia,,EAA,Kyrgyzstan,1,0,0,1,11.2,low,eastok-avia,,2026-11-05T23:26:22.414138+00:00
+Elite Airways,,MNU,International,1,0,0,1,11.2,low,elite-airways,,2026-11-05T23:26:22.414138+00:00
+ETF Airways,LI,EZZ,International,1,0,0,1,11.2,low,etf-airways,,2026-11-05T23:26:22.414138+00:00
+European Air Express,2D,EAL,Germany,1,0,0,1,11.2,low,european-air-express,,2026-11-05T23:26:22.414138+00:00
+EWA Air,ZD,EWR,International,1,0,0,1,11.2,low,ewa-air,,2026-11-05T23:26:22.414138+00:00
+Fars Air Qeshm,,QFZ,Iran,1,0,0,1,11.2,low,fars-air-qeshm,,2026-11-05T23:26:22.414138+00:00
+FOX Linhas Aereas,FX,FOX,Brazil,1,0,0,1,11.2,low,fox-linhas-aereas,,2026-11-05T23:26:22.414138+00:00
+Georgian National Airlines,QB,GFG,Georgia,1,0,0,1,11.2,low,georgian-national-airlines,,2026-11-05T23:26:22.414138+00:00
+German International Air Lines,ZQ,GER,Germany,1,0,0,1,11.2,low,german-international-air-lines,,2026-11-05T23:26:22.414138+00:00
+Go2Sky,6G,RLX,Slovakia,1,0,0,1,11.2,low,go2sky,,2026-11-05T23:26:22.414138+00:00
+Grand Cru Airlines,9A,GCA,Lithuania,1,0,0,1,11.2,low,grand-cru-airlines,,2026-11-05T23:26:22.414138+00:00
+GullivAir,G2,GBG,International,1,0,0,1,11.2,low,gullivair,,2026-11-05T23:26:22.414138+00:00
+Helitt Líneas Aéreas,,HTH,Spain,1,0,0,1,11.2,low,helitt-líneas-aéreas,,2026-11-05T23:26:22.414138+00:00
+HiSky Europe,H4,HYS,International,1,0,0,1,11.2,low,hisky-europe,,2026-11-05T23:26:22.414138+00:00
+Homer Air,MR,OME,Germany,1,0,0,1,11.2,low,homer-air,,2026-11-05T23:26:22.414138+00:00
+Indigo,I9,IBU,United States,1,0,0,1,11.2,low,indigo,,2026-11-05T23:26:22.414138+00:00
+JetKonnect,,JLL,International,1,0,0,1,11.2,low,jetkonnect,,2026-11-05T23:26:22.414138+00:00
+JetNetherlands,,JNL,International,1,0,0,1,11.2,low,jetnetherlands,,2026-11-05T23:26:22.414138+00:00
+Jettime,,JTD,International,1,0,0,1,11.2,low,jettime-2,,2026-11-05T23:26:22.414138+00:00
+KoralBlue Airlines,K7,KBR,Egypt,1,0,0,1,11.2,low,koralblue-airlines,,2026-11-05T23:26:22.414138+00:00
+Kuban Airlines,GW,KIL,Russia,1,0,0,1,11.2,low,kuban-airlines,,2026-11-05T23:26:22.414138+00:00
+MasAir,M7,MAA,Mexico,1,0,0,1,11.2,low,masair,,2026-11-05T23:26:22.414138+00:00
+MSC Air,CP,LSI,International,1,0,0,1,11.2,low,msc-air,,2026-11-05T23:26:22.414138+00:00
+My Jet Xpress Airlines,N7,NEP,International,1,0,0,1,11.2,low,my-jet-xpress-airlines,,2026-11-05T23:26:22.414138+00:00
+Nasair,UE,NAS,Eritrea,1,0,0,1,11.2,low,nasair,,2026-11-05T23:26:22.414138+00:00
+NextJet,2N,NTJ,Sweden,1,0,0,1,11.2,low,nextjet,,2026-11-05T23:26:22.414138+00:00
+North-West Air Company,0E,NWC,International,1,0,0,1,11.2,low,north-west-air-company,,2026-11-05T23:26:22.414138+00:00
+Norwegian Air Sweden,D8,NSZ,International,1,0,0,1,11.2,low,norwegian-air-sweden,,2026-11-05T23:26:22.414138+00:00
+NovaJet,,NOJ,International,1,0,0,1,11.2,low,novajet,,2026-11-05T23:26:22.414138+00:00
+Orbest,6O,OBS,Portugal,1,0,0,1,11.2,low,orbest,,2026-11-05T23:26:22.414138+00:00
+QantasLink,QF,QLK,International,1,0,0,1,11.2,low,qantaslink,,2026-11-05T23:26:22.414138+00:00
+Rotana Jet,RG,RJD,United Arab Emirates,1,0,0,1,11.2,low,rotana-jet,,2026-11-05T23:26:22.414138+00:00
+Ruili Airlines,DR,RLH,International,1,0,0,1,11.2,low,ruili-airlines,,2026-11-05T23:26:22.414138+00:00
+Sevenair,UG,SEN,Tunisia,1,0,0,1,11.2,low,sevenair,,2026-11-05T23:26:22.414138+00:00
+Sideral Linhas Aéreas,,SID,International,1,0,0,1,11.2,low,sideral-linhas-aéreas,,2026-11-05T23:26:22.414138+00:00
+Sky Lease Cargo,GG,KYE,International,1,0,0,1,11.2,low,sky-lease-cargo,,2026-11-05T23:26:22.414138+00:00
+Skyservice Airlines,5G,SSV,Canada,1,0,0,1,11.2,low,skyservice-airlines,,2026-11-05T23:26:22.414138+00:00
+Star Air Cargo,,BRH,International,1,0,0,1,11.2,low,star-air-cargo,,2026-11-05T23:26:22.414138+00:00
+SunExpress Germany,XG,SXD,International,1,0,0,1,11.2,low,sunexpress-germany,,2026-11-05T23:26:22.414138+00:00
+TACV,VR,TCV,Portugal,1,0,0,1,11.2,low,tacv,,2026-11-05T23:26:22.414138+00:00
+TAM Mercosur,PZ,LAP,Paraguay,1,0,0,1,11.2,low,tam-mercosur,,2026-11-05T23:26:22.414138+00:00
+Tasman Cargo Airlines,HJ,TMN,International,1,0,0,1,11.2,low,tasman-cargo-airlines,,2026-11-05T23:26:22.414138+00:00
+Toll Aviation,,TFR,International,1,0,0,1,11.2,low,toll-aviation,,2026-11-05T23:26:22.414138+00:00
+TransAsia Airways,GE,TNA,Taiwan,1,0,0,1,11.2,low,transasia-airways,,2026-11-05T23:26:22.414138+00:00
+Trigana Air Service,,TGN,Indonesia,1,0,0,1,11.2,low,trigana-air-service,,2026-11-05T23:26:22.414138+00:00
+TUIfly,X3,HLX,Germany,1,0,0,1,11.2,low,tuifly,,2026-11-05T23:26:22.414138+00:00
+United States Transportation Command,,CMB,International,1,0,0,1,11.2,low,united-states-transportation-command,,2026-11-05T23:26:22.414138+00:00
+Western Global Airlines,KD,WGN,International,1,0,0,1,11.2,low,western-global-airlines,,2026-11-05T23:26:22.414138+00:00
+World2Fly,2W,WFL,International,1,0,0,1,11.2,low,world2fly,,2026-11-05T23:26:22.414138+00:00
+Yanair,YE,ANR,International,1,0,0,1,11.2,low,yanair,,2026-11-05T23:26:22.414138+00:00
+12 North,12,N12,India,0,0,0,0,0,low,12-north,,2026-11-05T23:26:22.414138+00:00
+1Time Airline,1T,RNX,South Africa,0,0,0,0,0,low,1time-airline,,2026-11-05T23:26:22.414138+00:00
+21 Air,2I,CSB,International,0,0,0,0,0,low,21-air,,2026-11-05T23:26:22.414138+00:00
+247 Aviation,,EMC,International,0,0,0,0,0,low,247-aviation,,2026-11-05T23:26:22.414138+00:00
+"34 Squadron, Royal Australian Air Force",,EVY,International,0,0,0,0,0,low,34-squadron-royal-australian-air-force,,2026-11-05T23:26:22.414138+00:00
+40-Mile Air,Q5,MLA,United States,0,0,0,0,0,low,40-mile-air,,2026-11-05T23:26:22.414138+00:00
+43 Air School,,PIU,International,0,0,0,0,0,low,43-air-school,,2026-11-05T23:26:22.414138+00:00
+748 Air Services,FE,IHO,International,0,0,0,0,0,low,748-air-services,,2026-11-05T23:26:22.414138+00:00
+7Air Cargo,,TXG,International,0,0,0,0,0,low,7air-cargo,,2026-11-05T23:26:22.414138+00:00
+88,47,VVN,Cyprus,0,0,0,0,0,low,88,,2026-11-05T23:26:22.414138+00:00
+9 Air,AQ,JYH,International,0,0,0,0,0,low,9-air,,2026-11-05T23:26:22.414138+00:00
+A-Jet Aviation Company,,AJR,International,0,0,0,0,0,low,a-jet-aviation-company,,2026-11-05T23:26:22.414138+00:00
+Aberdair Aviation,,BDV,International,0,0,0,0,0,low,aberdair-aviation,,2026-11-05T23:26:22.414138+00:00
+ABSA - Aerolinhas Brasileiras,M3,TUS,Brazil,0,0,0,0,0,low,absa-aerolinhas-brasileiras,,2026-11-05T23:26:22.414138+00:00
+Absolute Flight Services,,TTN,International,0,0,0,0,0,low,absolute-flight-services,,2026-11-05T23:26:22.414138+00:00
+AC Aviation,,ACJ,International,0,0,0,0,0,low,ac-aviation,,2026-11-05T23:26:22.414138+00:00
+Access Air,ZA,CYD,United States,0,0,0,0,0,low,access-air,,2026-11-05T23:26:22.414138+00:00
+Ace Air,,ATZ,International,0,0,0,0,0,low,ace-air,,2026-11-05T23:26:22.414138+00:00
+ACES Colombia,,AES,Colombia,0,0,0,0,0,low,aces-colombia,,2026-11-05T23:26:22.414138+00:00
+AD Aviation,,VUE,United Kingdom,0,0,0,0,0,low,ad-aviation,,2026-11-05T23:26:22.414138+00:00
+Ada Air,ZY,ADE,Albania,0,0,0,0,0,low,ada-air,,2026-11-05T23:26:22.414138+00:00
+Adam Air,KI,DHI,Indonesia,0,0,0,0,0,low,adam-air,,2026-11-05T23:26:22.414138+00:00
+Addis Airlines,,DDS,International,0,0,0,0,0,low,addis-airlines,,2026-11-05T23:26:22.414138+00:00
+"Ade, Aviación Deportiva",,ADF,International,0,0,0,0,0,low,ade-aviación-deportiva,,2026-11-05T23:26:22.414138+00:00
+ADI Shuttle Group,,TEC,International,0,0,0,0,0,low,adi-shuttle-group,,2026-11-05T23:26:22.414138+00:00
+Adventia,,DVN,International,0,0,0,0,0,low,adventia,,2026-11-05T23:26:22.414138+00:00
+AEG Aviation Services,,EBS,International,0,0,0,0,0,low,aeg-aviation-services,,2026-11-05T23:26:22.414138+00:00
+Aer Arann,L5,REA,Ireland,0,0,0,0,0,low,aer-arann,,2026-11-05T23:26:22.414138+00:00
+Aereo Futuro,,FUT,International,0,0,0,0,0,low,aereo-futuro,,2026-11-05T23:26:22.414138+00:00
+Aereo Ruta Maya,,MMG,International,0,0,0,0,0,low,aereo-ruta-maya,,2026-11-05T23:26:22.414138+00:00
+Aereo Transportes Los Angeles de America,,AGI,International,0,0,0,0,0,low,aereo-transportes-los-angeles-de-america,,2026-11-05T23:26:22.414138+00:00
+Aereo WWG,,WWG,International,0,0,0,0,0,low,aereo-wwg,,2026-11-05T23:26:22.414138+00:00
+Aereonautica militare,JY,AXZ,Italy,0,0,0,0,0,low,aereonautica-militare,,2026-11-05T23:26:22.414138+00:00
+Aero Benin,EM,AEB,Benin,0,0,0,0,0,low,aero-benin,,2026-11-05T23:26:22.414138+00:00
+Aero Club de Castellon,,RRB,International,0,0,0,0,0,low,aero-club-de-castellon,,2026-11-05T23:26:22.414138+00:00
+Aero Condor Peru,Q6,CDP,Peru,0,0,0,0,0,low,aero-condor-peru,,2026-11-05T23:26:22.414138+00:00
+Aero Dili,8G,DTL,International,0,0,0,0,0,low,aero-dili,,2026-11-05T23:26:22.414138+00:00
+Aero Elite Acapulco,,EPU,International,0,0,0,0,0,low,aero-elite-acapulco,,2026-11-05T23:26:22.414138+00:00
+Aero Express,,XPN,International,0,0,0,0,0,low,aero-express,,2026-11-05T23:26:22.414138+00:00
+Aero Flight,GV,ARF,Germany,0,0,0,0,0,low,aero-flight,,2026-11-05T23:26:22.414138+00:00
+Aero Jet,,TEJ,International,0,0,0,0,0,low,aero-jet,,2026-11-05T23:26:22.414138+00:00
+Aero Jet International,,RVQ,International,0,0,0,0,0,low,aero-jet-international,,2026-11-05T23:26:22.414138+00:00
+Aero Lanka,QL,RLN,Sri Lanka,0,0,0,0,0,low,aero-lanka,,2026-11-05T23:26:22.414138+00:00
+Aero Service Bolivia,,GHM,International,0,0,0,0,0,low,aero-service-bolivia,,2026-11-05T23:26:22.414138+00:00
+Aero Services Mali,,GLM,International,0,0,0,0,0,low,aero-services-mali,,2026-11-05T23:26:22.414138+00:00
+Aero Servicio Guerrero,,GUE,International,0,0,0,0,0,low,aero-servicio-guerrero,,2026-11-05T23:26:22.414138+00:00
+Aero-Service,BF,RSR,Republic of the Congo,0,0,0,0,0,low,aero-service,,2026-11-05T23:26:22.414138+00:00
+Aeroaljarafe,,AJH,International,0,0,0,0,0,low,aeroaljarafe,,2026-11-05T23:26:22.414138+00:00
+Aerocaribe Coro,,AOB,International,0,0,0,0,0,low,aerocaribe-coro,,2026-11-05T23:26:22.414138+00:00
+Aeroclub Barcelona-Sabadell,,BSO,International,0,0,0,0,0,low,aeroclub-barcelona-sabadell,,2026-11-05T23:26:22.414138+00:00
+Aeroclub de Alicante,,LUE,International,0,0,0,0,0,low,aeroclub-de-alicante,,2026-11-05T23:26:22.414138+00:00
+Aeroclub de Mallorca,,MLL,International,0,0,0,0,0,low,aeroclub-de-mallorca,,2026-11-05T23:26:22.414138+00:00
+Aerocondor,2B,ARD,Portugal,0,0,0,0,0,low,aerocondor,,2026-11-05T23:26:22.414138+00:00
+Aerocorporativos,,CTD,International,0,0,0,0,0,low,aerocorporativos,,2026-11-05T23:26:22.414138+00:00
+Aerocredo,,RRO,International,0,0,0,0,0,low,aerocredo,,2026-11-05T23:26:22.414138+00:00
+Aerofaq,,FAQ,International,0,0,0,0,0,low,aerofaq,,2026-11-05T23:26:22.414138+00:00
+Aeroflot-Don,D9,DNV,Russia,0,0,0,0,0,low,aeroflot-don,,2026-11-05T23:26:22.414138+00:00
+Aeroflot-Plus,,PLS,International,0,0,0,0,0,low,aeroflot-plus,,2026-11-05T23:26:22.414138+00:00
+Aerolimousine,,LIN,International,0,0,0,0,0,low,aerolimousine,,2026-11-05T23:26:22.414138+00:00
+Aeroline GmbH,7E,AWU,Germany,0,0,0,0,0,low,aeroline-gmbh,,2026-11-05T23:26:22.414138+00:00
+Aerolineas Africanas,,AA1,Guinea,0,0,0,0,0,low,aerolineas-africanas,,2026-11-05T23:26:22.414138+00:00
+Aerolineas heredas santa maria,,SZB,Dominican Republic,0,0,0,0,0,low,aerolineas-heredas-santa-maria,,2026-11-05T23:26:22.414138+00:00
+Aerolínea Principal Chile,,PCP,International,0,0,0,0,0,low,aerolínea-principal-chile,,2026-11-05T23:26:22.414138+00:00
+Aerolíneas Centrales,,ALT,International,0,0,0,0,0,low,aerolíneas-centrales,,2026-11-05T23:26:22.414138+00:00
+Aerolíneas Damojh,,DMJ,International,0,0,0,0,0,low,aerolíneas-damojh,,2026-11-05T23:26:22.414138+00:00
+Aerolíneas Hidalgo,,AHL,International,0,0,0,0,0,low,aerolíneas-hidalgo,,2026-11-05T23:26:22.414138+00:00
+Aerolíneas Primordiales,,APR,International,0,0,0,0,0,low,aerolíneas-primordiales,,2026-11-05T23:26:22.414138+00:00
+Aeromonkey,,NKY,International,0,0,0,0,0,low,aeromonkey,,2026-11-05T23:26:22.414138+00:00
+Aeronorte,,RTE,Portugal,0,0,0,0,0,low,aeronorte,,2026-11-05T23:26:22.414138+00:00
+Aeropartner,,DFC,International,0,0,0,0,0,low,aeropartner,,2026-11-05T23:26:22.414138+00:00
+Aeropelican Air Services,OT,PEL,Australia,0,0,0,0,0,low,aeropelican-air-services,,2026-11-05T23:26:22.414138+00:00
+Aeroper,PL,PLI,Peru,0,0,0,0,0,low,aeroper,,2026-11-05T23:26:22.414138+00:00
+Aerosur,5L,RSU,Bolivia,0,0,0,0,0,low,aerosur,,2026-11-05T23:26:22.414138+00:00
+Aerosvit Airlines,VV,AEW,Ukraine,0,0,0,0,0,low,aerosvit-airlines,,2026-11-05T23:26:22.414138+00:00
+Aerowest,,AWH,International,0,0,0,0,0,low,aerowest,,2026-11-05T23:26:22.414138+00:00
+AeroWorld,W4,WER,Russia,0,0,0,0,0,low,aeroworld,,2026-11-05T23:26:22.414138+00:00
+Aeroworld Pakistan,,AWP,International,0,0,0,0,0,low,aeroworld-pakistan,,2026-11-05T23:26:22.414138+00:00
+Africa Airways,VJ,AFF,International,0,0,0,0,0,low,africa-airways,,2026-11-05T23:26:22.414138+00:00
+Africa Charter Airline,,FSK,International,0,0,0,0,0,low,africa-charter-airline,,2026-11-05T23:26:22.414138+00:00
+Africa West,FK,WTA,Togo,0,0,0,0,0,low,africa-west,,2026-11-05T23:26:22.414138+00:00
+African Cargo Services,,ACB,International,0,0,0,0,0,low,african-cargo-services,,2026-11-05T23:26:22.414138+00:00
+Air 26,,DCD,Angola,0,0,0,0,0,low,air-26,,2026-11-05T23:26:22.414138+00:00
+Air Adelphi,,MUS,International,0,0,0,0,0,low,air-adelphi,,2026-11-05T23:26:22.414138+00:00
+Air Afrique,RK,RKA,Ivory Coast,0,0,0,0,0,low,air-afrique,,2026-11-05T23:26:22.414138+00:00
+Air Alfa,,LFA,Turkey,0,0,0,0,0,low,air-alfa,,2026-11-05T23:26:22.414138+00:00
+Air Alliance Express,,AYY,International,0,0,0,0,0,low,air-alliance-express,,2026-11-05T23:26:22.414138+00:00
+Air Atlanta Europe,CT,AAE,International,0,0,0,0,0,low,air-atlanta-europe-2,,2026-11-05T23:26:22.414138+00:00
+Air Bangladesh,B9,BGD,Bangladesh,0,0,0,0,0,low,air-bangladesh,,2026-11-05T23:26:22.414138+00:00
+Air Batumi,,BTM,Georgia,0,0,0,0,0,low,air-batumi,,2026-11-05T23:26:22.414138+00:00
+Air Bohemia,,BOH,International,0,0,0,0,0,low,air-bohemia,,2026-11-05T23:26:22.414138+00:00
+Air Bourbon,ZB,BUB,Reunion,0,0,0,0,0,low,air-bourbon,,2026-11-05T23:26:22.414138+00:00
+Air Cargo Carriers,2Q,SNC,United States,0,0,0,0,0,low,air-cargo-carriers,,2026-11-05T23:26:22.414138+00:00
+Air Cargo Plus,,ACH,International,0,0,0,0,0,low,air-cargo-plus,,2026-11-05T23:26:22.414138+00:00
+Air Century,Y2,CEY,Dominican Republic,0,0,0,0,0,low,air-century,,2026-11-05T23:26:22.414138+00:00
+Air Chathams,CV,CVA,New Zealand,0,0,0,0,0,low,air-chathams,,2026-11-05T23:26:22.414138+00:00
+Air China Inner Mongolia,CA,CNM,International,0,0,0,0,0,low,air-china-inner-mongolia,,2026-11-05T23:26:22.414138+00:00
+Air CM Global,,RJR,International,0,0,0,0,0,low,air-cm-global,,2026-11-05T23:26:22.414138+00:00
+Air Connect,KS,KON,International,0,0,0,0,0,low,air-connect,,2026-11-05T23:26:22.414138+00:00
+Air Cudlua,,CUD,United Kingdom,0,0,0,0,0,low,air-cudlua,,2026-11-05T23:26:22.414138+00:00
+Air Europe,PE,AEL,Italy,0,0,0,0,0,low,air-europe,,2026-11-05T23:26:22.414138+00:00
+Air Exel,XT,AXL,Netherlands,0,0,0,0,0,low,air-exel,,2026-11-05T23:26:22.414138+00:00
+Air Falcon,,FPK,International,0,0,0,0,0,low,air-falcon-3,,2026-11-05T23:26:22.414138+00:00
+Air Finland,OF,FIF,Finland,0,0,0,0,0,low,air-finland,,2026-11-05T23:26:22.414138+00:00
+Air Florida,YS,FLZ,United States,0,0,0,0,0,low,air-florida,,2026-11-05T23:26:22.414138+00:00
+Air Four,,AFM,International,0,0,0,0,0,low,air-four,,2026-11-05T23:26:22.414138+00:00
+Air Foyle,GS,UPA,United Kingdom,0,0,0,0,0,low,air-foyle,,2026-11-05T23:26:22.414138+00:00
+Air Freight NZ,OG,AFN,International,0,0,0,0,0,low,air-freight-nz,,2026-11-05T23:26:22.414138+00:00
+Air Glaciers,7T,AGV,Switzerland,0,0,0,0,0,low,air-glaciers,,2026-11-05T23:26:22.414138+00:00
+Air Guinee Express,2U,GIP,Guinea,0,0,0,0,0,low,air-guinee-express,,2026-11-05T23:26:22.414138+00:00
+Air Hamburg (AHO),HH,AHO,Germany,0,0,0,0,0,low,air-hamburg-aho,,2026-11-05T23:26:22.414138+00:00
+Air Hungaria,,AHN,International,0,0,0,0,0,low,air-hungaria,,2026-11-05T23:26:22.414138+00:00
+Air Independence,,DLY,International,0,0,0,0,0,low,air-independence,,2026-11-05T23:26:22.414138+00:00
+AIR INDOCHINE,,IIA,Vietnam,0,0,0,0,0,low,air-indochine,,2026-11-05T23:26:22.414138+00:00
+Air Italy,I9,AEY,Italy,0,0,0,0,0,low,air-italy,,2026-11-05T23:26:22.414138+00:00
+Air Italy Egypt,,EUD,Egypt,0,0,0,0,0,low,air-italy-egypt,,2026-11-05T23:26:22.414138+00:00
+Air Ivoire,VU,VUN,Ivory Coast,0,0,0,0,0,low,air-ivoire,,2026-11-05T23:26:22.414138+00:00
+Air Kazakhstan,9Y,KZK,Kazakhstan,0,0,0,0,0,low,air-kazakhstan,,2026-11-05T23:26:22.414138+00:00
+Air Kiribati,4A,AKL,Kiribati,0,0,0,0,0,low,air-kiribati,,2026-11-05T23:26:22.414138+00:00
+Air Korea Co. Ltd.,,AKA,Republic of Korea,0,0,0,0,0,low,air-korea-co-ltd,,2026-11-05T23:26:22.414138+00:00
+Air Koryo,JS,KOR,Democratic People's Republic of Korea,0,0,0,0,0,low,air-koryo,,2026-11-05T23:26:22.414138+00:00
+Air Lituanica,LT,LTU,Lithuania,0,0,0,0,0,low,air-lituanica,,2026-11-05T23:26:22.414138+00:00
+Air Luxor,LK,LXR,Portugal,0,0,0,0,0,low,air-luxor,,2026-11-05T23:26:22.414138+00:00
+Air Madrid,NM,DRD,Spain,0,0,0,0,0,low,air-madrid,,2026-11-05T23:26:22.414138+00:00
+Air Majoro,,MJP,Peru,0,0,0,0,0,low,air-majoro,,2026-11-05T23:26:22.414138+00:00
+Air Malawi,QM,AML,Malawi,0,0,0,0,0,low,air-malawi,,2026-11-05T23:26:22.414138+00:00
+Air Marshall Islands,CW,CWM,Marshall Islands,0,0,0,0,0,low,air-marshall-islands,,2026-11-05T23:26:22.414138+00:00
+Air Mediterranee,DR,BIE,France,0,0,0,0,0,low,air-mediterranee,,2026-11-05T23:26:22.414138+00:00
+Air Mekong,P8,MKG,Vietnam,0,0,0,0,0,low,air-mekong,,2026-11-05T23:26:22.414138+00:00
+Air Moorea,6K,TAH,France,0,0,0,0,0,low,air-moorea,,2026-11-05T23:26:22.414138+00:00
+Air Nippon,KA,ANK,Japan,0,0,0,0,0,low,air-nippon,,2026-11-05T23:26:22.414138+00:00
+Air One,AP,ADH,Italy,0,0,0,0,0,low,air-one,,2026-11-05T23:26:22.414138+00:00
+Air Pegasus,OP,PPL,India,0,0,0,0,0,low,air-pegasus,,2026-11-05T23:26:22.414138+00:00
+Air Pink,,PNK,International,0,0,0,0,0,low,air-pink,,2026-11-05T23:26:22.414138+00:00
+Air Plus Comet,A7,MPD,Spain,0,0,0,0,0,low,air-plus-comet,,2026-11-05T23:26:22.414138+00:00
+Air Premia,YP,APZ,International,0,0,0,0,0,low,air-premia,,2026-11-05T23:26:22.414138+00:00
+Air Rarotonga,GZ,RAR,Cook Islands,0,0,0,0,0,low,air-rarotonga,,2026-11-05T23:26:22.414138+00:00
+Air Sahara,S2,RSH,India,0,0,0,0,0,low,air-sahara,,2026-11-05T23:26:22.414138+00:00
+Air Salone,2O,RNE,Sierra Leone,0,0,0,0,0,low,air-salone-2,,2026-11-05T23:26:22.414138+00:00
+Air Serbia,JU,ASL,Serbia,0,0,0,0,0,low,air-serbia,,2026-11-05T23:26:22.414138+00:00
+Air Sial,PF,SIF,International,0,0,0,0,0,low,air-sial,,2026-11-05T23:26:22.414138+00:00
+Air Sinai,4D,ASD,Egypt,0,0,0,0,0,low,air-sinai,,2026-11-05T23:26:22.414138+00:00
+Air Sunshine,,RSI,United States,0,0,0,0,0,low,air-sunshine,,2026-11-05T23:26:22.414138+00:00
+Air Thanlwin,,AYG,International,0,0,0,0,0,low,air-thanlwin,,2026-11-05T23:26:22.414138+00:00
+Air Tindi,8T,TID,International,0,0,0,0,0,low,air-tindi-2,,2026-11-05T23:26:22.414138+00:00
+Air Travel,A6,OTC,International,0,0,0,0,0,low,air-travel,,2026-11-05T23:26:22.414138+00:00
+Air Wales,6G,AWW,United Kingdom,0,0,0,0,0,low,air-wales,,2026-11-05T23:26:22.414138+00:00
+Air-Taxi Europe,,TWG,International,0,0,0,0,0,low,air-taxi-europe,,2026-11-05T23:26:22.414138+00:00
+Airenka,,EAJ,International,0,0,0,0,0,low,airenka,,2026-11-05T23:26:22.414138+00:00
+Airfix Aviation,,FIX,Finland,0,0,0,0,0,low,airfix-aviation,,2026-11-05T23:26:22.414138+00:00
+AirGO Private Airline,,XGO,International,0,0,0,0,0,low,airgo-private-airline,,2026-11-05T23:26:22.414138+00:00
+airHaifa,,HFA,International,0,0,0,0,0,low,airhaifa,,2026-11-05T23:26:22.414138+00:00
+Airhub Airlines,,GJM,International,0,0,0,0,0,low,airhub-airlines,,2026-11-05T23:26:22.414138+00:00
+Airlift International,,AIR,United States,0,0,0,0,0,low,airlift-international,,2026-11-05T23:26:22.414138+00:00
+Airlinair,AN,RLA,France,0,0,0,0,0,low,airlinair,,2026-11-05T23:26:22.414138+00:00
+Airlines Of Tasmania,FO,ATM,Australia,0,0,0,0,0,low,airlines-of-tasmania,,2026-11-05T23:26:22.414138+00:00
+AirRussia,R8,RRJ,Russia,0,0,0,0,0,low,airrussia,,2026-11-05T23:26:22.414138+00:00
+Airstream,,AQS,International,0,0,0,0,0,low,airstream,,2026-11-05T23:26:22.414138+00:00
+AirTran Airways,FL,TRS,United States,0,0,0,0,0,low,airtran-airways,,2026-11-05T23:26:22.414138+00:00
+AJet,VF,TKJ,International,0,0,0,0,0,low,ajet-2,,2026-11-05T23:26:22.414138+00:00
+Akasa Air,QP,AKJ,International,0,0,0,0,0,low,akasa-air,,2026-11-05T23:26:22.414138+00:00
+Al Jaber Aviation,,LJB,International,0,0,0,0,0,low,al-jaber-aviation,,2026-11-05T23:26:22.414138+00:00
+Alaska Central Express,KO,AER,United States,0,0,0,0,0,low,alaska-central-express,,2026-11-05T23:26:22.414138+00:00
+Albanian Airlines,LV,LBC,Albania,0,0,0,0,0,low,albanian-airlines,,2026-11-05T23:26:22.414138+00:00
+Albinati Aviation,,ULC,International,0,0,0,0,0,low,albinati-aviation,,2026-11-05T23:26:22.414138+00:00
+Alghanim,,KYA,United States,0,0,0,0,0,low,alghanim,,2026-11-05T23:26:22.414138+00:00
+Aliserio,,TJD,International,0,0,0,0,0,low,aliserio,,2026-11-05T23:26:22.414138+00:00
+Alitalia Express,XM,SMX,Italy,0,0,0,0,0,low,alitalia-express,,2026-11-05T23:26:22.414138+00:00
+ALK Airlines,,VBB,International,0,0,0,0,0,low,alk-airlines,,2026-11-05T23:26:22.414138+00:00
+All Africa,9A,99F,South Africa,0,0,0,0,0,low,all-africa,,2026-11-05T23:26:22.414138+00:00
+All America,A2,AL2,United States,0,0,0,0,0,low,all-america,,2026-11-05T23:26:22.414138+00:00
+All America AR,2R,M7A,Argentina,0,0,0,0,0,low,all-america-ar,,2026-11-05T23:26:22.414138+00:00
+All America BOPY,0P,PYB,Paraguay,0,0,0,0,0,low,all-america-bopy,,2026-11-05T23:26:22.414138+00:00
+All America BR,1Y,A9B,Brazil,0,0,0,0,0,low,all-america-br,,2026-11-05T23:26:22.414138+00:00
+All America CL,1R,R1R,Chile,0,0,0,0,0,low,all-america-cl,,2026-11-05T23:26:22.414138+00:00
+All America CO,0Y,7ZC,Colombia,0,0,0,0,0,low,all-america-co,,2026-11-05T23:26:22.414138+00:00
+All America MX,0M,0MM,Mexico,0,0,0,0,0,low,all-america-mx,,2026-11-05T23:26:22.414138+00:00
+All America US,AG,SSA,United States,0,0,0,0,0,low,all-america-us,,2026-11-05T23:26:22.414138+00:00
+All Argentina,L1,AL1,Argentina,0,0,0,0,0,low,all-argentina,,2026-11-05T23:26:22.414138+00:00
+All Argentina Express,Z0,Z9H,Argentina,0,0,0,0,0,low,all-argentina-express,,2026-11-05T23:26:22.414138+00:00
+All Asia,L9,AL3,China,0,0,0,0,0,low,all-asia,,2026-11-05T23:26:22.414138+00:00
+All Australia,88,8K8,Australia,0,0,0,0,0,low,all-australia,,2026-11-05T23:26:22.414138+00:00
+All Colombia,7O,7KK,Colombia,0,0,0,0,0,low,all-colombia,,2026-11-05T23:26:22.414138+00:00
+All Europe,N9,N99,United Kingdom,0,0,0,0,0,low,all-europe,,2026-11-05T23:26:22.414138+00:00
+All Spain,N7,N77,Spain,0,0,0,0,0,low,all-spain,,2026-11-05T23:26:22.414138+00:00
+Allegheny Commuter Airlines,,ALO,United States,0,0,0,0,0,low,allegheny-commuter-airlines,,2026-11-05T23:26:22.414138+00:00
+Alpine Flightservice,,FSE,International,0,0,0,0,0,low,alpine-flightservice,,2026-11-05T23:26:22.414138+00:00
+Amakusa Airlines,MZ,AHX,International,0,0,0,0,0,low,amakusa-airlines,,2026-11-05T23:26:22.414138+00:00
+America West Airlines,US,AWE,United States,0,0,0,0,0,low,america-west-airlines,,2026-11-05T23:26:22.414138+00:00
+Amsterdam Airlines,WD,AAN,Netherlands,0,0,0,0,0,low,amsterdam-airlines,,2026-11-05T23:26:22.414138+00:00
+Andalus Lineas Aereas,,ANU,Spain,0,0,0,0,0,low,andalus-lineas-aereas,,2026-11-05T23:26:22.414138+00:00
+Anima Wings,A2,AWG,International,0,0,0,0,0,low,anima-wings,,2026-11-05T23:26:22.414138+00:00
+Ansett Australia,AN,AAA,Australia,0,0,0,0,0,low,ansett-australia,,2026-11-05T23:26:22.414138+00:00
+Apache Air,ZM,IWA,United States,0,0,0,0,0,low,apache-air,,2026-11-05T23:26:22.414138+00:00
+Arajet,DM,DWI,International,0,0,0,0,0,low,arajet,,2026-11-05T23:26:22.414138+00:00
+Arik Niger,Q9,NAK,Niger,0,0,0,0,0,low,arik-niger,,2026-11-05T23:26:22.414138+00:00
+Armavia,U8,RNV,Armenia,0,0,0,0,0,low,armavia,,2026-11-05T23:26:22.414138+00:00
+Armenia Aircompany,RM,NGT,International,0,0,0,0,0,low,armenia-aircompany,,2026-11-05T23:26:22.414138+00:00
+Arrow Air,JW,APW,United States,0,0,0,0,0,low,arrow-air,,2026-11-05T23:26:22.414138+00:00
+ART Aviation,,OES,International,0,0,0,0,0,low,art-aviation,,2026-11-05T23:26:22.414138+00:00
+ASG Business Aviation,,ESW,International,0,0,0,0,0,low,asg-business-aviation,,2026-11-05T23:26:22.414138+00:00
+Asia Wings,2A,AWA,Kazakhstan,0,0,0,0,0,low,asia-wings,,2026-11-05T23:26:22.414138+00:00
+Asian Air,DM,DEX,International,0,0,0,0,0,low,asian-air,,2026-11-05T23:26:22.414138+00:00
+Asian Spirit,6K,RIT,Philippines,0,0,0,0,0,low,asian-spirit,,2026-11-05T23:26:22.414138+00:00
+Askari Aviation,4K,AAS,Pakistan,0,0,0,0,0,low,askari-aviation,,2026-11-05T23:26:22.414138+00:00
+ASL AirTaxi,,BNJ,International,0,0,0,0,0,low,asl-airtaxi,,2026-11-05T23:26:22.414138+00:00
+Asman Airlines,,KGN,International,0,0,0,0,0,low,asman-airlines,,2026-11-05T23:26:22.414138+00:00
+Astraeus,5W,AEU,United Kingdom,0,0,0,0,0,low,astraeus,,2026-11-05T23:26:22.414138+00:00
+Astrakhan Airlines,OB,ASZ,Russia,0,0,0,0,0,low,astrakhan-airlines,,2026-11-05T23:26:22.414138+00:00
+ATA Airlines,,AMT,United States,0,0,0,0,0,low,ata-airlines,,2026-11-05T23:26:22.414138+00:00
+Atifly,A1,A1F,United States,0,0,0,0,0,low,atifly,,2026-11-05T23:26:22.414138+00:00
+Atlant-Soyuz Airlines,3G,AYZ,Russia,0,0,0,0,0,low,atlant-soyuz-airlines,,2026-11-05T23:26:22.414138+00:00
+Atlantis European Airways,TD,LUR,Armenia,0,0,0,0,0,low,atlantis-european-airways,,2026-11-05T23:26:22.414138+00:00
+Atlas Blue,8A,BMM,Morocco,0,0,0,0,0,low,atlas-blue,,2026-11-05T23:26:22.414138+00:00
+ATP Flight School,,CXK,International,0,0,0,0,0,low,atp-flight-school,,2026-11-05T23:26:22.414138+00:00
+ATUR,,TUR,Ecuador,0,0,0,0,0,low,atur,,2026-11-05T23:26:22.414138+00:00
+Augsburg Airways,IQ,AUB,Germany,0,0,0,0,0,low,augsburg-airways,,2026-11-05T23:26:22.414138+00:00
+Aura Airlines,U5,GWR,International,0,0,0,0,0,low,aura-airlines,,2026-11-05T23:26:22.414138+00:00
+Avantair,,VNR,International,0,0,0,0,0,low,avantair,,2026-11-05T23:26:22.414138+00:00
+Avcon Jet,,AOJ,International,0,0,0,0,0,low,avcon-jet,,2026-11-05T23:26:22.414138+00:00
+Avcon Jet Malta,,VCJ,International,0,0,0,0,0,low,avcon-jet-malta,,2026-11-05T23:26:22.414138+00:00
+Aviabus,U1,ABI,Russia,0,0,0,0,0,low,aviabus,,2026-11-05T23:26:22.414138+00:00
+Avialeasing Aviation Company,V2,TWN,Uzbekistan,0,0,0,0,0,low,avialeasing-aviation-company,,2026-11-05T23:26:22.414138+00:00
+Avianca Argentina,A0,MCJ,International,0,0,0,0,0,low,avianca-argentina,,2026-11-05T23:26:22.414138+00:00
+Avianca El Salvador,TA,TAI,International,0,0,0,0,0,low,avianca-el-salvador,,2026-11-05T23:26:22.414138+00:00
+Aviaservice,,KZN,International,0,0,0,0,0,low,aviaservice-2,,2026-11-05T23:26:22.414138+00:00
+Aviator.S5,,VIO,International,0,0,0,0,0,low,aviators5,,2026-11-05T23:26:22.414138+00:00
+Avient Aviation,Z3,SMJ,Zimbabwe,0,0,0,0,0,low,avient-aviation,,2026-11-05T23:26:22.414138+00:00
+Avies,8R,AIA,Estonia,0,0,0,0,0,low,avies,,2026-11-05T23:26:22.414138+00:00
+Avilu,..,...,Switzerland,0,0,0,0,0,low,avilu,,2026-11-05T23:26:22.414138+00:00
+Avincis Aviation Norway,,BNO,International,0,0,0,0,0,low,avincis-aviation-norway,,2026-11-05T23:26:22.414138+00:00
+Avincis Aviation Sweden,,DFL,International,0,0,0,0,0,low,avincis-aviation-sweden,,2026-11-05T23:26:22.414138+00:00
+Aviogenex,JJ,AGX,Serbia,0,0,0,0,0,low,aviogenex,,2026-11-05T23:26:22.414138+00:00
+Aws express,B0,666,United States,0,0,0,0,0,low,aws-express,,2026-11-05T23:26:22.414138+00:00
+Azimut,A4,AZO,International,0,0,0,0,0,low,azimut-2,,2026-11-05T23:26:22.414138+00:00
+Azimuth,A4,MUT,International,0,0,0,0,0,low,azimuth,,2026-11-05T23:26:22.414138+00:00
+B.J. Aviation Hungary,,JSG,International,0,0,0,0,0,low,bj-aviation-hungary,,2026-11-05T23:26:22.414138+00:00
+B.J. Aviation Slovenia,,JSD,International,0,0,0,0,0,low,bj-aviation-slovenia,,2026-11-05T23:26:22.414138+00:00
+BA Euroflyer,A0,EFW,International,0,0,0,0,0,low,ba-euroflyer,,2026-11-05T23:26:22.414138+00:00
+BA101,,710,United Kingdom,0,0,0,0,0,low,ba101,,2026-11-05T23:26:22.414138+00:00
+Baikotovitchestrian Airlines,BU,BUU,American Samoa,0,0,0,0,0,low,baikotovitchestrian-airlines,,2026-11-05T23:26:22.414138+00:00
+Bairline,,BRJ,International,0,0,0,0,0,low,bairline,,2026-11-05T23:26:22.414138+00:00
+Baltic Air lines,B1,BA1,Latvia,0,0,0,0,0,low,baltic-air-lines,,2026-11-05T23:26:22.414138+00:00
+Baltic Airlines,,BLL,Russia,0,0,0,0,0,low,baltic-airlines,,2026-11-05T23:26:22.414138+00:00
+Baoneng Business Aviation,,BNH,International,0,0,0,0,0,low,baoneng-business-aviation,,2026-11-05T23:26:22.414138+00:00
+Barents AirLink,8N,NKF,Sweden,0,0,0,0,0,low,barents-airlink,,2026-11-05T23:26:22.414138+00:00
+Basra Airlines,BH,BSQ,International,0,0,0,0,0,low,basra-airlines,,2026-11-05T23:26:22.414138+00:00
+Bateleur Air,,BEU,South Africa,0,0,0,0,0,low,bateleur-air,,2026-11-05T23:26:22.414138+00:00
+BBN-Airways,,EGH,United Kingdom,0,0,0,0,0,low,bbn-airways,,2026-11-05T23:26:22.414138+00:00
+Bearskin Lake Air Service,JV,BLS,Canada,0,0,0,0,0,low,bearskin-lake-air-service,,2026-11-05T23:26:22.414138+00:00
+Bees Airline,,UBE,International,0,0,0,0,0,low,bees-airline,,2026-11-05T23:26:22.414138+00:00
+Beijing Airlines,CA,BJN,International,0,0,0,0,0,low,beijing-airlines,,2026-11-05T23:26:22.414138+00:00
+Bel Air Aviation,,BBX,International,0,0,0,0,0,low,bel-air-aviation,,2026-11-05T23:26:22.414138+00:00
+Bellview Airlines,B3,BLV,Nigeria,0,0,0,0,0,low,bellview-airlines,,2026-11-05T23:26:22.414138+00:00
+Bemidji Airlines,CH,BMJ,United States,0,0,0,0,0,low,bemidji-airlines,,2026-11-05T23:26:22.414138+00:00
+Benair,,BDI,International,0,0,0,0,0,low,benair-2,,2026-11-05T23:26:22.414138+00:00
+Beond,B4,BYD,International,0,0,0,0,0,low,beond,,2026-11-05T23:26:22.414138+00:00
+Bering Air,8E,BRG,United States,0,0,0,0,0,low,bering-air,,2026-11-05T23:26:22.414138+00:00
+Berjaya Air,J8,BVT,Malaysia,0,0,0,0,0,low,berjaya-air,,2026-11-05T23:26:22.414138+00:00
+Bertelsmann,,BFD,International,0,0,0,0,0,low,bertelsmann,,2026-11-05T23:26:22.414138+00:00
+BF-Lento OY,,BKF,Finland,0,0,0,0,0,low,bf-lento-oy,,2026-11-05T23:26:22.414138+00:00
+Bingo Airways,,BGY,Poland,0,0,0,0,0,low,bingo-airways,,2026-11-05T23:26:22.414138+00:00
+Bioflight,,BIO,International,0,0,0,0,0,low,bioflight,,2026-11-05T23:26:22.414138+00:00
+Black Stallion Airways,BZ,BSA,United States,0,0,0,0,0,low,black-stallion-airways,,2026-11-05T23:26:22.414138+00:00
+Blink,,BKK,International,0,0,0,0,0,low,blink,,2026-11-05T23:26:22.414138+00:00
+Blue Air Lines,,BBJ,International,0,0,0,0,0,low,blue-air-lines,,2026-11-05T23:26:22.414138+00:00
+Blue Jet Charters,,BCJ,International,0,0,0,0,0,low,blue-jet-charters,,2026-11-05T23:26:22.414138+00:00
+Blue Square Aviation,,BSG,International,0,0,0,0,0,low,blue-square-aviation,,2026-11-05T23:26:22.414138+00:00
+Blue Wings,QW,BWG,Germany,0,0,0,0,0,low,blue-wings,,2026-11-05T23:26:22.414138+00:00
+Bluesky Airways,,BSF,International,0,0,0,0,0,low,bluesky-airways,,2026-11-05T23:26:22.414138+00:00
+bmi,2T,BMA,United Kingdom,0,0,0,0,0,low,bmi,,2026-11-05T23:26:22.414138+00:00
+bmibaby,WW,BMI,United Kingdom,0,0,0,0,0,low,bmibaby,,2026-11-05T23:26:22.414138+00:00
+Boutique Air (Priv),4B,BTQ,United States,0,0,0,0,0,low,boutique-air-priv,,2026-11-05T23:26:22.414138+00:00
+Boutique Aviation,,BQA,International,0,0,0,0,0,low,boutique-aviation,,2026-11-05T23:26:22.414138+00:00
+Braspress Air Cargo,,BPC,International,0,0,0,0,0,low,braspress-air-cargo,,2026-11-05T23:26:22.414138+00:00
+BRAZIL AIR,GB,BZE,Brazil,0,0,0,0,0,low,brazil-air,,2026-11-05T23:26:22.414138+00:00
+Breeze Airways,MX,MXY,International,0,0,0,0,0,low,breeze-airways,,2026-11-05T23:26:22.414138+00:00
+Brilliant Jet,,TXJ,International,0,0,0,0,0,low,brilliant-jet,,2026-11-05T23:26:22.414138+00:00
+Bristow U.S. LLC,L9,BTZ,International,0,0,0,0,0,low,bristow-us-llc,,2026-11-05T23:26:22.414138+00:00
+Brit Air,DB,BZH,France,0,0,0,0,0,low,brit-air,,2026-11-05T23:26:22.414138+00:00
+British International Helicopters,BS,BIH,United Kingdom,0,0,0,0,0,low,british-international-helicopters,,2026-11-05T23:26:22.414138+00:00
+British Mediterranean Airways,KJ,LAJ,United Kingdom,0,0,0,0,0,low,british-mediterranean-airways,,2026-11-05T23:26:22.414138+00:00
+Budapest Aircraft Services/Manx2,,BPS,Hungary,0,0,0,0,0,low,budapest-aircraft-servicesmanx2,,2026-11-05T23:26:22.414138+00:00
+Budget Lines,BD,BGN,International,0,0,0,0,0,low,budget-lines,,2026-11-05T23:26:22.414138+00:00
+BudgetAir,1K,BG1,Germany,0,0,0,0,0,low,budgetair,,2026-11-05T23:26:22.414138+00:00
+Bul Air,,BVL,International,0,0,0,0,0,low,bul-air,,2026-11-05T23:26:22.414138+00:00
+Bun Air Corporation,,BNA,International,0,0,0,0,0,low,bun-air-corporation,,2026-11-05T23:26:22.414138+00:00
+Buquebus Líneas Aéreas,BQ,BQB,Uruguay,0,0,0,0,0,low,buquebus-líneas-aéreas,,2026-11-05T23:26:22.414138+00:00
+Business Aero,,KBS,International,0,0,0,0,0,low,business-aero,,2026-11-05T23:26:22.414138+00:00
+Business Aviation Asia,,UNA,International,0,0,0,0,0,low,business-aviation-asia,,2026-11-05T23:26:22.414138+00:00
+Business Wings,,JMP,International,0,0,0,0,0,low,business-wings,,2026-11-05T23:26:22.414138+00:00
+BusinessAir,8B,BCC,Thailand,0,0,0,0,0,low,businessair,,2026-11-05T23:26:22.414138+00:00
+Buthan Airlines,B3,BTN,International,0,0,0,0,0,low,buthan-airlines,,2026-11-05T23:26:22.414138+00:00
+CAA,BU,DBP,International,0,0,0,0,0,low,caa,,2026-11-05T23:26:22.414138+00:00
+Caicos Express Airways,,CXE,International,0,0,0,0,0,low,caicos-express-airways,,2026-11-05T23:26:22.414138+00:00
+Caliber Jet,,CJZ,International,0,0,0,0,0,low,caliber-jet,,2026-11-05T23:26:22.414138+00:00
+Calima Aviación,3C,CMV,International,0,0,0,0,0,low,calima-aviacion,,2026-11-05T23:26:22.414138+00:00
+Cambodia Airways,KR,KME,International,0,0,0,0,0,low,cambodia-airways,,2026-11-05T23:26:22.414138+00:00
+Cambodia Angkor Air,K6,KHV,International,0,0,0,0,0,low,cambodia-angkor-air,,2026-11-05T23:26:22.414138+00:00
+Canadian National Airways,CN,YCP,Canada,0,0,0,0,0,low,canadian-national-airways,,2026-11-05T23:26:22.414138+00:00
+Canadian Pacific Airlines,CP,CPC,International,0,0,0,0,0,low,canadian-pacific-airlines,,2026-11-05T23:26:22.414138+00:00
+Canarian Airways,OX,OEW,International,0,0,0,0,0,low,canarian-airways,,2026-11-05T23:26:22.414138+00:00
+CanXplorer,C2,CAP,Canada,0,0,0,0,0,low,canxplorer,,2026-11-05T23:26:22.414138+00:00
+CanXpress,C1,CA1,Canada,0,0,0,0,0,low,canxpress,,2026-11-05T23:26:22.414138+00:00
+Cargo Plus Aviation,8L,CGP,United Arab Emirates,0,0,0,0,0,low,cargo-plus-aviation,,2026-11-05T23:26:22.414138+00:00
+Caricom Airways,,CRB,International,0,0,0,0,0,low,caricom-airways,,2026-11-05T23:26:22.414138+00:00
+CARICOM AIRWAYS (BARBADOS) INC.,,CCB,Barbados,0,0,0,0,0,low,caricom-airways-barbados-inc,,2026-11-05T23:26:22.414138+00:00
+Catreus,,VCG,International,0,0,0,0,0,low,catreus,,2026-11-05T23:26:22.414138+00:00
+Cavok Air,,CVK,International,0,0,0,0,0,low,cavok-air,,2026-11-05T23:26:22.414138+00:00
+CB Airways UK ( Interliging Flights ),1F,CIF,United Kingdom,0,0,0,0,0,low,cb-airways-uk-interliging-flights,,2026-11-05T23:26:22.414138+00:00
+CBM America,,XBM,United States,0,0,0,0,0,low,cbm-america,,2026-11-05T23:26:22.414138+00:00
+CemAir,5Z,KEM,International,0,0,0,0,0,low,cemair,,2026-11-05T23:26:22.414138+00:00
