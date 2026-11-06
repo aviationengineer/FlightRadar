@@ -7,7 +7,7 @@ snapshot, Skylink live airborne snapshot.
 ## Run locally
 
 ```bash
-cd fleet-dashboard/streamlit
+cd fleet-dashboard/STREAMLIT_DASHBOARD
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/streamlit run app.py
