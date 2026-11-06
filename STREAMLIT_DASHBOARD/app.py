@@ -4,17 +4,21 @@ Data: Fleet Intelligence Google Sheet, snapshot 2026-11-05.
 CSVs in ./data are the snapshot; re-run fetch_data.py (or re-export the
 sheet tabs) to refresh them. See README.md.
 """
+from pathlib import Path
+
 import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Fleet Intelligence Dashboard", layout="wide")
 
-DATA = "data"
+# Resolve the data dir from the script's own location: Streamlit Cloud runs
+# the app from the repo root, so a bare relative "data" path breaks there.
+DATA = Path(__file__).resolve().parent / "data"
 
 
 @st.cache_data
 def load(name):
-    return pd.read_csv(f"{DATA}/{name}.csv")
+    return pd.read_csv(DATA / f"{name}.csv")
 
 
 afm = load("AFM_Fleets")
