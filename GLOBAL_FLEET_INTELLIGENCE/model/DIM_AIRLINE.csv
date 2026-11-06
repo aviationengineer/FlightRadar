@@ -1,0 +1,2014 @@
+airline_id,airline_name,iata_code,icao_code,country,region,airline_group,business_model,afm_total_fleet,afm_active_fleet,opensky_registered_fleet,skylink_airborne,airlabs_aircraft,afm_avg_age,opensky_avg_built_year,opensky_built_year_coverage_pct,in_afm,in_opensky
+...,Avilu,..,...,Switzerland,Europe,,,0,0,0,0,0,,,,Y,N
+0MM,All America MX,0M,0MM,Mexico,North America,,,0,0,0,0,0,,,,Y,N
+442,Sky Capital Cargo,S8,442,,Unknown,,,0,0,1,0,0,,1988,100,N,Y
+666,Aws express,B0,666,United States,North America,,,0,0,0,0,0,,,,Y,N
+710,BA101,,710,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+7KK,All Colombia,7O,7KK,Colombia,Latin America,,,0,0,0,0,0,,,,Y,N
+7ZC,All America CO,0Y,7ZC,Colombia,Latin America,,,0,0,0,0,0,,,,Y,N
+8K8,All Australia,88,8K8,Australia,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+99F,All Africa,9A,99F,South Africa,Africa,,,0,0,0,0,0,,,,Y,N
+A1F,Atifly,A1,A1F,United States,North America,,,0,0,0,0,0,,,,Y,N
+A9B,All America BR,1Y,A9B,Brazil,Latin America,,,0,0,0,0,0,,,,Y,N
+AA1,Aerolineas Africanas,,AA1,Guinea,Africa,,,0,0,40,0,0,,1973,27.5,Y,Y
+AAA,Ansett Australia,AN,AAA,Australia,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+AAC,Army Air Corps,,AAC,,Unknown,,,0,0,125,0,0,,1969.5,1.6,N,Y
+AAE,Air Atlanta Europe,CT,AAE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AAF,Aigle Azur,ZI,AAF,France,Europe,,,12,12,13,0,0,11.2,2022,7.7,Y,Y
+AAG,Air Atlantique,KI,AAG,,Unknown,,,0,0,1,0,0,,1976,100,N,Y
+AAH,Aloha Airlines,AQ,AAH,United States,North America,,,5,5,6,0,0,11.2,1993.2,66.7,Y,Y
+AAK,Alaska Island Air,,AAK,,Unknown,,,0,0,2,0,0,,1985,100,N,Y
+AAL,American Airlines,AA,AAL,United States,North America,,,1239,1239,1247,0,21,11.2,2009.2,84.9,Y,Y
+AAN,Amsterdam Airlines,WD,AAN,Netherlands,Europe,,,0,0,2,0,0,,2021,50,Y,Y
+AAQ,Copterline,,AAQ,Finland,Europe,,,2,2,3,0,0,11.2,,0,Y,Y
+AAR,Asiana Airlines,OZ,AAR,Republic of Korea,Asia-Pacific,,,98,98,98,0,0,11.2,,0,Y,Y
+AAS,Askari Aviation,4K,AAS,Pakistan,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+AAW,Afriqiyah Airways,8U,AAW,Libya,Africa,,,7,7,7,0,0,11.2,2010,28.6,Y,Y
+AAY,Allegiant Air,G4,AAY,United States,North America,,,130,130,135,0,3,11.2,2006.6,57,Y,Y
+ABB,African Business And Transportations,,ABB,,Unknown,,,0,0,3,0,0,,2007,33.3,N,Y
+ABD,Air Atlanta Icelandic,CC,ABD,Iceland,Europe,,,12,12,12,0,0,11.2,1993,8.3,Y,Y
+ABI,Aviabus,U1,ABI,Russia,Europe,,,0,0,0,0,0,,,,Y,N
+ABL,Air Busan,BX,ABL,Republic of Korea,Asia-Pacific,,,23,23,23,0,0,11.2,,0,Y,Y
+ABN,Air Albania,ZA,ABN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ABQ,Airblue,ED,ABQ,Pakistan,Asia-Pacific,,,9,9,9,0,0,11.2,,0,Y,Y
+ABR,Asl Airlines Ireland,AG,ABR,,Unknown,,,0,0,8,0,4,,1996.5,25,N,Y
+ABS,ABS,,ABS,,Unknown,,,0,0,25,0,0,,,0,N,Y
+ABW,Airbridge Cargo,RU,ABW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ABX,Abx Air,GB,ABX,,Unknown,,,0,0,20,0,0,,1985.7,65,N,Y
+ABY,Air Arabia,G9,ABY,United Arab Emirates,Middle East,,,42,42,42,0,0,11.2,2010,2.4,Y,Y
+ACA,Air Canada,AC,ACA,Canada,North America,,,236,236,246,73,6,11.2,2020,0.4,Y,Y
+ACB,African Cargo Services,,ACB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ACH,Air Cargo Plus,,ACH,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ACI,Air Caledonie International,SB,ACI,France,Europe,,,6,6,6,0,0,11.2,,0,Y,Y
+ACJ,AC Aviation,,ACJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ACL,Itali Airlines,9X,ACL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ACP,Astral Aviation,8V,ACP,Kenya,Africa,,,1,1,1,0,0,11.2,,0,Y,Y
+ADB,Antonov Airlines,,ADB,,Unknown,,,0,0,11,0,0,,,0,N,Y
+ADE,Ada Air,ZY,ADE,Albania,Europe,,,0,0,0,0,0,,,,Y,N
+ADF,"Ade, Aviación Deportiva",,ADF,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ADH,Air One,AP,ADH,Italy,Europe,,,0,0,2,0,0,,1966,50,Y,Y
+ADO,Hokkaido International Airlines,HD,ADO,Japan,Asia-Pacific,,,13,13,13,0,0,11.2,,0,Y,Y
+ADR,Adria Airways,JP,ADR,Slovenia,Europe,,,14,14,14,0,0,11.2,,0,Y,Y
+ADX,Anderson Aviation,,ADX,,Unknown,,,0,0,10,0,0,,1967.9,80,N,Y
+ADY,Aerodyne,,ADY,,Unknown,,,0,0,1,0,0,,1998,100,N,Y
+AEA,Air Europa,UX,AEA,Spain,Europe,,,73,73,73,0,5,11.2,2014.1,13.7,Y,Y
+AEB,Aero Benin,EM,AEB,Benin,Africa,,,0,0,0,0,0,,,,Y,N
+AEE,Aegean Airlines,A3,AEE,Greece,Europe,,,55,55,56,0,0,11.2,,0,Y,Y
+AEH,Amelia International,,AEH,,Unknown,,,0,0,9,0,0,,,0,N,Y
+AEL,Air Europe,PE,AEL,Italy,Europe,,,0,0,0,0,0,,,,Y,N
+AER,Alaska Central Express,KO,AER,United States,North America,,,0,0,11,0,0,,1989.1,100,Y,Y
+AES,ACES Colombia,,AES,Colombia,Latin America,,,0,0,0,0,0,,,,Y,N
+AET,Aeronautical Radio Of Thailand,,AET,,Unknown,,,0,0,5,0,0,,,0,N,Y
+AEU,Astraeus,5W,AEU,United Kingdom,Europe,,,0,0,2,0,0,,2010.5,100,Y,Y
+AEW,Aerosvit Airlines,VV,AEW,Ukraine,Europe,,,0,0,0,0,0,,,,Y,N
+AEY,Air Italy,I9,AEY,Italy,Europe,,,0,0,0,0,0,,,,Y,N
+AFA,Alfa Air,,AFA,,Unknown,,,0,0,6,0,0,,,0,N,Y
+AFE,Airfast Indonesia,,AFE,,Unknown,,,0,0,6,0,0,,,0,N,Y
+AFF,Africa Airways,VJ,AFF,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AFG,Ariana Afghan Airlines,FG,AFG,Afghanistan,Asia-Pacific,,,5,5,5,0,0,11.2,,0,Y,Y
+AFL,Aeroflot Russian Airlines,SU,AFL,Russia,Europe,,,308,308,360,0,0,11.2,2014.3,1.9,Y,Y
+AFM,Air Four,,AFM,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AFN,Air Freight NZ,OG,AFN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AFP,Portuguese Air Force,,AFP,,Unknown,,,0,0,45,0,0,,2018,2.2,N,Y
+AFQ,Alba Servizi Aerotrasporti,,AFQ,,Unknown,,,0,0,4,0,0,,,0,N,Y
+AFR,Air France,AF,AFR,France,Europe,,,268,268,268,19,0,11.2,2008.1,4.9,Y,Y
+AGG,Algoma Airways,,AGG,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AGI,Aereo Transportes Los Angeles de America,,AGI,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AGR,United States Department Of Agriculture,,AGR,,Unknown,,,0,0,24,0,0,,1976.9,41.7,N,Y
+AGU,Angara Airlines,,AGU,,Unknown,,,0,0,20,0,0,,,0,N,Y
+AGV,Air Glaciers,7T,AGV,Switzerland,Europe,,,0,0,22,0,0,,1991.9,86.4,Y,Y
+AGX,Aviogenex,JJ,AGX,Serbia,Europe,,,0,0,0,0,0,,,,Y,N
+AGZ,Agrolet-mci,,AGZ,,Unknown,,,0,0,3,0,0,,,0,N,Y
+AHF,Aspen Helicopters,,AHF,,Unknown,,,0,0,13,0,0,,1992.4,76.9,N,Y
+AHK,Air Hong Kong,LD,AHK,,Unknown,,,0,0,14,0,0,,,0,N,Y
+AHL,Aerolíneas Hidalgo,,AHL,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AHN,Air Hungaria,,AHN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AHO,Air Hamburg (AHO),HH,AHO,Germany,Europe,,,0,0,33,0,0,,,0,Y,Y
+AHT,Hta Helicopteros,,AHT,,Unknown,,,0,0,6,0,0,,,0,N,Y
+AHX,Amakusa Airlines,MZ,AHX,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AHY,Azerbaijan Airlines,J2,AHY,Azerbaijan,Europe,,,29,29,32,0,0,11.2,,0,Y,Y
+AI0,Air Indus,PP,AI0,Pakistan,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+AIA,Avies,8R,AIA,Estonia,Europe,,,0,0,4,0,0,,,0,Y,Y
+AIB,Airbus Industrie,AP,AIB,,Unknown,,,0,0,6,0,4,,2007,16.7,N,Y
+AIC,Air India Limited,AI,AIC,India,Asia-Pacific,,,122,122,122,0,0,11.2,2013.5,1.6,Y,Y
+AIE,Air Inuit,,AIE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+AIJ,Interjet-abc,4O,AIJ,,Unknown,,,0,0,2,0,0,,2007.5,100,N,Y
+AIO,United States Air Force,1T,AIO,United States,North America,,,32,32,2218,0,0,11.2,1977.7,1.7,Y,Y
+AIP,Alpine Air Express,5A,AIP,,Unknown,,,0,0,2,0,1,,,0,N,Y
+AIQ,Thai AirAsia,FD,AIQ,Thailand,Asia-Pacific,,,55,55,55,0,0,11.2,,0,Y,Y
+AIR,Airlift International,,AIR,United States,North America,,,0,0,0,0,1,,,,Y,N
+AIT,Airest,,AIT,,Unknown,,,0,0,10,0,0,,,0,N,Y
+AIZ,Arkia Israel Airlines,IZ,AIZ,Israel,Middle East,,,8,8,11,0,0,11.2,1999,9.1,Y,Y
+AJH,Aeroaljarafe,,AJH,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AJI,Ameristar Jet Charter,,AJI,,Unknown,,,0,0,5,0,0,,1967,20,N,Y
+AJK,Allied Air,,AJK,,Unknown,,,0,0,4,0,0,,2017,25,N,Y
+AJM,Air Jamaica,JM,AJM,Jamaica,North America,,,2,2,2,0,0,11.2,,0,Y,Y
+AJR,A-Jet Aviation Company,,AJR,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AJT,Amerijet International,M6,AJT,,Unknown,,,0,0,11,0,0,,1991.8,54.5,N,Y
+AJU,Air Jetsul,,AJU,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AJX,Air Japan,NQ,AJX,Japan,Asia-Pacific,,,12,12,12,0,0,11.2,,0,Y,Y
+AKA,Air Korea Co. Ltd.,,AKA,Republic of Korea,Asia-Pacific,,,0,0,2,0,0,,,0,Y,Y
+AKJ,Akasa Air,QP,AKJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AKL,Air Kiribati,4A,AKL,Kiribati,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+AKN,Alkan Air,,AKN,,Unknown,,,0,0,27,0,0,,,0,N,Y
+AKR,Arctic Air,,AKR,,Unknown,,,0,0,2,0,0,,1955,50,N,Y
+AKX,Air Nippon Network Co. Ltd.,EH,AKX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AKY,Yak Service,,AKY,,Unknown,,,0,0,1,0,0,,1992,100,N,Y
+AL1,All Argentina,L1,AL1,Argentina,Latin America,,,0,0,0,0,0,,,,Y,N
+AL2,All America,A2,AL2,United States,North America,,,0,0,0,0,0,,,,Y,N
+AL3,All Asia,L9,AL3,China,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+ALD,Albion Aviation,,ALD,,Unknown,,,0,0,2,0,0,,1998,100,N,Y
+ALK,SriLankan Airlines,UL,ALK,Sri Lanka,Asia-Pacific,,,26,26,26,0,1,11.2,2013,7.7,Y,Y
+ALO,Allegheny Commuter Airlines,,ALO,United States,North America,,,0,0,0,0,0,,,,Y,N
+ALP,Alpliner Ag,,ALP,,Unknown,,,0,0,1,0,0,,2004,100,N,Y
+ALT,Aerolíneas Centrales,,ALT,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ALV,Aeropostal,,ALV,,Unknown,,,0,0,2,0,0,,1990,100,N,Y
+ALX,Hewa Bora Airways,EO,ALX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AMB,Deutsche Rettungsflugwacht,1I,AMB,,Unknown,,,0,0,45,0,0,,1998,6.7,N,Y
+AMC,Air Malta,KM,AMC,Malta,Europe,,,11,11,11,0,0,11.2,,0,Y,Y
+AME,Spanish Air Force,,AME,,Unknown,,,0,0,50,0,11,,,0,N,Y
+AMF,Ameriflight,,AMF,,Unknown,,,0,0,16,0,1,,1993,12.5,N,Y
+AML,Air Malawi,QM,AML,Malawi,Africa,,,0,0,0,0,0,,,,Y,N
+AMQ,Aircraft Management And Consulting,,AMQ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+AMT,ATA Airlines,,AMT,United States,North America,,,0,0,0,0,0,,,,Y,N
+AMU,Air Macau,NX,AMU,Macao,Asia-Pacific,,,17,17,17,0,0,11.2,,0,Y,Y
+AMV,AMC Airlines,YJ,AMV,Egypt,Africa,,,3,3,3,0,0,11.2,2007,33.3,Y,Y
+AMX,AeroMéxico,AM,AMX,Mexico,North America,,,86,86,114,0,0,11.2,2010.6,27.2,Y,Y
+ANA,All Nippon Airways,NH,ANA,Japan,Asia-Pacific,,,265,265,259,0,0,11.2,,0,Y,Y
+ANE,Air Nostrum,YW,ANE,Spain,Europe,,,47,47,47,0,0,11.2,,0,Y,Y
+ANG,Air Niugini,PX,ANG,Papua New Guinea,Asia-Pacific,,,16,16,21,0,0,11.2,,0,Y,Y
+ANK,Air Nippon,KA,ANK,Japan,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+ANO,Airnorth,TL,ANO,Australia,Asia-Pacific,,,4,4,13,0,0,11.2,1994.9,92.3,Y,Y
+ANR,Yanair,YE,ANR,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+ANS,Andes Lineas Aereas,,ANS,,Unknown,,,0,0,7,0,0,,,0,N,Y
+ANT,Air North Charter - Canada,4N,ANT,Canada,North America,,,8,8,12,0,0,11.2,,0,Y,Y
+ANU,Andalus Lineas Aereas,,ANU,Spain,Europe,,,0,0,0,0,0,,,,Y,N
+ANZ,Air New Zealand,NZ,ANZ,New Zealand,Asia-Pacific,,,65,65,66,0,0,11.2,2016,3,Y,Y
+AOB,Aerocaribe Coro,,AOB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AOC,Avcom,J6,AOC,,Unknown,,,0,0,4,0,0,,1978,25,N,Y
+AOD,Aero Vodochody,,AOD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+AOG,Aero Vip,2D,AOG,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AOJ,Avcon Jet,,AOJ,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+AOU,Air Tractor,,AOU,,Unknown,,,0,0,2,0,0,,2016.5,100,N,Y
+AOV,Aero Vision,,AOV,,Unknown,,,0,0,8,0,0,,,0,N,Y
+APA,Air Park Aviation Ltd.,,APA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+APC,Airpac Airlines,,APC,,Unknown,,,0,0,7,0,0,,2003.6,100,N,Y
+APH,Alpha Aviation,,APH,,Unknown,,,0,0,21,0,0,,2004.3,66.7,N,Y
+APJ,Peach,MM,APJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+APK,Parcelair,P4,APK,,Unknown,,,0,0,4,0,0,,1991.3,75,N,Y
+APQ,Aspen Aviation,,APQ,,Unknown,,,0,0,1,0,0,,2014,100,N,Y
+APR,Aerolíneas Primordiales,,APR,International,Unknown,,,0,0,0,0,0,,,,Y,N
+APW,Arrow Air,JW,APW,United States,North America,,,0,0,1,0,0,,1975,100,Y,Y
+APZ,Air Premia,YP,APZ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AQS,Airstream,,AQS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ARA,Arik Air,W3,ARA,,Unknown,,,0,0,17,0,0,,2008.5,23.5,N,Y
+ARB,Avia Air N.v.,,ARB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ARD,Aerocondor,2B,ARD,Portugal,Europe,,,0,0,0,0,0,,,,Y,N
+ARE,Aires,4C,ARE,S.A.,Unknown,,,6,6,6,0,0,11.2,,0,Y,Y
+ARF,Aero Flight,GV,ARF,Germany,Europe,,,0,0,0,0,0,,,,Y,N
+ARG,Aerolineas Argentinas,AR,ARG,Argentina,Latin America,,,56,56,56,0,0,11.2,,0,Y,Y
+ARN,Aeronexus Corporate,,ARN,International,Unknown,,,1,1,1,0,0,11.2,1990,100,Y,Y
+ARO,Arrow Aviation Ltd.,,ARO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ARR,Air Armenia,QN,ARR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ART,Smartlynx Airlines,6Y,ART,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ARU,Aruba Airlines,AG,ARU,Aruba,North America,,,2,2,2,0,0,11.2,,0,Y,Y
+ARV,Aravco Ltd.,,ARV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ARX,Air Xpress,,ARX,,Unknown,,,0,0,1,0,0,,2019,100,N,Y
+ASA,Alaska Airlines,AS,ASA,ALASKA,Unknown,,,204,204,212,0,3,11.2,2011.9,92.9,Y,Y
+ASD,Air Sinai,4D,ASD,Egypt,Africa,,,0,0,0,0,0,,,,Y,N
+ASF,Austrian Air Force,,ASF,,Unknown,,,0,0,3,0,0,,,0,N,Y
+ASH,Mesa Airlines,YV,ASH,United States,North America,,,128,128,131,0,11,11.2,2009.5,91.6,Y,Y
+ASJ,Air Satellite,,ASJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ASK,La Ronge Aviation Services,,ASK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+ASL,Air Serbia,JU,ASL,Serbia,Europe,,,0,0,30,0,0,,2009,3.3,Y,Y
+ASM,Awesome Aviation Pty Ltd,,ASM,,Unknown,,,0,0,1,0,0,,1980,100,N,Y
+ASP,Airsprint,,ASP,,Unknown,,,0,0,15,0,0,,,0,N,Y
+ASQ,Atlantic Southeast Airlines,EV,ASQ,United States,North America,,,168,168,218,0,0,11.2,2003.3,76.1,Y,Y
+ASS,Air Class,,ASS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ASX,Air Special,,ASX,,Unknown,,,0,0,6,0,0,,,0,N,Y
+ASY,Royal Australian Air Force,,ASY,,Unknown,,,0,0,115,0,0,,2014.7,33.9,N,Y
+ASZ,Astrakhan Airlines,OB,ASZ,Russia,Europe,,,0,0,1,0,0,,,0,Y,Y
+ATC,Air Tanzania,TC,ATC,Tanzania,Africa,,,7,7,9,0,0,11.2,,0,Y,Y
+ATG,Aerotrans Cargo,,ATG,,Unknown,,,0,0,2,0,0,,1991,50,N,Y
+ATH,Air Travel Corp.,,ATH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ATM,Airlines Of Tasmania,FO,ATM,Australia,Asia-Pacific,,,0,0,4,0,0,,1990.3,75,Y,Y
+ATN,Air Transport International,8C,ATN,,Unknown,,,0,0,38,0,1,,1991.4,89.5,N,Y
+ATS,Air Transport Service,,ATS,,Unknown,,,0,0,1,0,0,,1999,100,N,Y
+ATV,Avanti Air,,ATV,,Unknown,,,0,0,3,0,0,,1989,33.3,N,Y
+ATZ,Ace Air,,ATZ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AUA,Austrian Airlines,OS,AUA,Austria,Europe,,,104,104,104,0,0,11.2,,0,Y,Y
+AUB,Augsburg Airways,IQ,AUB,Germany,Europe,,,0,0,0,0,0,,,,Y,N
+AUH,Abu Dhabi Amiri Flight,MO,AUH,United Arab Emirates,Middle East,,,7,7,7,0,0,11.2,,0,Y,Y
+AUI,Ukraine International Airlines,PS,AUI,Ukraine,Europe,,,43,43,43,0,0,11.2,,0,Y,Y
+AUL,Aeroflot-Nord,5N,AUL,Russia,Europe,,,18,18,19,0,0,11.2,,0,Y,Y
+AUR,Aurigny Air Services,GR,AUR,United Kingdom,Europe,,,6,6,11,0,0,11.2,2001.6,81.8,Y,Y
+AUT,Austral Lineas Aereas,AU,AUT,Argentina,Latin America,,,26,26,26,0,0,11.2,,0,Y,Y
+AUU,Aurora Aviation,,AUU,,Unknown,,,0,0,3,0,0,,1992.5,66.7,N,Y
+AVA,Avianca - Aerovias Nacionales de Colombia,AV,AVA,AVIANCA,Unknown,,,127,127,131,0,2,11.2,2012.3,67.2,Y,Y
+AVJ,Avia Traffic Company,,AVJ,,Unknown,,,0,0,6,0,0,,,0,N,Y
+AVN,Air Vanuatu,NF,AVN,Vanuatu,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+AVQ,Aviation Services,,AVQ,,Unknown,,,0,0,6,0,0,,1975.5,66.7,N,Y
+AWA,Asia Wings,2A,AWA,Kazakhstan,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+AWC,Titan Airways,ZT,AWC,,Unknown,,,0,0,15,0,0,,2001.9,73.3,N,Y
+AWE,America West Airlines,US,AWE,United States,North America,,,0,0,0,0,0,,,,Y,N
+AWG,Anima Wings,A2,AWG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AWH,Aerowest,,AWH,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+AWI,Air Wisconsin,ZW,AWI,United States,North America,,,58,58,58,0,0,11.2,2002,91.4,Y,Y
+AWK,Airwork,,AWK,,Unknown,,,0,0,2,0,0,,1993.5,100,N,Y
+AWM,Asian Wings Airways,AW,AWM,Burma,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+AWP,Aeroworld Pakistan,,AWP,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AWQ,Indonesia AirAsia,QZ,AWQ,Indonesia,Asia-Pacific,,,22,22,22,0,0,11.2,,0,Y,Y
+AWS,Arab Wings,,AWS,,Unknown,,,0,0,8,0,0,,,0,N,Y
+AWT,Air West,,AWT,,Unknown,,,0,0,2,0,0,,1982,50,N,Y
+AWU,Aeroline GmbH,7E,AWU,Germany,Europe,,,0,0,3,0,0,,,0,Y,Y
+AWW,Air Wales,6G,AWW,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+AXB,Air India Express,IX,AXB,India,Asia-Pacific,,,22,22,22,0,0,11.2,,0,Y,Y
+AXD,Air Express,,AXD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+AXE,Air Explore,ED,AXE,Slovakia,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+AXK,African Express Airways,,AXK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AXL,Air Exel,XT,AXL,Netherlands,Europe,,,0,0,0,0,0,,,,Y,N
+AXM,AirAsia,AK,AXM,Malaysia,Asia-Pacific,,,79,79,79,0,0,11.2,,0,Y,Y
+AXP,Aeromax,,AXP,,Unknown,,,0,0,1,0,0,,1976,100,N,Y
+AXY,Air X Charter,6V,AXY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AXZ,Aereonautica militare,JY,AXZ,Italy,Europe,,,0,0,0,0,0,,,,Y,N
+AYG,Air Thanlwin,,AYG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AYR,Flight Training Europe,,AYR,,Unknown,,,0,0,4,0,0,,,0,N,Y
+AYY,Air Alliance Express,,AYY,International,Unknown,,,0,0,0,0,0,,,,Y,N
+AYZ,Atlant-Soyuz Airlines,3G,AYZ,Russia,Europe,,,0,0,0,0,0,,,,Y,N
+AZA,Alitalia,AZ,AZA,Italy,Europe,,,105,105,120,0,0,11.2,2007.6,83.3,Y,Y
+AZF,Air Zermatt Ag,,AZF,,Unknown,,,0,0,11,0,0,,2007.2,90.9,N,Y
+AZG,Silk Way West Airlines,,AZG,,Unknown,,,0,0,4,0,0,,2001,25,N,Y
+AZL,Africa One,,AZL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+AZN,Amaszonas,Z8,AZN,Bolivia,Latin America,,,4,4,4,0,0,11.2,,0,Y,Y
+AZO,Azimut,A4,AZO,International,Unknown,,,0,0,4,0,0,,,0,Y,Y
+AZQ,Silk Way Airlines,ZP,AZQ,,Unknown,,,0,0,8,0,0,,,0,N,Y
+AZR,Zenith Air,,AZR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AZU,Azul,AD,AZU,Brazil,Latin America,,,115,115,116,0,0,11.2,,0,Y,Y
+AZV,Azov Avia Airlines,ZF,AZV,,Unknown,,,0,0,2,0,0,,,0,N,Y
+AZW,Air Zimbabwe,UM,AZW,Zimbabwe,Africa,,,5,5,5,0,0,11.2,,0,Y,Y
+B06,B06,,B06,,Unknown,,,0,0,1,0,0,,1993,100,N,Y
+BA1,Baltic Air lines,B1,BA1,Latvia,Europe,,,0,0,0,0,0,,,,Y,N
+BAF,Belgian Air Force,,BAF,,Unknown,,,0,0,6,0,1,,2002,16.7,N,Y
+BAJ,Baker Aviation,8Q,BAJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BAM,Business Air Services,,BAM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BAN,British Antarctic Survey,,BAN,,Unknown,,,0,0,5,0,0,,,0,N,Y
+BAS,Aero Services,,BAS,,Unknown,,,0,0,3,0,0,,1965,100,N,Y
+BAV,Bamboo Airways,QH,BAV,,Unknown,,,0,0,4,0,0,,,0,N,Y
+BAW,British Airways,BA,BAW,United Kingdom,Europe,,,316,316,316,28,0,11.2,2004,86.1,Y,Y
+BBA,Bombardier Aerospace,,BBA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BBB,Blackbird Air Charter A/s - Denmark,,BBB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BBC,Biman Bangladesh Airlines,BG,BBC,Bangladesh,Asia-Pacific,,,18,18,18,0,0,11.2,,0,Y,Y
+BBD,Bluebird Cargo,BF,BBD,,Unknown,,,0,0,8,0,0,,,0,N,Y
+BBG,Bluebird Airways (BZ),BZ,BBG,Greece,Europe,,,2,2,2,0,0,11.2,,0,Y,Y
+BBJ,Blue Air Lines,,BBJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BBR,Santa Barbara Airlines,S3,BBR,Venezuela,Latin America,,,5,5,5,0,0,11.2,,0,Y,Y
+BBX,Bel Air Aviation,,BBX,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BCC,BusinessAir,8B,BCC,Thailand,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+BCH,Phillips Air,,BCH,,Unknown,,,0,0,1,0,0,,2003,100,N,Y
+BCI,Blue Islands,,BCI,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BCJ,Blue Jet Charters,,BCJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BCN,Ocean Air,,BCN,,Unknown,,,0,0,4,0,0,,1966,75,N,Y
+BCS,European Air Transport,QY,BCS,,Unknown,,,0,0,52,0,0,,1991.8,38.5,N,Y
+BCY,CityJet,WX,BCY,Ireland,Europe,,,21,21,39,0,0,11.2,2008.5,74.4,Y,Y
+BDA,Blue Dart Aviation,BZ,BDA,,Unknown,,,0,0,6,0,0,,,0,N,Y
+BDG,Mississippi State University,,BDG,,Unknown,,,0,0,7,0,0,,1969.5,57.1,N,Y
+BDI,Benair,,BDI,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BDR,Badr Airlines,,BDR,,Unknown,,,0,0,6,0,0,,,0,N,Y
+BDV,Aberdair Aviation,,BDV,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BEC,State Air Company Berkut,,BEC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BEE,Flybe,BE,BEE,United Kingdom,Europe,,,71,71,84,0,0,11.2,2006.7,98.8,Y,Y
+BEL,Brussels Airlines,SN,BEL,International,Unknown,,,44,44,44,0,32,11.2,2005.2,95.5,Y,Y
+BER,Air Berlin,AB,BER,Germany,Europe,,,128,128,128,0,0,11.2,2007.7,4.7,Y,Y
+BEU,Bateleur Air,,BEU,South Africa,Africa,,,0,0,0,0,0,,,,Y,N
+BFD,Bertelsmann,,BFD,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BFO,Bombardier,,BFO,,Unknown,,,0,0,180,0,0,,2011,0.6,N,Y
+BFW,Bahrain Defence Force,,BFW,,Unknown,,,0,0,4,0,0,,,0,N,Y
+BFX,Fly Alpha,,BFX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BG1,BudgetAir,1K,BG1,Germany,Europe,,,0,0,0,0,0,,,,Y,N
+BGA,Airbus Transport International,4Y,BGA,,Unknown,,,0,0,11,0,0,,2020.5,54.5,N,Y
+BGD,Air Bangladesh,B9,BGD,Bangladesh,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+BGH,Bh Air,8H,BGH,,Unknown,,,0,0,3,0,0,,2021,33.3,N,Y
+BGN,Budget Lines,BD,BGN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BGY,Bingo Airways,,BGY,Poland,Europe,,,0,0,0,0,0,,,,Y,N
+BHA,Buddha Air,,BHA,,Unknown,,,0,0,9,0,0,,,0,N,Y
+BHL,Bristow Helicopters,,BHL,,Unknown,,,0,0,56,0,0,,2012.5,92.9,N,Y
+BHN,Bristow Helicopters Nigeria,,BHN,,Unknown,,,0,0,5,0,0,,,0,N,Y
+BHP,Belair Airlines,4T,BHP,Switzerland,Europe,,,10,10,10,0,0,11.2,,0,Y,Y
+BHR,Bighorn Airways,,BHR,,Unknown,,,0,0,17,0,0,,1981.9,94.1,N,Y
+BHS,Bahamasair,UP,BHS,Bahamas,North America,,,9,9,10,0,0,11.2,2011.8,60,Y,Y
+BIB,Michelin Air Services,,BIB,,Unknown,,,0,0,3,0,0,,,0,N,Y
+BID,Binair,,BID,,Unknown,,,0,0,11,0,0,,,0,N,Y
+BIE,Air Mediterranee,DR,BIE,France,Europe,,,0,0,0,0,0,,,,Y,N
+BIH,British International Helicopters,BS,BIH,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+BIO,Bioflight,,BIO,International,Unknown,,,0,0,2,0,0,,,0,Y,Y
+BIV,Aviaservice,,BIV,,Unknown,,,0,0,7,0,0,,2004,14.3,N,Y
+BJA,Baja Air,,BJA,,Unknown,,,0,0,2,0,0,,1977,100,N,Y
+BJC,Baltic Jet Aircompany,,BJC,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BJN,Beijing Airlines,CA,BJN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BKA,Bankair,B4,BKA,,Unknown,,,0,0,7,0,0,,1979,14.3,N,Y
+BKF,BF-Lento OY,,BKF,Finland,Europe,,,0,0,0,0,0,,,,Y,N
+BKK,Blink,,BKK,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BKP,Bangkok Airways,PG,BKP,Thailand,Asia-Pacific,,,42,42,42,0,0,11.2,,0,Y,Y
+BLA,All Charter Limited,,BLA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BLB,Blue Bird Aviation,,BLB,,Unknown,,,0,0,15,0,0,,1996.3,20,N,Y
+BLF,Blue1,KF,BLF,Finland,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+BLJ,Blue Jet,,BLJ,,Unknown,,,0,0,1,0,0,,1965,100,N,Y
+BLL,Baltic Airlines,,BLL,Russia,Europe,,,0,0,4,0,0,,,0,Y,Y
+BLS,Bearskin Lake Air Service,JV,BLS,Canada,North America,,,0,0,12,0,0,,,0,Y,Y
+BLV,Bellview Airlines,B3,BLV,Nigeria,Africa,,,0,0,0,0,0,,,,Y,N
+BLX,TUIfly Nordic,6B,BLX,Sweden,Europe,,,9,9,9,0,0,11.2,1999,11.1,Y,Y
+BMA,bmi,2T,BMA,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+BMI,bmibaby,WW,BMI,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+BMJ,Bemidji Airlines,CH,BMJ,United States,North America,,,0,0,0,0,0,,,,Y,N
+BMM,Atlas Blue,8A,BMM,Morocco,Africa,,,0,0,0,0,0,,,,Y,N
+BMN,Bowman Aviation,,BMN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BMR,British Midland Regional,,BMR,United Kingdom,Europe,,,20,20,20,0,0,11.2,1999.9,100,Y,Y
+BMS,Blue Air,0B,BMS,International,Unknown,,,2,2,3,0,0,11.2,,0,Y,Y
+BMW,Bmw,,BMW,,Unknown,,,0,0,2,0,0,,1945,50,N,Y
+BMX,Banco De Mexico,,BMX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BNA,Bun Air Corporation,,BNA,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BND,Babcock Mission Critical Services Offshore Ltd. - United Kingdom,,BND,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BNH,Baoneng Business Aviation,,BNH,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BNJ,ASL AirTaxi,,BNJ,International,Unknown,,,0,0,2,0,0,,,0,Y,Y
+BNO,Avincis Aviation Norway,,BNO,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+BOE,Boeing,,BOE,,Unknown,,,0,0,104,0,0,,2005.8,69.2,N,Y
+BOH,Air Bohemia,,BOH,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BOS,Openskies,,BOS,,Unknown,,,0,0,4,0,0,,,0,N,Y
+BOT,Air Botswana,BP,BOT,Botswana,Africa,,,5,5,7,0,0,11.2,2002,28.6,Y,Y
+BOV,Boliviana de Aviacion (OB),OB,BOV,Bolivia,Latin America,,,27,27,27,0,0,11.2,,0,Y,Y
+BOX,Aerologic,3S,BOX,,Unknown,,,0,0,18,0,0,,2021,11.1,N,Y
+BPA,Blue Panorama Airlines,BV,BPA,Italy,Europe,,,12,12,12,0,0,11.2,1996,41.7,Y,Y
+BPC,Braspress Air Cargo,,BPC,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BPS,Budapest Aircraft Services/Manx2,,BPS,Hungary,Europe,,,0,0,3,0,0,,,0,Y,Y
+BQA,Boutique Aviation,,BQA,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BQB,Buquebus Líneas Aéreas,BQ,BQB,Uruguay,Latin America,,,0,0,0,0,0,,,,Y,N
+BRA,Braathens,BU,BRA,,Unknown,,,0,0,2,0,0,,2016,100,N,Y
+BRE,Breeze Ltd,,BRE,,Unknown,,,0,0,1,0,0,,2007,100,N,Y
+BRF,Air Bravo,,BRF,,Unknown,,,0,0,7,0,0,,,0,N,Y
+BRG,Bering Air,8E,BRG,United States,North America,,,0,0,35,0,0,,2003,77.1,Y,Y
+BRH,Star Air Cargo,,BRH,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+BRJ,Bairline,,BRJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BRM,Air 500,,BRM,,Unknown,,,0,0,1,0,0,,2008,100,N,Y
+BRQ,El-Buraq Air Transport,UZ,BRQ,Libya,Africa,,,5,5,5,0,0,11.2,,0,Y,Y
+BRR,Mountain Air Service,,BRR,,Unknown,,,0,0,2,0,0,,1944,100,N,Y
+BRS,Brazilian Air Force,,BRS,Brazil,Latin America,,,20,20,67,0,0,11.2,,0,Y,Y
+BRU,Belavia Belarusian Airlines,B2,BRU,Belarus,Europe,,,34,34,35,0,0,11.2,,0,Y,Y
+BRX,Buffalo Express Airlines,,BRX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BSA,Black Stallion Airways,BZ,BSA,United States,North America,,,0,0,0,0,0,,,,Y,N
+BSF,Bluesky Airways,,BSF,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BSG,Blue Square Aviation,,BSG,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+BSK,Miami Air International,GL,BSK,,Unknown,,,0,0,4,0,0,,,0,N,Y
+BSM,Blue Sky Aviation,,BSM,,Unknown,,,0,0,19,0,0,,1985.5,68.4,N,Y
+BSO,Aeroclub Barcelona-Sabadell,,BSO,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BSQ,Basra Airlines,BH,BSQ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BST,Best Air,,BST,,Unknown,,,0,0,1,0,0,,2002,100,N,Y
+BSX,Bassaka airlines,5B,BSX,Cambodia,Asia-Pacific,,,3,3,3,0,0,11.2,,0,Y,Y
+BTI,Air Baltic,BT,BTI,Latvia,Europe,,,50,50,50,0,0,11.2,,0,Y,Y
+BTK,Batik Air,ID,BTK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BTM,Air Batumi,,BTM,Georgia,Europe,,,0,0,0,0,0,,,,Y,N
+BTN,Buthan Airlines,B3,BTN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BTQ,Boutique Air (Priv),4B,BTQ,United States,North America,,,0,0,22,0,0,,2005.1,86.4,Y,Y
+BTZ,Bristow U.S. LLC,L9,BTZ,International,Unknown,,,0,0,0,0,2,,,,Y,N
+BUB,Air Bourbon,ZB,BUB,Reunion,Africa,,,0,0,0,0,0,,,,Y,N
+BUC,Bulgarian Air Charter,,BUC,,Unknown,,,0,0,14,0,0,,,0,N,Y
+BUN,Buryat Airlines Aircompany,,BUN,,Unknown,,,0,0,5,0,0,,,0,N,Y
+BUR,Air Bucharest,,BUR,Romania,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+BUU,Baikotovitchestrian Airlines,BU,BUU,American Samoa,North America,,,0,0,0,0,0,,,,Y,N
+BUZ,Buzz,UK,BUZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BVA,Buffalo Airways,,BVA,,Unknown,,,0,0,52,0,0,,,0,N,Y
+BVL,Bul Air,,BVL,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BVR,Acm Air Charter,,BVR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+BVT,Berjaya Air,J8,BVT,Malaysia,Asia-Pacific,,,0,0,2,0,0,,,0,Y,Y
+BWA,Caribbean Airlines,BW,BWA,Trinidad and Tobago,North America,,,18,18,18,0,0,11.2,2004.2,33.3,Y,Y
+BWG,Blue Wings,QW,BWG,Germany,Europe,,,0,0,4,0,0,,1984,75,Y,Y
+BWJ,Hk Bellawing,,BWJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BXH,Bar Xh Air,,BXH,,Unknown,,,0,0,4,0,0,,,0,N,Y
+BXR,Redding Aero Enterprises,,BXR,,Unknown,,,0,0,17,0,0,,1987.8,82.4,N,Y
+BYA,Berry Aviation,,BYA,,Unknown,,,0,0,20,0,0,,1993.5,65,N,Y
+BYD,Beond,B4,BYD,International,Unknown,,,0,0,0,0,0,,,,Y,N
+BYL,Bylina Joint-stock Company,,BYL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+BZE,BRAZIL AIR,GB,BZE,Brazil,Latin America,,,0,0,7,0,0,,2010,71.4,Y,Y
+BZF,Jet Aviation Business Jets,,BZF,,Unknown,,,0,0,30,0,0,,2007.6,26.7,N,Y
+BZH,Brit Air,DB,BZH,France,Europe,,,0,0,0,0,0,,,,Y,N
+CA1,CanXpress,C1,CA1,Canada,North America,,,0,0,0,0,0,,,,Y,N
+CAI,Corendon Airlines,XC,CAI,,Unknown,,,0,0,15,0,0,,,0,N,Y
+CAL,China Airlines,CI,CAL,Taiwan,Asia-Pacific,,,93,93,93,0,0,11.2,2011.2,12.9,Y,Y
+CAO,Air China Cargo,,CAO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CAP,CanXplorer,C2,CAP,Canada,North America,,,0,0,0,0,2,,,,Y,N
+CAT,Copenhagen Air Taxi,,CAT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+CAW,Comair,MN,CAW,South Africa,Africa,,,30,30,30,0,0,11.2,1997,16.7,Y,Y
+CAY,Cayman Airways,KX,CAY,Cayman Islands,North America,,,5,5,7,0,0,11.2,,0,Y,Y
+CAZ,Cat Aviation,,CAZ,,Unknown,,,0,0,13,0,0,,2001.4,69.2,N,Y
+CBD,Lockheed Martin Aeronautics,,CBD,,Unknown,,,0,0,1,0,0,,2006,100,N,Y
+CBG,GX Airlines,GX,CBG,China,Asia-Pacific,,,16,16,16,0,0,11.2,,0,Y,Y
+CBJ,Beijing Capital Airlines,JD,CBJ,International,Unknown,,,1,1,1,0,3,11.2,,0,Y,Y
+CCA,Air China,CA,CCA,China,Asia-Pacific,,,412,412,413,0,7,11.2,,0,Y,Y
+CCB,CARICOM AIRWAYS (BARBADOS) INC.,,CCB,Barbados,North America,,,0,0,0,0,0,,,,Y,N
+CCC,CCML Airlines,CW,CCC,Colombia,Latin America,,,3,3,3,0,0,11.2,,0,Y,Y
+CCE,Cairo Air Transport Company,,CCE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CCM,Corse-Mediterranee,XK,CCM,France,Europe,,,12,12,12,0,0,11.2,,0,Y,Y
+CCP,Champion Air,MG,CCP,,Unknown,,,0,0,4,0,0,,1996.7,75,N,Y
+CDA,Aerocardal,,CDA,,Unknown,,,0,0,4,0,0,,,0,N,Y
+CDG,Shandong Airlines,SC,CDG,China,Asia-Pacific,,,113,113,113,0,3,11.2,,0,Y,Y
+CDL,Sunbird Airlines,,CDL,,Unknown,,,0,0,2,0,0,,1978.5,100,N,Y
+CDN,Canadian Helicopters,,CDN,,Unknown,,,0,0,2,0,0,,,0,N,Y
+CDP,Aero Condor Peru,Q6,CDP,Peru,Latin America,,,0,0,0,0,0,,,,Y,N
+CDV,Airline Skol,,CDV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CEB,Cebu Pacific,5J,CEB,Philippines,Asia-Pacific,,,50,50,50,0,0,11.2,2022,2,Y,Y
+CEF,Czech Air Force,,CEF,,Unknown,,,0,0,40,0,0,,,0,N,Y
+CEL,CEIBA Intercontinental,C2,CEL,Equatorial Guinea,Africa,,,6,6,6,0,0,11.2,,0,Y,Y
+CES,China Eastern Airlines,MU,CES,China,Asia-Pacific,,,491,491,501,0,4,11.2,1966,0.2,Y,Y
+CEY,Air Century,Y2,CEY,Dominican Republic,North America,,,0,0,2,0,0,,,0,Y,Y
+CFD,Cranfield University,,CFD,,Unknown,,,0,0,3,0,0,,1985.3,100,N,Y
+CFE,BA CityFlyer,CJ,CFE,United Kingdom,Europe,,,24,24,26,0,0,11.2,2008.8,92.3,Y,Y
+CFG,Condor Flugdienst,DE,CFG,Germany,Europe,,,54,54,63,0,0,11.2,2012,7.9,Y,Y
+CFH,Careflight,,CFH,,Unknown,,,0,0,4,0,0,,1989.5,100,N,Y
+CFS,Empire Airlines,EM,CFS,,Unknown,,,0,0,1,0,0,,2000,100,N,Y
+CGF,Cargoair,,CGF,International,Unknown,,,11,11,11,0,0,11.2,1996,9.1,Y,Y
+CGK,CGK,,CGK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CGP,Cargo Plus Aviation,8L,CGP,United Arab Emirates,Middle East,,,0,0,0,0,0,,,,Y,N
+CHA,Central Flying Service,,CHA,,Unknown,,,0,0,11,0,0,,1988.1,81.8,N,Y
+CHB,West Air China,PN,CHB,China,Asia-Pacific,,,27,27,27,0,0,11.2,,0,Y,Y
+CHG,Challenge Airlines,,CHG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CHH,Hainan Airlines,HU,CHH,China,Asia-Pacific,,,207,207,207,0,8,11.2,,0,Y,Y
+CHI,Cougar Helicopters,,CHI,,Unknown,,,0,0,8,0,1,,,0,N,Y
+CHN,Channel Island Aviation,,CHN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CHR,Air Charter Services,,CHR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CHS,Challenge Aviation,,CHS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CHX,Drf Luftrettung,,CHX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CIA,Civil Aviation Authority,,CIA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CIB,Condor,,CIB,,Unknown,,,0,0,8,0,0,,1994,75,N,Y
+CIF,CB Airways UK ( Interliging Flights ),1F,CIF,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+CIG,Sirius-aero,,CIG,,Unknown,,,0,0,13,0,0,,,0,N,Y
+CIL,Ciaf Leasing,,CIL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CIM,Cimber Air,QI,CIM,Denmark,Europe,,,11,11,11,0,0,11.2,,0,Y,Y
+CJR,Caverton Helicopters,,CJR,,Unknown,,,0,0,5,0,0,,,0,N,Y
+CJS,Commonwealth Jet Service,,CJS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CJT,Cargojet Airways,W8,CJT,,Unknown,,,0,0,37,0,0,,2000,2.7,N,Y
+CJZ,Caliber Jet,,CJZ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CKE,Corporate Aviation Services,,CKE,,Unknown,,,0,0,4,0,0,,1966,25,N,Y
+CKK,China Cargo Airlines,CK,CKK,,Unknown,,,0,0,12,0,0,,,0,N,Y
+CKS,Kalitta Air,K4,CKS,,Unknown,,,0,0,56,0,0,,1996.8,76.8,N,Y
+CLG,Chalair Aviation,,CLG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CLH,Lufthansa CityLine,CL,CLH,Germany,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+CLJ,Cello Aviation,,CLJ,United Kingdom,Europe,,,1,1,2,0,0,11.2,1991.5,100,Y,Y
+CLK,Clark Aviation,,CLK,,Unknown,,,0,0,2,0,0,,2004.5,100,N,Y
+CLP,Aero Club De Portugal,,CLP,,Unknown,,,0,0,2,0,0,,1980,50,N,Y
+CLU,CLU,,CLU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CLX,Cargolux,CV,CLX,,Unknown,,,0,0,13,0,0,,,0,N,Y
+CLY,Clay Lacy Aviation,,CLY,,Unknown,,,0,0,14,0,0,,,0,N,Y
+CMB,United States Transportation Command,OY,CMB,International,Unknown,,,1,1,1,0,0,11.2,2002,100,Y,Y
+CMN,Eckles Aircraft,,CMN,,Unknown,,,0,0,4,0,0,,1968.5,50,N,Y
+CMP,Copa Airlines,CM,CMP,Panama,Latin America,,,107,107,107,0,0,11.2,2010.8,19.6,Y,Y
+CMV,Calima Aviación,3C,CMV,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CNA,Centavia,7N,CNA,,Unknown,,,0,0,1,0,1,,,0,N,Y
+CNB,Cityline Hungary,,CNB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CNF,Canaryfly,PM,CNF,Spain,Europe,,,4,4,6,0,0,11.2,,0,Y,Y
+CNG,Coastal Airways,,CNG,,Unknown,,,0,0,1,0,0,,1968,100,N,Y
+CNH,Aquila Air,,CNH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CNM,Air China Inner Mongolia,CA,CNM,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CNS,Centennial Flight Centre,,CNS,,Unknown,,,0,0,8,0,1,,2018,12.5,N,Y
+CNV,U.s. Navy Reserve Logistic Air Forces,,CNV,,Unknown,,,0,0,7,0,0,,2002.7,85.7,N,Y
+COO,Corporate Airlink,,COO,,Unknown,,,0,0,650,0,0,,1993.8,0.9,N,Y
+COV,Helicentre Coventry,,COV,,Unknown,,,0,0,4,0,0,,2000.7,75,N,Y
+CPA,Cathay Pacific,CX,CPA,Hong Kong SAR of China,Asia-Pacific,,,173,173,174,0,0,11.2,2014.7,3.4,Y,Y
+CPB,Corpac Canada,,CPB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CPC,Canadian Pacific Airlines,CP,CPC,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CPD,Capital Airlines,,CPD,,Unknown,,,0,0,70,0,0,,,0,N,Y
+CPH,Champagne Airlines,,CPH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CPN,Caspian Airlines,RV,CPN,Iran,Middle East,,,12,12,12,0,0,11.2,,0,Y,Y
+CPR,Corporate Air,,CPR,,Unknown,,,0,0,6,0,0,,1974,33.3,N,Y
+CPV,Air Corporate,,CPV,,Unknown,,,0,0,3,0,0,,,0,N,Y
+CPX,Capital Air Service,,CPX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CPZ,Compass Airlines,CP,CPZ,United States,North America,,,26,26,56,0,0,11.2,2013.8,42.9,Y,Y
+CQH,Spring Airlines,9C,CQH,China,Asia-Pacific,,,75,75,75,0,3,11.2,,0,Y,Y
+CQN,Chongqing Airlines,OQ,CQN,China,Asia-Pacific,,,15,15,15,0,0,11.2,,0,Y,Y
+CRB,Caricom Airways,,CRB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CRC,Conair Aviation,,CRC,,Unknown,,,0,0,1,0,0,,1991,100,N,Y
+CRK,Hong Kong Airlines,HX,CRK,Hong Kong SAR of China,Asia-Pacific,,,39,39,39,0,0,11.2,,0,Y,Y
+CRL,Corsairfly,SS,CRL,France,Europe,,,8,8,8,0,0,11.2,,0,Y,Y
+CRM,Commander Mexicana,,CRM,,Unknown,,,0,0,1,0,0,,1997,100,N,Y
+CRN,Empresa Aerocaribbean,,CRN,,Unknown,,,0,0,3,0,0,,,0,N,Y
+CRO,Crown Airways,,CRO,,Unknown,,,0,0,1,0,0,,2012,100,N,Y
+CRQ,Air Creebec,,CRQ,,Unknown,,,0,0,18,0,0,,,0,N,Y
+CRV,Acropolis Aviation Ltd,,CRV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CRW,Crownair,,CRW,,Unknown,,,0,0,1,0,0,,1979,100,N,Y
+CSA,Czech Airlines,OK,CSA,Czech Republic,Europe,,,8,8,8,0,0,11.2,,0,Y,Y
+CSB,21 Air,2I,CSB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CSC,Sichuan Airlines,3U,CSC,China,Asia-Pacific,,,133,133,133,0,1,11.2,2013,0.8,Y,Y
+CSH,Shanghai Airlines,FM,CSH,China,Asia-Pacific,,,89,89,89,0,0,11.2,,0,Y,Y
+CSJ,Castle Aviation,,CSJ,,Unknown,,,0,0,9,0,0,,1983.6,88.9,N,Y
+CSN,China Southern Airlines,CZ,CSN,China,Asia-Pacific,,,579,579,580,0,4,11.2,2017.3,0.5,Y,Y
+CSO,Casino Airline,,CSO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CSQ,Ibc Airways,II,CSQ,,Unknown,,,0,0,6,0,0,,1983.7,50,N,Y
+CST,Coast Air,BX,CST,,Unknown,,,0,0,1,0,0,,1974,100,N,Y
+CSV,Coastal Travels,,CSV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CSZ,Shenzhen Airlines,ZH,CSZ,China,Asia-Pacific,,,174,174,174,0,1,11.2,,0,Y,Y
+CTD,Aerocorporativos,,CTD,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CTG,Canadian Coast Guard,,CTG,,Unknown,,,0,0,6,0,0,,,0,N,Y
+CTK,East Midlands Helicopters,,CTK,,Unknown,,,0,0,3,0,0,,2001,100,N,Y
+CTL,Central Airlines,,CTL,,Unknown,,,0,0,27,0,0,,1963.6,96.3,N,Y
+CTN,Croatia Airlines,OU,CTN,Croatia,Europe,,,15,15,15,0,0,11.2,,0,Y,Y
+CTO,Cape Air Transport,,CTO,,Unknown,,,0,0,2,0,0,,,0,N,Y
+CTS,Center-south,,CTS,,Unknown,,,0,0,1,0,0,,2013,100,N,Y
+CUA,China United Airlines,KN,CUA,China,Asia-Pacific,,,37,37,37,0,0,11.2,,0,Y,Y
+CUB,Cubana de Aviación,CU,CUB,Cuba,North America,,,9,9,17,0,0,11.2,,0,Y,Y
+CUD,Air Cudlua,,CUD,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+CUK,Polo Aviation,,CUK,,Unknown,,,0,0,1,0,0,,1969,100,N,Y
+CUL,Coulson Aviation,,CUL,,Unknown,,,0,0,1,0,0,,1995,100,N,Y
+CVA,Air Chathams,CV,CVA,New Zealand,Asia-Pacific,,,0,0,9,0,0,,,0,Y,Y
+CVE,Cabo Verde Express,,CVE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CVK,Cavok Air,,CVK,International,Unknown,,,0,0,1,0,0,,1962,100,Y,Y
+CVU,Grand Canyon Airlines,,CVU,,Unknown,,,0,0,6,0,0,,2008,16.7,N,Y
+CWC,Centurion Air Cargo,WE,CWC,,Unknown,,,0,0,5,0,0,,,0,N,Y
+CWM,Air Marshall Islands,CW,CWM,Marshall Islands,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+CWX,Crow Executive Air,,CWX,,Unknown,,,0,0,2,0,0,,1974,100,N,Y
+CXA,Xiamen Airlines,MF,CXA,China,Asia-Pacific,,,156,156,156,0,4,11.2,,0,Y,Y
+CXE,Caicos Express Airways,,CXE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CXI,Corendon Airlines Europe,XR,CXI,,Unknown,,,0,0,2,0,0,,,0,N,Y
+CXK,ATP Flight School,,CXK,International,Unknown,,,0,0,0,0,0,,,,Y,N
+CXM,AsiaCargo Express,3G,CXM,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+CXN,China Southern Airlines,CZ,CXN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CXP,Xtra Airways,XP,CXP,,Unknown,,,0,0,1,0,0,,,0,N,Y
+CYD,Access Air,ZA,CYD,United States,North America,,,0,0,0,0,0,,,,Y,N
+CYP,Cyprus Airways,CY,CYP,Cyprus,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+CYZ,China Postal Airlines,8Y,CYZ,,Unknown,,,0,0,26,0,0,,,0,N,Y
+DAB,Dassault Aviation,,DAB,,Unknown,,,0,0,54,0,0,,,0,N,Y
+DAE,Dhl Aero Expreso,,DAE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DAH,Air Algerie,AH,DAH,Algeria,Africa,,,58,58,59,0,0,11.2,2012.6,10.2,Y,Y
+DAK,DAK,,DAK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+DAL,Delta Air Lines,DL,DAL,United States,North America,,,1388,1388,1423,302,11,11.2,2006.4,80.3,Y,Y
+DAO,Daallo Airlines,D3,DAO,Djibouti,Africa,,,1,1,1,0,0,11.2,,0,Y,Y
+DAP,Aerovias Dap,,DAP,,Unknown,,,0,0,7,0,0,,,0,N,Y
+DAT,Brussels Airlines,Y9,DAT,Belgium,Europe,,,21,21,33,0,0,11.2,2008,3,Y,Y
+DAV,Dornier Aviation Nigeria,,DAV,,Unknown,,,0,0,4,0,0,,,0,N,Y
+DBA,Air Alpha,,DBA,,Unknown,,,0,0,1,0,0,,1973,100,N,Y
+DBK,Dubrovnik Air,,DBK,Croatia,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+DBP,CAA,BU,DBP,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DC2,DC2,,DC2,,Unknown,,,0,0,2,0,0,,1935,50,N,Y
+DCD,Air 26,,DCD,Angola,Africa,,,0,0,0,0,0,,,,Y,N
+DCL,Transportes Aereos Don Carlos Ltda. - Chile,,DCL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DCS,Dc Aviation,,DCS,,Unknown,,,0,0,7,0,0,,,0,N,Y
+DCT,Direct Flight,,DCT,,Unknown,,,0,0,3,0,0,,1993.3,100,N,Y
+DDA,D & D Aviation,,DDA,,Unknown,,,0,0,6,0,0,,1993,33.3,N,Y
+DDS,Addis Airlines,,DDS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DEF,Aviation Defense Service,,DEF,,Unknown,,,0,0,2,0,0,,,0,N,Y
+DER,Deer Jet,,DER,,Unknown,,,0,0,4,0,0,,,0,N,Y
+DEX,Asian Air,DM,DEX,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DFC,Aeropartner,,DFC,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+DFL,Avincis Aviation Sweden,,DFL,International,Unknown,,,0,0,2,0,0,,,0,Y,Y
+DHA,Dhl Air Austria,Q7,DHA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+DHI,Adam Air,KI,DHI,Indonesia,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+DHK,Dhl Air,D0,DHK,,Unknown,,,0,0,44,0,0,,1994.4,75,N,Y
+DHM,Archer Aviation,,DHM,,Unknown,,,0,0,5,0,0,,1985,60,N,Y
+DHX,Dhl International,ES,DHX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DIX,Dix Aviation,,DIX,,Unknown,,,0,0,1,0,0,,1976,100,N,Y
+DJU,Air Djibouti,,DJU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DKH,Juneyao Airlines,HO,DKH,China,Asia-Pacific,,,66,66,66,0,0,11.2,,0,Y,Y
+DLA,Air Dolomiti,EN,DLA,Italy,Europe,,,14,14,14,0,0,11.2,,0,Y,Y
+DLH,Lufthansa,LH,DLH,Germany,Europe,,,400,400,406,18,0,11.2,2012.8,1,Y,Y
+DLI,Dalia Air,,DLI,,Unknown,,,0,0,1,0,0,,2011,100,N,Y
+DLY,Air Independence,,DLY,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DME,Royal Flight,,DME,Russia,Europe,,,9,9,10,0,0,11.2,2001,10,Y,Y
+DMJ,Aerolíneas Damojh,,DMJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DNK,D&k Aviation,,DNK,,Unknown,,,0,0,1,0,0,,1954,100,N,Y
+DNL,Dutch Antilles Express,,DNL,Netherlands Antilles,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+DNM,Denim Air,,DNM,Netherlands,Europe,,,2,2,2,0,0,11.2,,0,Y,Y
+DNU,Danu Oro Transportas,,DNU,,Unknown,,,0,0,4,0,0,,,0,N,Y
+DNV,Aeroflot-Don,D9,DNV,Russia,Europe,,,0,0,0,0,0,,,,Y,N
+DOC,Norsk Luftambulanse,,DOC,,Unknown,,,0,0,6,0,0,,,0,N,Y
+DOI,U.s. Department Of The Interior,,DOI,,Unknown,,,0,0,1,0,0,,2015,100,N,Y
+DOJ,Us Department Of Justice,,DOJ,,Unknown,,,0,0,1,0,0,,2019,100,N,Y
+DON,Donair Flying Club,,DON,,Unknown,,,0,0,5,0,0,,1977,100,N,Y
+DRD,Air Madrid,NM,DRD,Spain,Europe,,,0,0,0,0,0,,,,Y,N
+DRK,Druk Air,KB,DRK,Bhutan,Asia-Pacific,,,4,4,4,0,0,11.2,,0,Y,Y
+DRU,Alrosa Mirny Air Enterprise,6R,DRU,Russia,Europe,,,6,6,35,0,0,11.2,2003.7,8.6,Y,Y
+DRY,Deraya Air Taxi,,DRY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DSL,Meridian Aviation,,DSL,,Unknown,,,0,0,4,0,0,,1997.8,100,N,Y
+DSM,LAN Argentina,4M,DSM,Argentina,Latin America,,,18,18,18,0,0,11.2,,0,Y,Y
+DSU,Delta State University,,DSU,,Unknown,,,0,0,18,0,0,,1993,94.4,N,Y
+DTA,TAAG Angola Airlines,DT,DTA,Angola,Africa,,,13,13,13,0,0,11.2,,0,Y,Y
+DTH,Tassili Airlines,SF,DTH,,Unknown,,,0,0,12,0,0,,2011,8.3,N,Y
+DTL,Aero Dili,8G,DTL,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DTQ,Dat Danish Air Transport,DN,DTQ,,Unknown,,,0,0,1,0,0,,2023,100,N,Y
+DTR,DAT Danish Air Transport,DX,DTR,Denmark,Europe,,,17,17,18,0,0,11.2,,0,Y,Y
+DVA,Discovery Airways,DH,DVA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+DVN,Adventia,,DVN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DWI,Arajet,DM,DWI,International,Unknown,,,0,0,0,0,0,,,,Y,N
+DWT,Darwin Airline,0D,DWT,Switzerland,Europe,,,4,4,9,0,0,11.2,,0,Y,Y
+DXT,Dexter (dxt),,DXT,,Unknown,,,0,0,2,0,0,,2008,50,N,Y
+DYA,Dynamic Airways,2D,DYA,United States,North America,,,2,2,10,0,0,11.2,1994.3,30,Y,Y
+DYN,Aero Dynamics,,DYN,,Unknown,,,0,0,2,0,0,,1979,100,N,Y
+EAA,Eastok Avia,,EAA,Kyrgyzstan,Asia-Pacific,,,1,1,1,0,0,11.2,,0,Y,Y
+EAC,Executive Air Charter,,EAC,,Unknown,,,0,0,2,0,0,,,0,N,Y
+EAI,Elite Air,,EAI,,Unknown,,,0,0,3,0,0,,2007,100,N,Y
+EAJ,Airenka,,EAJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+EAK,Euro-asia Air,,EAK,,Unknown,,,0,0,3,0,0,,,0,N,Y
+EAL,European Air Express,2D,EAL,Germany,Europe,,,1,1,1,0,0,11.2,1992,100,Y,Y
+EAT,Air Transport,,EAT,,Unknown,,,0,0,6,0,0,,1971.6,83.3,N,Y
+EAU,Ojets,,EAU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EAV,EAV,,EAV,,Unknown,,,0,0,11,0,0,,,0,N,Y
+EAX,Eastern Air Executive,,EAX,,Unknown,,,0,0,5,0,0,,1979,100,N,Y
+EBS,AEG Aviation Services,,EBS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ECA,Execcent Air,,ECA,,Unknown,,,0,0,9,0,0,,,0,N,Y
+ECC,Eclair Aviation,,ECC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ECF,Eurocopter,,ECF,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ECJ,East Coast Jets,,ECJ,,Unknown,,,0,0,2,0,0,,1980,100,N,Y
+EDC,Air Charter Scotland,,EDC,,Unknown,,,0,0,2,0,0,,2015.5,100,N,Y
+EDO,Elidolomiti,,EDO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EDW,Edelweiss Air,WK,EDW,Switzerland,Europe,,,16,16,16,0,0,11.2,2003.8,93.8,Y,Y
+EEU,EEU,,EEU,,Unknown,,,0,0,9,0,0,,,0,N,Y
+EFA,Far Eastern Air Transport,QE,EFA,Taiwan,Asia-Pacific,,,10,10,10,0,0,11.2,,0,Y,Y
+EFC,Air Mana,,EFC,,Unknown,,,0,0,2,0,0,,,0,N,Y
+EFD,E-aviation,,EFD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EFW,BA Euroflyer,A0,EFW,International,Unknown,,,0,0,0,0,0,,,,Y,N
+EFY,EasyFly,VE,EFY,Colombia,Latin America,,,12,12,18,0,0,11.2,,0,Y,Y
+EGF,American Eagle Airlines,MQ,EGF,United States,North America,,,15,15,15,0,0,11.2,2009.8,100,Y,Y
+EGH,BBN-Airways,,EGH,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+EGY,Egyptian Air Force,,EGY,,Unknown,,,0,0,53,0,0,,2014,3.8,N,Y
+EIA,EIA,,EIA,,Unknown,,,0,0,3,0,0,,1989,66.7,N,Y
+EIN,Aer Lingus,EI,EIN,Ireland,Europe,,,64,64,64,0,5,11.2,2005.3,79.7,Y,Y
+EJA,Netjets,1I,EJA,,Unknown,,,0,0,346,0,10,,2012.1,79.5,N,Y
+EJD,Elite Jets,,EJD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EJM,Executive Jet Management,,EJM,,Unknown,,,0,0,49,0,1,,2010.5,4.1,N,Y
+EJO,Execujet Middle East,,EJO,,Unknown,,,0,0,10,0,0,,,0,N,Y
+EJT,Eclipse Aviation,,EJT,,Unknown,,,0,0,1,0,0,,1964,100,N,Y
+EJU,easyJet Europe,EC,EJU,International,Unknown,,,14,14,14,0,0,11.2,2012.2,28.6,Y,Y
+EKA,Equaflight Service,,EKA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ELC,Small Planet Airlines,,ELC,Lithuania,Europe,,,2,2,2,0,0,11.2,,0,Y,Y
+ELJ,Delta Air Elite,,ELJ,,Unknown,,,0,0,3,0,0,,,0,N,Y
+ELT,Elliott Aviation,,ELT,,Unknown,,,0,0,3,0,0,,1965,100,N,Y
+ELW,Yellow Wings Air Services,,ELW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ELY,El Al Israel Airlines,LY,ELY,Israel,Middle East,,,62,62,62,0,0,11.2,,0,Y,Y
+EMB,Empresa Brasileira De Aeronautica,,EMB,,Unknown,,,0,0,22,0,0,,,0,N,Y
+EMC,247 Aviation,,EMC,International,Unknown,,,0,0,0,0,0,,,,Y,N
+EMM,Emperor Aviation,,EMM,,Unknown,,,0,0,2,0,0,,,0,N,Y
+ENJ,ENJ,,ENJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ENR,Scenic Air,,ENR,,Unknown,,,0,0,3,0,0,,1985.5,66.7,N,Y
+ENS,Entergy Services,,ENS,,Unknown,,,0,0,3,0,0,,2010,33.3,N,Y
+ENT,Enter Air,OF,ENT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+ENY,Envoy Air,MQ,ENY,United States,North America,,,149,149,149,0,0,11.2,2007.1,97.3,Y,Y
+ENZ,ENZ,,ENZ,,Unknown,,,0,0,5,0,0,,1985,100,N,Y
+EOK,Aero K,RF,EOK,International,Unknown,,,2,2,2,0,0,11.2,,0,Y,Y
+EPA,Donghai Airlines,DZ,EPA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EPS,Epps Air Service,,EPS,,Unknown,,,0,0,5,0,0,,2003.7,60,N,Y
+EPU,Aero Elite Acapulco,,EPU,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ERH,Era Helicopters,,ERH,,Unknown,,,0,0,89,0,0,,2007.5,64,N,Y
+ERJ,Eurojet Italia,,ERJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ERR,ERR,,ERR,,Unknown,,,0,0,14,0,0,,2000,78.6,N,Y
+ERT,Eritrean Airlines,B8,ERT,Eritrea,Africa,,,4,4,4,0,0,11.2,,0,Y,Y
+ESF,Estafeta Carga Aerea,E7,ESF,,Unknown,,,0,0,4,0,0,,,0,N,Y
+ESL,Russian Sky Airlines,P7,ESL,,Unknown,,,0,0,1,0,0,,1991,100,N,Y
+ESR,Eastar Jet,ZE,ESR,South Korea,Asia-Pacific,,,18,18,18,0,0,11.2,,0,Y,Y
+EST,EST,,EST,,Unknown,,,0,0,4,0,0,,,0,N,Y
+ESW,ASG Business Aviation,,ESW,International,Unknown,,,0,0,0,0,0,,,,Y,N
+ETD,Etihad Airways,EY,ETD,United Arab Emirates,Middle East,,,144,144,144,0,0,11.2,2017.8,5.6,Y,Y
+ETH,Ethiopian Airlines,ET,ETH,Ethiopia,Africa,,,101,101,101,0,0,11.2,2010.6,60.4,Y,Y
+ETI,H-bird Aviation Services Ab,,ETI,,Unknown,,,0,0,2,0,0,,,0,N,Y
+EUD,Air Italy Egypt,,EUD,Egypt,Africa,,,0,0,0,0,0,,,,Y,N
+EVA,EVA Air,BR,EVA,Taiwan,Asia-Pacific,,,88,88,88,0,0,11.2,,0,Y,Y
+EVE,Evelop Airlines,,EVE,,Unknown,,,0,0,2,0,0,,2020,50,N,Y
+EVY,"34 Squadron, Royal Australian Air Force",,EVY,International,Unknown,,,0,0,0,0,0,,,,Y,N
+EWE,Eurowings Europe,E2,EWE,International,Unknown,,,10,10,10,0,0,11.2,,0,Y,Y
+EWG,Eurowings,EW,EWG,Germany,Europe,,,76,76,76,0,0,11.2,2012,1.3,Y,Y
+EWR,EWA Air,ZD,EWR,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+EXE,Executive Flight,,EXE,,Unknown,,,0,0,2,0,0,,1990.5,100,N,Y
+EXH,G5 Executive,,EXH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+EXJ,Executive Jet Charter,,EXJ,,Unknown,,,0,0,6,0,0,,2011.2,100,N,Y
+EXS,Jet2.com,LS,EXS,United Kingdom,Europe,,,86,86,86,0,0,11.2,1999.2,88.4,Y,Y
+EXU,Executive Airlines,,EXU,,Unknown,,,0,0,6,0,0,,,0,N,Y
+EXY,South African Express,YB,EXY,,Unknown,,,0,0,24,0,0,,2006.5,8.3,N,Y
+EZB,Flugschule Eichenberger,,EZB,,Unknown,,,0,0,21,0,0,,1984.2,100,N,Y
+EZE,Eastern Airways,T3,EZE,United Kingdom,Europe,,,5,5,26,0,0,11.2,1996.8,92.3,Y,Y
+EZS,easyJet Switzerland,DS,EZS,International,Unknown,,,4,4,4,0,0,11.2,2017,25,Y,Y
+EZY,easyJet,U2,EZY,United Kingdom,Europe,,,344,344,320,0,0,11.2,2010.2,81.9,Y,Y
+EZZ,ETF Airways,LI,EZZ,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+FAB,First Air,7F,FAB,Canada,North America,,,17,17,17,0,0,11.2,,0,Y,Y
+FAD,Flyadeal,,FAD,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FAF,Force Aerienne Francaise,,FAF,,Unknown,,,0,0,225,0,0,,,0,N,Y
+FAG,Argentine Air Force,,FAG,,Unknown,,,0,0,10,0,0,,,0,N,Y
+FAP,Parsons Airways Northern,,FAP,,Unknown,,,0,0,2,0,0,,,0,N,Y
+FAQ,Aerofaq,,FAQ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+FAR,Falcon Air,,FAR,,Unknown,,,0,0,6,0,0,,1985,50,N,Y
+FAW,Falwell Aviation,,FAW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FBU,French Bee,BF,FBU,International,Unknown,,,3,3,3,0,0,11.2,,0,Y,Y
+FCA,Fly-coop Air Service,,FCA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FCB,COBALT,,FCB,Cyprus,Europe,,,6,6,6,0,0,11.2,,0,Y,Y
+FD,Royal Flying Doctor Service,FD,FD,,Unknown,,,0,0,11,0,0,,2013.1,90.9,N,Y
+FDA,African Airlines,,FDA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FDB,Fly Dubai,FZ,FDB,United Arab Emirates,Middle East,,,66,66,66,0,0,11.2,,0,Y,Y
+FDL,Farmingdale State University,,FDL,,Unknown,,,0,0,13,0,1,,2003,92.3,N,Y
+FDR,Federal Air,,FDR,,Unknown,,,0,0,5,0,3,,,0,N,Y
+FDX,Federal Express,FX,FDX,,Unknown,,,0,0,563,0,10,,2000.1,90.2,N,Y
+FEG,FlyEgypt,FT,FEG,Egypt,Africa,,,6,6,6,0,0,11.2,2004.5,33.3,Y,Y
+FEI,Eagle Air Iceland,,FEI,,Unknown,,,0,0,4,0,0,,,0,N,Y
+FFA,Avialesookhrana,,FFA,,Unknown,,,0,0,32,0,0,,,0,N,Y
+FFM,Firefly,FY,FFM,Malaysia,Asia-Pacific,,,12,12,13,0,0,11.2,1985,7.7,Y,Y
+FFT,Frontier Airlines,F9,FFT,United States,North America,,,115,115,115,0,0,11.2,2015.9,76.5,Y,Y
+FFV,Fly540,5H,FFV,Kenya,Africa,,,2,2,3,0,0,11.2,,0,Y,Y
+FHY,Ds Design,,FHY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FI5,Fly One,F5,FI5,Moldova,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+FIA,Fly One,5F,FIA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+FIF,Air Finland,OF,FIF,Finland,Europe,,,0,0,0,0,0,,,,Y,N
+FIN,Finnair,AY,FIN,Finland,Europe,,,75,75,76,0,0,11.2,,0,Y,Y
+FIW,First International Airways,,FIW,,Unknown,,,0,0,1,0,0,,1965,100,N,Y
+FIX,Airfix Aviation,,FIX,Finland,Europe,,,0,0,0,0,0,,,,Y,N
+FJE,Silverjet,,FJE,,Unknown,,,0,0,1,0,0,,1957,100,N,Y
+FJI,Air Pacific,FJ,FJI,Fiji,Asia-Pacific,,,13,13,15,0,0,11.2,1999.3,20,Y,Y
+FJM,Fly Jamaica Airways,OJ,FJM,Jamaica,North America,,,2,2,2,0,0,11.2,1998,50,Y,Y
+FJS,Florida Jet Service,,FJS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FKS,Focus Air,,FKS,,Unknown,,,0,0,7,0,0,,1998.9,100,N,Y
+FLE,Flair Airlines,,FLE,,Unknown,,,0,0,14,0,0,,,0,N,Y
+FLI,Atlantic Airways,RC,FLI,Faroe Islands,Europe,,,4,4,7,0,0,11.2,,0,Y,Y
+FLJ,Flairjet Ltd - United Kingdom,,FLJ,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FLN,Frisia Luftverkehr Norddeich,,FLN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FLT,Flightline,B5,FLT,,Unknown,,,0,0,9,0,0,,1975,44.4,N,Y
+FLU,Flugschule Basel,,FLU,,Unknown,,,0,0,9,0,0,,1999.6,100,N,Y
+FLX,Flight Express,,FLX,,Unknown,,,0,0,1,0,0,,1979,100,N,Y
+FLZ,Air Florida,YS,FLZ,United States,North America,,,0,0,0,0,0,,,,Y,N
+FMR,Flamingo Air,,FMR,,Unknown,,,0,0,5,0,0,,1969,60,N,Y
+FMY,Aviation Legere De L'armee De Terre,,FMY,,Unknown,,,0,0,43,0,0,,,0,N,Y
+FNA,Norlandair,,FNA,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FNF,Finnish Air Force,,FNF,,Unknown,,,0,0,12,0,0,,,0,N,Y
+FNY,France Marine Nationale,,FNY,,Unknown,,,0,0,43,0,0,,,0,N,Y
+FOB,Ford Motor Company,,FOB,,Unknown,,,0,0,1,0,0,,1945,100,N,Y
+FOR,Formula One Management,,FOR,,Unknown,,,0,0,3,0,0,,1986.5,66.7,N,Y
+FOX,FOX Linhas Aereas,FX,FOX,Brazil,Latin America,,,1,1,148,0,0,11.2,1996.7,66.9,Y,Y
+FPG,Tag Aviation,,FPG,,Unknown,,,0,0,5,0,0,,1997.6,100,N,Y
+FPK,Air Falcon,,FPK,International,Unknown,,,0,0,0,0,0,,,,Y,N
+FPO,Asl Airlines France S.a. - France,5O,FPO,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FPR,Peruvian Air Force,,FPR,,Unknown,,,0,0,6,0,0,,,0,N,Y
+FPY,Play,OG,FPY,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FRE,Freedom Air,FP,FRE,,Unknown,,,0,0,8,0,0,,2000.4,87.5,N,Y
+FRF,FRF,,FRF,,Unknown,,,0,0,4,0,0,,,0,N,Y
+FRG,Freight Runners Express,,FRG,,Unknown,,,0,0,4,0,0,,1997,50,N,Y
+FRH,ACE Belgium Freighters,X7,FRH,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+FRR,Fresh Air,,FRR,,Unknown,,,0,0,2,0,0,,1978,100,N,Y
+FSA,Foster Aviation,,FSA,,Unknown,,,0,0,1,0,0,,1997,100,N,Y
+FSE,Alpine Flightservice,,FSE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+FSF,Fly7 Finland,,FSF,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FSK,Africa Charter Airline,,FSK,International,Unknown,,,0,0,0,0,0,,,,Y,N
+FTA,FTA,,FTA,,Unknown,,,0,0,3,0,0,,,0,N,Y
+FTP,Keystone Aerial Surveys,,FTP,,Unknown,,,0,0,19,0,0,,1975.3,94.7,N,Y
+FTY,Abc Bedarfsflug Gmbh T/a Fly Tyrol - Austria,,FTY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FTZ,Fly 540 Tanzania,FN,FTZ,International,Unknown,,,2,2,2,0,0,11.2,2005,100,Y,Y
+FUJ,Fujairah Aviation Centre,,FUJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FUT,Aereo Futuro,,FUT,International,Unknown,,,0,0,0,0,0,,,,Y,N
+FVS,Falcon Aviation Services,,FVS,,Unknown,,,0,0,31,0,0,,1987,3.2,N,Y
+FWI,Air Caraïbes,TX,FWI,France,Europe,,,15,15,15,0,0,11.2,2006,6.7,Y,Y
+FWQ,Flight West Airlines,QQ,FWQ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+FXA,Express Air,,FXA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FXI,Air Iceland,NY,FXI,Iceland,Europe,,,3,3,5,0,0,11.2,,0,Y,Y
+FXR,Foxair,,FXR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+FXT,Flexflight,,FXT,,Unknown,,,0,0,6,0,0,,,0,N,Y
+FXX,Felix Airways,FU,FXX,Yemen,Middle East,,,3,3,3,0,0,11.2,,0,Y,Y
+FYE,Easy Link Aviation Services,,FYE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FYJ,FYJ,,FYJ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+FYL,Flying Group Luxembourg,,FYL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+FZA,Fuzhou Airlines,FU,FZA,China,Asia-Pacific,,,13,13,13,0,3,11.2,,0,Y,Y
+GAC,Globeair,,GAC,,Unknown,,,0,0,3,0,0,,2008,33.3,N,Y
+GAD,South Coast Aviation,,GAD,,Unknown,,,0,0,3,0,0,,1995,66.7,N,Y
+GAF,German Air Force,,GAF,,Unknown,,,0,0,277,0,0,,1983,0.7,N,Y
+GAK,Global Aviation And Services Group,,GAK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GAM,German Army,,GAM,,Unknown,,,0,0,111,0,0,,,0,N,Y
+GAO,Golden Air,DC,GAO,,Unknown,,,0,0,1,0,0,,2004,100,N,Y
+GAP,Air Philippines,2P,GAP,Philippines,Asia-Pacific,,,14,14,17,0,0,11.2,,0,Y,Y
+GAR,Commodore Aviation,,GAR,,Unknown,,,0,0,1,0,0,,2011,100,N,Y
+GBG,GullivAir,G2,GBG,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+GBJ,Aero Business Charter,,GBJ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GBT,Gold Belt Air Transport,,GBT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GBX,Gb Airlink,,GBX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GCA,Grand Cru Airlines,9A,GCA,Lithuania,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+GCK,Aerogem Cargo,,GCK,,Unknown,,,0,0,1,0,0,,2014,100,N,Y
+GCL,CargoLogic Germany,6L,GCL,International,Unknown,,,2,2,2,0,0,11.2,,0,Y,Y
+GCR,Tianjin Airlines,GS,GCR,China,Asia-Pacific,,,90,90,92,0,2,11.2,2018,2.2,Y,Y
+GDC,Grand China Air,CN,GDC,China,Asia-Pacific,,,3,3,3,0,0,11.2,,0,Y,Y
+GDK,Goldeck-flug,,GDK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GEA,Guinea Ecuatorial Airlines,,GEA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GEC,Lufthansa Cargo,LH,GEC,Germany,Europe,,,22,22,22,2,0,11.2,,0,Y,Y
+GER,German International Air Lines,ZQ,GER,Germany,Europe,,,1,1,2,0,0,11.2,,0,Y,Y
+GES,Gestair,GP,GES,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GFA,Gulf Air,GF,GFA,Oman,Middle East,,,34,34,35,0,0,11.2,2008,2.9,Y,Y
+GFF,Griffin Aviation,,GFF,,Unknown,,,0,0,6,0,0,,1989.2,100,N,Y
+GFG,Georgian National Airlines,QB,GFG,Georgia,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+GHM,Aero Service Bolivia,,GHM,International,Unknown,,,0,0,0,0,0,,,,Y,N
+GHN,Air Ghana,,GHN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GIA,Garuda Indonesia,GA,GIA,Indonesia,Asia-Pacific,,,142,142,142,0,0,11.2,,0,Y,Y
+GIE,Elysian Airlines,E4,GIE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GIP,Air Guinee Express,2U,GIP,Guinea,Africa,,,0,0,0,0,0,,,,Y,N
+GJI,Gainjet Ireland Ltd,,GJI,,Unknown,,,0,0,1,0,1,,,0,N,Y
+GJM,Airhub Airlines,,GJM,International,Unknown,,,0,0,0,0,0,,,,Y,N
+GJS,GoJet Airlines,G7,GJS,United States,North America,,,51,51,52,0,3,11.2,2003.6,40.4,Y,Y
+GJT,Gestión Aérea Ejecutiva,GW,GJT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GLA,GLA,,GLA,,Unknown,,,0,0,25,0,0,,1995.5,72,N,Y
+GLF,Gulfstream Aerospace,,GLF,,Unknown,,,0,0,157,0,0,,2002.3,14.6,N,Y
+GLG,Aerolineas Galapagos (Aerogal),2K,GLG,Ecuador,Latin America,,,8,8,8,0,0,11.2,,0,Y,Y
+GLJ,Global Jet Austria Gmbh - Austria,,GLJ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+GLM,Aero Services Mali,,GLM,International,Unknown,,,0,0,0,0,0,,,,Y,N
+GLO,Gol Transportes Aéreos,G3,GLO,Brazil,Latin America,,,126,126,126,0,0,11.2,,0,Y,Y
+GLP,Globus,GH,GLP,Russia,Europe,,,8,8,11,0,0,11.2,,0,Y,Y
+GLR,Central Mountain Air,,GLR,,Unknown,,,0,0,14,0,0,,,0,N,Y
+GLT,Aero Charter,,GLT,,Unknown,,,0,0,2,0,1,,,0,N,Y
+GMA,Gama Aviation,,GMA,,Unknown,,,0,0,33,0,0,,2008,57.6,N,Y
+GMC,General Motors,,GMC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GMG,Gm Helicopters,,GMG,,Unknown,,,0,0,3,0,0,,,0,N,Y
+GMI,Germania,ST,GMI,Germany,Europe,,,26,26,26,0,0,11.2,,0,Y,Y
+GML,G & L Aviation,,GML,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GMR,Golden Myanmar Airlines,Y5,GMR,Burma,Asia-Pacific,,,3,3,3,0,0,11.2,,0,Y,Y
+GNJ,Gain Jet Aviation,,GNJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GNL,135 Airways,,GNL,,Unknown,,,0,0,1,0,0,,1981,100,N,Y
+GNT,Amber Air,0A,GNT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GNY,German Navy,,GNY,,Unknown,,,0,0,49,0,0,,,0,N,Y
+GNZ,General Aviation,,GNZ,,Unknown,,,0,0,7,0,0,,1977.9,100,N,Y
+GOW,Go Air,G8,GOW,India,Asia-Pacific,,,37,37,39,0,0,11.2,2015.7,7.7,Y,Y
+GPD,Tradewind Aviation,,GPD,,Unknown,,,0,0,2,0,1,,,0,N,Y
+GPE,Gp Express Airlines Inc. - United States Of America,,GPE,,Unknown,,,0,0,1,0,0,,1985,100,N,Y
+GRG,Air Georgia,DA,GRG,,Unknown,,,0,0,4,0,0,,,0,N,Y
+GRL,Air Greenland,GL,GRL,Denmark,Europe,,,1,1,21,0,0,11.2,,0,Y,Y
+GRY,New York State Police,,GRY,,Unknown,,,0,0,14,0,0,,1991.2,71.4,N,Y
+GSW,Chair Airlines,,GSW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GTH,General Aviation Flying Services - Inc. - United States Of America,,GTH,,Unknown,,,0,0,1,0,0,,2006,100,N,Y
+GTI,Atlas Air,5Y,GTI,United States,North America,,,72,72,72,0,0,11.2,1997.9,91.7,Y,Y
+GTX,Gta Air,,GTX,,Unknown,,,0,0,18,0,1,,1975.8,94.4,N,Y
+GUE,Aero Servicio Guerrero,,GUE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+GUN,Grant Aviation,GS,GUN,,Unknown,,,0,0,24,0,0,,1984.6,83.3,N,Y
+GUY,Air Guyane,GG,GUY,French Guiana,Latin America,,,5,5,8,0,0,11.2,,0,Y,Y
+GVN,Gavina,,GVN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GWI,Germanwings,4U,GWI,Germany,Europe,,,56,56,56,0,0,11.2,,0,Y,Y
+GWR,Aura Airlines,U5,GWR,International,Unknown,,,0,0,0,0,0,,,,Y,N
+GWS,General Airways,,GWS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GXA,Grixona,,GXA,,Unknown,,,0,0,1,0,1,,,0,N,Y
+GYP,Eagle Aviation,,GYP,,Unknown,,,0,0,22,0,0,,1987.9,95.5,N,Y
+GZA,Excellent Air,,GZA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+GZP,Gazpromavia,4G,GZP,Russia,Europe,,,3,3,85,0,0,11.2,2005.4,9.4,Y,Y
+HAI,Century Aviation International,,HAI,,Unknown,,,0,0,1,0,0,,1997,100,N,Y
+HAL,Hawaiian Airlines,HA,HAL,United States,North America,,,65,65,66,0,0,11.2,2010.3,83.3,Y,Y
+HAT,Air Taxi,,HAT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HAX,Benair,,HAX,,Unknown,,,0,0,11,0,0,,1976,9.1,N,Y
+HBH,Hebei Airlines,NS,HBH,China,Asia-Pacific,,,21,21,21,0,1,11.2,,0,Y,Y
+HBR,HBR,,HBR,,Unknown,,,0,0,2,0,0,,1994.5,100,N,Y
+HBU,Universal Avia,,HBU,,Unknown,,,0,0,3,0,0,,,0,N,Y
+HCP,"Helicopteros Dominicanos, S.a",,HCP,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HDA,Dragonair,KA,HDA,DRAGON,Unknown,,,45,45,45,0,0,11.2,,0,Y,Y
+HDL,Hendell Aviation Oy,,HDL,,Unknown,,,0,0,3,0,0,,,0,N,Y
+HEB,Heli Bernina,,HEB,,Unknown,,,0,0,4,0,0,,2012,100,N,Y
+HEM,Chc Helicopters,,HEM,,Unknown,,,0,0,1,0,0,,2008,100,N,Y
+HER,HER,,HER,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HFA,airHaifa,,HFA,International,Unknown,,,0,0,0,0,0,,,,Y,N
+HFM,Hi Fly Malta,3L,HFM,International,Unknown,,,2,2,3,0,0,11.2,,0,Y,Y
+HGR,Hangar 8,,HGR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HHE,Heli-holland,,HHE,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HHN,Hahn Air,HR,HHN,,Unknown,,,0,0,4,0,0,,,0,N,Y
+HHS,Hi-jet Helicopter Services,,HHS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HIM,Himalaya Airlines,H9,HIM,International,Unknown,,,3,3,3,0,0,11.2,,0,Y,Y
+HKA,Superior Aviation,SO,HKA,,Unknown,,,0,0,3,0,0,,1987,66.7,N,Y
+HKE,Hong Kong Express Airways,UO,HKE,Hong Kong SAR of China,Asia-Pacific,,,20,20,20,0,0,11.2,,0,Y,Y
+HKN,Jim Hankins Air Service,,HKN,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HKR,Hawk Air,,HKR,,Unknown,,,0,0,2,0,0,,2013,50,N,Y
+HKS,Chc Helikopter Service As - Norway,,HKS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HLC,Helicap,,HLC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HLE,Uk Hems,,HLE,,Unknown,,,0,0,1,0,0,,2000,100,N,Y
+HLI,Heli Securite,,HLI,,Unknown,,,0,0,6,0,0,,,0,N,Y
+HLO,Samaritan Air Service,,HLO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HLR,Heli Air Services,,HLR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HLU,Heli Union Heli Prestations,,HLU,,Unknown,,,0,0,11,0,0,,,0,N,Y
+HLW,Heliworks,,HLW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HLX,TUIfly,X3,HLX,Germany,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+HMA,Air Tahoma,,HMA,,Unknown,,,0,0,1,0,0,,1952,100,N,Y
+HMD,Charlie Hammonds Flying Service,,HMD,,Unknown,,,0,0,2,0,0,,1977,100,N,Y
+HNL,Chc Helicopters Netherlands,,HNL,,Unknown,,,0,0,3,0,0,,,0,N,Y
+HOP,Air France Hop,A5,HOP,International,Unknown,,,32,32,32,0,0,11.2,2018,3.1,Y,Y
+HPJ,Hop-a-jet,,HPJ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HPL,Heliportugal,,HPL,,Unknown,,,0,0,14,0,0,,,0,N,Y
+HRN,Heron Luftfahrt,,HRN,,Unknown,,,0,0,3,0,0,,,0,N,Y
+HRT,Chartright Air,,HRT,,Unknown,,,0,0,42,0,1,,2008,2.4,N,Y
+HRZ,Croatian Air Force,,HRZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HSE,Compania Helicopteros Del Sureste,,HSE,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HSS,Compania Transportes Aereos Del Sur,,HSS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HST,HST,,HST,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HSY,Sky Helicopteros,,HSY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+HTA,Helitrans,,HTA,,Unknown,,,0,0,5,0,0,,2007,80,N,Y
+HTH,Helitt Líneas Aéreas,,HTH,Spain,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+HTO,Tango Bravo,,HTO,,Unknown,,,0,0,1,0,0,,2002,100,N,Y
+HUF,Hungarian Air Force,,HUF,,Unknown,,,0,0,12,0,0,,2009,8.3,N,Y
+HVA,Newair,,HVA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+HVK,Turkish Air Force,,HVK,,Unknown,,,0,0,41,0,0,,,0,N,Y
+HVN,Vietnam Airlines,VN,HVN,Vietnam,Asia-Pacific,,,98,98,98,0,0,11.2,,0,Y,Y
+HVY,Heavylift Cargo Airlines,HN,HVY,,Unknown,,,0,0,3,0,0,,1968,33.3,N,Y
+HWA,Eastern Air Express,,HWA,International,Unknown,,,1,1,1,0,0,11.2,2007,100,Y,Y
+HWD,Hpm Investments,,HWD,,Unknown,,,0,0,1,0,0,,1996,100,N,Y
+HXA,China Express Airlines,G5,HXA,,Unknown,,,0,0,32,0,0,,,0,N,Y
+HYS,HiSky Europe,H4,HYS,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+IAD,Airasia India,I5,IAD,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IAE,Ac Insat-aero,,IAE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IAF,Israeli Air Force,,IAF,,Unknown,,,0,0,49,0,0,,,0,N,Y
+IAM,Aeronautica Militare,,IAM,Italy,Europe,,,8,8,51,0,0,11.2,,0,Y,Y
+IAR,Iliamna Air Taxi,,IAR,,Unknown,,,0,0,6,0,0,,1973.4,83.3,N,Y
+IATA:1X,Island Express Air,1X,,,Unknown,,,0,0,10,0,0,,,0,N,Y
+IATA:3O,Air Arabia Maroc,3O,,,Unknown,,,0,0,1,0,0,,2012,100,N,Y
+IATA:3S,Air Antilles Express,3S,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:4P,Business Aviation,4P,,,Unknown,,,0,0,1,0,0,,2002,100,N,Y
+IATA:5P,Pal Airlines,5P,,,Unknown,,,0,0,13,0,0,,,0,N,Y
+IATA:6T,Air Mandalay,6T,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:6Y,Smartlynx Airlines,6Y,,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IATA:7A,Aztec Worldwide Airlines,7A,,,Unknown,,,0,0,5,0,0,,1969.2,100,N,Y
+IATA:7J,Tajik Air,7J,,,Unknown,,,0,0,5,0,0,,,0,N,Y
+IATA:8I,Myway Airlines,8I,,,Unknown,,,0,0,2,0,0,,2007,100,N,Y
+IATA:8O,West Coast Air,8O,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:8Q,Princess Air,8Q,,,Unknown,,,0,0,4,0,0,,1982.5,100,N,Y
+IATA:8T,Air Tindi,8T,,,Unknown,,,0,0,23,0,0,,,0,N,Y
+IATA:;;,Wilderness Air,;;,,,Unknown,,,0,0,7,0,0,,,0,N,Y
+IATA:A0,Avianca Group,A0,,,Unknown,,,0,0,1,0,0,,2007,100,N,Y
+IATA:C3,Icar Airlines,C3,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:CD,Air India Regional,CD,,,Unknown,,,0,0,16,0,0,,,0,N,Y
+IATA:CR,Air Ops,CR,,,Unknown,,,0,0,1,0,0,,2006,100,N,Y
+IATA:D2,Severstal Air Company,D2,,,Unknown,,,0,0,10,0,0,,,0,N,Y
+IATA:DA,Dana Air,DA,,,Unknown,,,0,0,5,0,0,,,0,N,Y
+IATA:DQ,Coastal Air,DQ,,,Unknown,,,0,0,8,0,0,,1981.8,75,N,Y
+IATA:EE,Nordica,EE,,,Unknown,,,0,0,9,0,0,,,0,N,Y
+IATA:F8,Air2there,F8,,,Unknown,,,0,0,4,0,0,,2006,25,N,Y
+IATA:FP,Flypelican,FP,,,Unknown,,,0,0,1,0,0,,1992,100,N,Y
+IATA:GC,Lina Congo,GC,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:H7,Eagle Air,H7,,,Unknown,,,0,0,12,0,0,,1979.1,75,N,Y
+IATA:HH,Hope Air,HH,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:HI,Papillon Grand Canyon Helicopters,HI,,,Unknown,,,0,0,10,0,0,,,0,N,Y
+IATA:HK,Yangon Airways,HK,,,Unknown,,,0,0,3,0,0,,,0,N,Y
+IATA:IH,Falcon Aviation,IH,,,Unknown,,,0,0,13,0,0,,1988.2,76.9,N,Y
+IATA:IS,Island Airlines,IS,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:J1,Onejet,J1,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:JH,Fuji Dream Airlines,JH,,,Unknown,,,0,0,10,0,0,,,0,N,Y
+IATA:K3,Atlantic Air Cargo,K3,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:M2,Mhs Aviation Gmbh,M2,,,Unknown,,,0,0,14,0,0,,,0,N,Y
+IATA:MM,Peach Aviation,MM,,,Unknown,,,0,0,22,0,0,,2022,4.5,N,Y
+IATA:N9,North Coast Aviation,N9,,,Unknown,,,0,0,1,0,0,,2000,100,N,Y
+IATA:OE,Westair,OE,,,Unknown,,,0,0,3,0,0,,2015,66.7,N,Y
+IATA:P9,Peruvian Airlines,P9,,,Unknown,,,0,0,10,0,0,,,0,N,Y
+IATA:Q2,Maldivian,Q2,,,Unknown,,,0,0,18,0,0,,2004,5.6,N,Y
+IATA:QC,Camair-co,QC,,,Unknown,,,0,0,1,0,0,,2006,100,N,Y
+IATA:R4,Rossiya,R4,,,Unknown,,,0,0,2,0,0,,2007,100,N,Y
+IATA:S6,Star Air,S6,,,Unknown,,,0,0,15,0,0,,,0,N,Y
+IATA:S9,Starbow Airlines,S9,,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IATA:SL,Thai Lion Air,SL,,,Unknown,,,0,0,27,0,0,,,0,N,Y
+IATA:U7,Northern Dene Airways,U7,,,Unknown,,,0,0,3,0,0,,,0,N,Y
+IATA:UW,Uvt Aero,UW,,,Unknown,,,0,0,5,0,0,,,0,N,Y
+IATA:WE,Thai Smile Airways,WE,,,Unknown,,,0,0,20,0,0,,,0,N,Y
+IATA:WM,Windward Islands Airways,WM,,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IATA:XV,Bvi Airways,XV,,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IATA:Y7,Nordstar Airlines,Y7,,,Unknown,,,0,0,14,0,0,,,0,N,Y
+IAW,Iraqi Airways,IA,IAW,Iraq,Middle East,,,36,36,39,0,0,11.2,,0,Y,Y
+IAX,International Air Services,,IAX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IBB,Binter Canarias,NT,IBB,Spain,Europe,,,26,26,26,0,3,11.2,,0,Y,Y
+IBE,Iberia Airlines,IB,IBE,Spain,Europe,,,105,105,105,0,5,11.2,2014,3.8,Y,Y
+IBJ,Air Taxi And Charter International,,IBJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IBK,Norwegian Air International (D8),D8,IBK,Norway,Europe,,,79,79,79,0,0,11.2,2013.8,79.7,Y,Y
+IBS,Iberia Express,I2,IBS,Spain,Europe,,,26,26,26,0,5,11.2,2020.3,11.5,Y,Y
+IBU,Indigo,I9,IBU,United States,North America,,,1,1,1,0,0,11.2,,0,Y,Y
+IBX,Ibex Airlines,FW,IBX,Japan,Asia-Pacific,,,10,10,10,0,0,11.2,,0,Y,Y
+IBZ,International Business Air,6I,IBZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ICC,Instituto Cartografico De Cataluna,,ICC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ICE,Icelandair,FI,ICE,Iceland,Europe,,,44,44,44,0,0,11.2,,0,Y,Y
+ICG,Icelandic Coast Guard,,ICG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ICL,CAL Cargo Air Lines,5C,ICL,Israel,Middle East,,,4,4,5,0,0,11.2,,0,Y,Y
+ICR,Eagle Aero,,ICR,,Unknown,,,0,0,5,0,0,,1994.5,80,N,Y
+ICV,Cargolux Italia,C8,ICV,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+IDA,Indonesia Air Transport,,IDA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IDE,Independence Air,DH,IDE,,Unknown,,,0,0,1,0,0,,1979,100,N,Y
+IDX,Indonesa Air Aisa X,XT,IDX,Indonesia,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+IFA,Fai Air Service,,IFA,,Unknown,,,0,0,12,0,0,,,0,N,Y
+IFC,Indian Air Force,,IFC,,Unknown,,,0,0,237,0,0,,,0,N,Y
+IFL,Ifl Group,,IFL,,Unknown,,,0,0,19,0,0,,1960.7,89.5,N,Y
+IGA,Skytaxi,,IGA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IGO,IndiGo Airlines,6E,IGO,India,Asia-Pacific,,,191,191,191,0,0,11.2,2016.7,3.7,Y,Y
+IHO,748 Air Services,FE,IHO,International,Unknown,,,0,0,0,0,0,,,,Y,N
+IIA,AIR INDOCHINE,,IIA,Vietnam,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+IJA,International Jet Aviation Services,,IJA,,Unknown,,,0,0,3,0,0,,1982,33.3,N,Y
+IJM,Ijm International Jet Management,,IJM,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IKM,Aero Survey,,IKM,,Unknown,,,0,0,2,0,0,,1988.5,100,N,Y
+ILC,Island Link,,ILC,,Unknown,,,0,0,1,0,0,,1979,100,N,Y
+ILF,Island Air Charters,,ILF,,Unknown,,,0,0,2,0,0,,1977,100,N,Y
+ILN,Interair South Africa,D6,ILN,South Africa,Africa,,,2,2,2,0,0,11.2,,0,Y,Y
+IMX,Zimex Aviation,C4,IMX,,Unknown,,,0,0,20,0,0,,1986.3,95,N,Y
+INP,Peruvian Navy,,INP,,Unknown,,,0,0,4,0,0,,,0,N,Y
+IOS,Isles Of Scilly Skybus,,IOS,,Unknown,,,0,0,8,0,0,,1985.2,100,N,Y
+IRA,Iran Air,IR,IRA,Iran,Middle East,,,35,35,35,0,0,11.2,,0,Y,Y
+IRC,Iran Aseman Airlines,EP,IRC,Iran,Middle East,,,22,22,24,0,0,11.2,,0,Y,Y
+IRL,Irish Air Corps,,IRL,,Unknown,,,0,0,21,0,0,,,0,N,Y
+IRM,Mahan Air,W5,IRM,Iran,Middle East,,,36,36,54,0,0,11.2,,0,Y,Y
+IRQ,Qeshm Air,,IRQ,,Unknown,,,0,0,17,0,0,,,0,N,Y
+IRU,Chabahar Airline - Iran,,IRU,,Unknown,,,0,0,2,0,0,,,0,N,Y
+IRV,Safat Airlines,,IRV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ISI,Island Air,,ISI,,Unknown,,,0,0,17,0,0,,1984.5,35.3,N,Y
+ISR,Israir,6H,ISR,Israel,Middle East,,,7,7,7,0,0,11.2,,0,Y,Y
+ISS,Meridiana,IG,ISS,Italy,Europe,,,24,24,24,0,0,11.2,1999.7,33.3,Y,Y
+ITE,Aerotaxi,,ITE,,Unknown,,,0,0,20,0,0,,,0,N,Y
+ITN,Industrias Titan Sa,,ITN,,Unknown,,,0,0,1,0,0,,2003,100,N,Y
+ITS,Inter-state Aviation,,ITS,,Unknown,,,0,0,1,0,0,,1978,100,N,Y
+ITY,ITA Airways,AZ,ITY,International,Unknown,,,2,2,2,0,0,11.2,2023,50,Y,Y
+IVT,Interaviatrans,,IVT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+IWA,Apache Air,ZM,IWA,United States,North America,,,0,0,0,0,0,,,,Y,N
+IXR,Ixair,,IXR,,Unknown,,,0,0,4,0,0,,,0,N,Y
+IYE,Yemenia,IY,IYE,Yemen,Middle East,,,4,4,5,0,0,11.2,,0,Y,Y
+IZA,Izhavia,,IZA,,Unknown,,,0,0,11,0,0,,,0,N,Y
+IZG,Zagros Airlines,,IZG,,Unknown,,,0,0,18,0,0,,,0,N,Y
+JAA,Japan Asia Airways,JF,JAA,Japan,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+JAB,Air Bagan,W9,JAB,Myanmar,Asia-Pacific,,,1,1,1,0,0,11.2,,0,Y,Y
+JAC,Japan Air Commuter,3X,JAC,,Unknown,,,0,0,24,0,0,,,0,N,Y
+JAF,Jetairfly,TB,JAF,Belgium,Europe,,,32,32,32,0,3,11.2,2015,3.1,Y,Y
+JAI,Jet Airways,9W,JAI,India,Asia-Pacific,,,100,100,100,0,0,11.2,,0,Y,Y
+JAL,Japan Airlines Domestic,JL,JAL,Japan,Asia-Pacific,,,184,184,184,0,40,11.2,2012.5,1.1,Y,Y
+JAS,JAS,,JAS,,Unknown,,,0,0,32,0,0,,2012.5,65.6,N,Y
+JAT,Jat,JA,JAT,,Unknown,,,0,0,15,0,0,,,0,N,Y
+JAV,Jordan Aviation,R5,JAV,,Unknown,,,0,0,11,0,0,,1994,9.1,N,Y
+JBA,Helijet,JB,JBA,,Unknown,,,0,0,2,0,0,,2006,50,N,Y
+JBU,JetBlue Airways,B6,JBU,United States,North America,,,281,281,288,0,2,11.2,2009.4,90.6,Y,Y
+JCK,Jackson Air Services,,JCK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+JCL,Jetcall,,JCL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JCO,"Concierge U Ltd, London",,JCO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JEA,Jet Air,,JEA,,Unknown,,,0,0,37,0,0,,1992.2,81.1,N,Y
+JEF,Jetflite,,JEF,,Unknown,,,0,0,6,0,0,,,0,N,Y
+JEI,Jet Executive International Charter,,JEI,,Unknown,,,0,0,5,0,0,,,0,N,Y
+JES,Jetsmart Argentina,WJ,JES,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JET,JET,,JET,,Unknown,,,0,0,5,0,0,,,0,N,Y
+JFA,Jetfly Aviation,,JFA,,Unknown,,,0,0,11,0,0,,,0,N,Y
+JGN,JGN,,JGN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JHN,Johnson Air,,JHN,,Unknown,,,0,0,2,0,0,,2018,50,N,Y
+JJA,Jeju Air,7C,JJA,Republic of Korea,Asia-Pacific,,,29,29,29,0,0,11.2,,0,Y,Y
+JJP,Jetstar Japan,GK,JJP,Japan,Asia-Pacific,,,21,21,21,0,4,11.2,,0,Y,Y
+JLJ,J-air,,JLJ,,Unknown,,,0,0,30,0,0,,,0,N,Y
+JLL,JetKonnect,,JLL,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+JME,Executive Jet Management (europe),,JME,,Unknown,,,0,0,2,0,0,,2018,100,N,Y
+JMP,Business Wings,,JMP,International,Unknown,,,0,0,0,0,0,,,,Y,N
+JNA,Jin Air,LJ,JNA,South Korea,Asia-Pacific,,,23,23,23,0,0,11.2,,0,Y,Y
+JNH,M & N Aviation,,JNH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JNL,JetNetherlands,,JNL,International,Unknown,,,1,1,2,0,0,11.2,,0,Y,Y
+JNY,Journey Aviation,,JNY,,Unknown,,,0,0,4,0,0,,2000.8,100,N,Y
+JON,Johnsons Air,,JON,,Unknown,,,0,0,2,0,0,,,0,N,Y
+JOR,Blue Air,0B,JOR,Romania,Europe,,,31,31,32,0,0,11.2,1990.5,6.2,Y,Y
+JOY,Joy Air,JR,JOY,,Unknown,,,0,0,5,0,0,,2014,20,N,Y
+JPR,Aerosmith Aviation,,JPR,,Unknown,,,0,0,4,0,0,,1977,50,N,Y
+JSA,Jetstar Asia Airways,3K,JSA,Singapore,Asia-Pacific,,,18,18,18,0,0,11.2,,0,Y,Y
+JSD,B.J. Aviation Slovenia,,JSD,International,Unknown,,,0,0,0,0,0,,,,Y,N
+JSG,B.J. Aviation Hungary,,JSG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+JSH,Jetstream Air,,JSH,,Unknown,,,0,0,4,0,0,,1994.5,50,N,Y
+JSI,Jet Air Group,,JSI,,Unknown,,,0,0,7,0,0,,2009.5,28.6,N,Y
+JSM,Jet Stream,,JSM,,Unknown,,,0,0,1,0,0,,1975,100,N,Y
+JSP,Palmer Aviation,,JSP,,Unknown,,,0,0,1,0,0,,1978,100,N,Y
+JST,Jetstar Airways,JQ,JST,Australia,Asia-Pacific,,,71,71,73,0,0,11.2,2010.1,30.1,Y,Y
+JTA,Japan Transocean Air,NU,JTA,Japan,Asia-Pacific,,,15,15,15,0,0,11.2,,0,Y,Y
+JTD,Jettime,JO,JTD,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+JTE,National Jet Express,NC,JTE,,Unknown,,,0,0,8,0,0,,1999.9,87.5,N,Y
+JTG,Jettime,JO,JTG,,Unknown,,,0,0,6,0,0,,2007.5,33.3,N,Y
+JTR,Executive Aviation Services,,JTR,,Unknown,,,0,0,2,0,0,,2001,100,N,Y
+JTZ,Nicholas Air,,JTZ,,Unknown,,,0,0,1,0,0,,2020,100,N,Y
+JUB,Jubba Airways,,JUB,,Unknown,,,0,0,5,0,0,,1997,20,N,Y
+JUR,Ju-air,,JUR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+JUS,Usa Jet Airlines,U7,JUS,,Unknown,,,0,0,16,0,0,,1982.7,93.8,N,Y
+JYH,9 Air,AQ,JYH,International,Unknown,,,0,0,0,0,0,,,,Y,N
+JZA,Air Canada Jazz,QK,JZA,Canada,North America,,,60,60,102,0,0,11.2,2006,1,Y,Y
+JZR,Jazeera Airways,J9,JZR,Kuwait,Middle East,,,11,11,11,0,0,11.2,,0,Y,Y
+KAC,Kuwait Airways,KU,KAC,Kuwait,Middle East,,,35,35,35,0,0,11.2,,0,Y,Y
+KAH,Kent Aviation,,KAH,,Unknown,,,0,0,2,0,0,,1990,100,N,Y
+KAI,Kaiser Air,,KAI,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KAL,Korean Air,KE,KAL,Republic of Korea,Asia-Pacific,,,184,184,196,0,0,11.2,2000,0.5,Y,Y
+KAP,Cape Air,9K,KAP,United States,North America,,,3,3,7,0,2,11.2,1990.2,57.1,Y,Y
+KAR,Pegas Fly,EO,KAR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+KAY,KAY,,KAY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KBA,Kenn Borek Air,,KBA,,Unknown,,,0,0,43,0,0,,,0,N,Y
+KBR,KoralBlue Airlines,K7,KBR,Egypt,Africa,,,1,1,1,0,0,11.2,2003,100,Y,Y
+KBS,Business Aero,,KBS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KBZ,Air KBZ,K7,KBZ,Burma,Asia-Pacific,,,13,13,13,0,0,11.2,,0,Y,Y
+KCU,KCU,,KCU,,Unknown,,,0,0,14,0,0,,,0,N,Y
+KDZ,Flightworks,,KDZ,,Unknown,,,0,0,8,0,0,,1985,25,N,Y
+KEA,Korea Express Air,,KEA,South Korea,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+KEM,CemAir,5Z,KEM,International,Unknown,,,0,0,0,0,2,,,,Y,N
+KEN,KEN,,KEN,,Unknown,,,0,0,16,0,0,,1975.1,62.5,N,Y
+KFA,Kelowna Flightcraft Air Charter,,KFA,,Unknown,,,0,0,7,0,0,,,0,N,Y
+KFS,Kalitta Charters,CB*,KFS,,Unknown,,,0,0,52,0,0,,1978.8,80.8,N,Y
+KGN,Asman Airlines,,KGN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KHV,Cambodia Angkor Air,K6,KHV,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KIL,Kuban Airlines,GW,KIL,Russia,Europe,,,1,1,2,0,0,11.2,1990,50,Y,Y
+KIS,Contact Air,Y9,KIS,Germany,Europe,,,14,14,14,0,0,11.2,,0,Y,Y
+KIW,Royal New Zealand Air Force,,KIW,,Unknown,,,0,0,43,0,0,,1966,25.6,N,Y
+KKK,Atlasjet,KK,KKK,Turkey,Europe,,,23,23,23,0,0,11.2,,0,Y,Y
+KLC,KLM Cityhopper,WA,KLC,Netherlands,Europe,,,66,66,66,0,0,11.2,2016.7,4.5,Y,Y
+KLM,KLM Royal Dutch Airlines,KL,KLM,Netherlands,Europe,,,143,143,145,6,1,11.2,2020.5,1.4,Y,Y
+KLO,Flight-ops International,,KLO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KLS,Kal Star Aviation,,KLS,Indonesia,Asia-Pacific,,,7,7,7,0,0,11.2,,0,Y,Y
+KME,Cambodia Airways,KR,KME,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KMF,Kam Air,RQ,KMF,Afghanistan,Asia-Pacific,,,9,9,11,0,0,11.2,2003,9.1,Y,Y
+KMI,K-mile Air,,KMI,,Unknown,,,0,0,4,0,0,,,0,N,Y
+KNA,Knight Air,,KNA,,Unknown,,,0,0,5,0,0,,2015,40,N,Y
+KND,Kan Air,,KND,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KNE,Nas Air,XY,KNE,Saudi Arabia,Middle East,,,38,38,38,0,0,11.2,,0,Y,Y
+KNG,King Aviation,,KNG,,Unknown,,,0,0,1,0,0,,2021,100,N,Y
+KNM,Komsomolsk-on-amur Air Enterprise,,KNM,,Unknown,,,0,0,3,0,0,,,0,N,Y
+KOE,Northland Aviation,,KOE,,Unknown,,,0,0,1,0,0,,1975,100,N,Y
+KON,Air Connect,KS,KON,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KOR,Air Koryo,JS,KOR,Democratic People's Republic of Korea,Asia-Pacific,,,0,0,8,0,0,,,0,Y,Y
+KQA,Kenya Airways,KQ,KQA,Kenya,Africa,,,39,39,39,0,0,11.2,2014.2,23.1,Y,Y
+KRE,Aerosucre,6N,KRE,,Unknown,,,0,0,5,0,0,,,0,N,Y
+KRP,Carpatair,V3,KRP,Romania,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+KSM,Kosmos Airlines,,KSM,,Unknown,,,0,0,6,0,0,,1966,16.7,N,Y
+KSU,Kansas State University,,KSU,,Unknown,,,0,0,31,0,0,,2011.6,83.9,N,Y
+KSZ,Sunrise Airways,S6,KSZ,Haiti,North America,,,2,2,2,0,2,11.2,,0,Y,Y
+KTA,Kirov Air Enterprise,,KTA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+KTK,Katekavia,,KTK,,Unknown,,,0,0,5,0,0,,,0,N,Y
+KTV,Kata Transportation,,KTV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KUH,Kush Air,,KUH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KVR,Alliance Avia,,KVR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+KW1,Wataniya Airways,,KW1,Kuwait,Middle East,,,2,2,2,0,0,11.2,,0,Y,Y
+KYA,Alghanim,,KYA,United States,North America,,,0,0,0,0,0,,,,Y,N
+KYE,Sky Lease Cargo,GG,KYE,International,Unknown,,,1,1,1,0,0,11.2,2005,100,Y,Y
+KZA,Kurzemes Avio,,KZA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KZK,Air Kazakhstan,9Y,KZK,Kazakhstan,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+KZN,Aviaservice,,KZN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+KZR,Air Astana,KC,KZR,Kazakhstan,Asia-Pacific,,,29,29,29,0,21,11.2,,0,Y,Y
+KZS,Kazaviaspas,,KZS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+KZU,Kuzu Airlines Cargo,GO,KZU,Turkey,Europe,,,5,5,5,0,0,11.2,,0,Y,Y
+LAA,Libyan Arab Airlines,LN,LAA,Libya,Africa,,,13,13,13,0,0,11.2,,0,Y,Y
+LAF,Latvian Air Force,,LAF,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LAJ,British Mediterranean Airways,KJ,LAJ,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+LAL,Labrador Airways,,LAL,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LAM,Linhas A,TM,LAM,Mozambique,Africa,,,7,7,7,0,0,11.2,,0,Y,Y
+LAN,LAN Airlines,LA,LAN,Chile,Latin America,,,102,102,102,0,0,11.2,2019,1,Y,Y
+LAO,Lao Airlines,QV,LAO,Lao Peoples Democratic Republic,Asia-Pacific,,,11,11,11,0,0,11.2,,0,Y,Y
+LAP,TAM Mercosur,PZ,LAP,Paraguay,Latin America,,,1,1,1,0,0,11.2,,0,Y,Y
+LAR,Lawrence Aviation,,LAR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LAV,AlbaStar,AP,LAV,Spain,Europe,,,9,9,9,0,0,11.2,2000,11.1,Y,Y
+LAW,Link Airways Of Australia,,LAW,,Unknown,,,0,0,1,0,0,,1998,100,N,Y
+LBC,Albanian Airlines,LV,LBC,Albania,Europe,,,0,0,0,0,0,,,,Y,N
+LBQ,Quest Diagnostics,,LBQ,,Unknown,,,0,0,6,0,0,,,0,N,Y
+LBT,Nouvel Air Tunisie,BJ,LBT,Tunisia,Africa,,,9,9,9,0,0,11.2,2006.2,100,Y,Y
+LCH,Lynch Flying Service,,LCH,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LCO,Latam Cargo Chile,,LCO,,Unknown,,,0,0,4,0,0,,2004.3,75,N,Y
+LCT,Transportes Aereos Regionales (tar),,LCT,,Unknown,,,0,0,1,0,0,,1998,100,N,Y
+LDA,Lauda Air,NG,LDA,Austria,Europe,,,7,7,7,0,0,11.2,2010,14.3,Y,Y
+LDL,Aerologic,,LDL,,Unknown,,,0,0,3,0,0,,1974.5,66.7,N,Y
+LDM,Lauda Motion (Amira Air),,LDM,International,Unknown,,,8,8,10,0,0,11.2,2005,10,Y,Y
+LDX,Laudamotion Executive Gmbh - Austria,,LDX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LER,Linea Aerea De Servicio Ejecutivo Regional,8Z,LER,,Unknown,,,0,0,8,0,0,,,0,N,Y
+LET,Aerolineas Ejecutivas,,LET,,Unknown,,,0,0,1,0,0,,2001,100,N,Y
+LFA,Air Alfa,,LFA,Turkey,Europe,,,0,0,0,0,1,,,,Y,N
+LFI,National Airways Corporation,,LFI,,Unknown,,,0,0,22,0,0,,,0,N,Y
+LGL,Luxair,LG,LGL,Luxembourg,Europe,,,20,20,22,0,0,11.2,2007,4.5,Y,Y
+LGT,Longtail Aviation,,LGT,,Unknown,,,0,0,4,0,0,,,0,N,Y
+LIA,Leeward Islands Air Transport,LI,LIA,Antigua and Barbuda,North America,,,9,9,11,0,0,11.2,2013.5,18.2,Y,Y
+LID,Alidaunia,D4,LID,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LIF,Rocky Mountain Holdings,,LIF,,Unknown,,,0,0,3,0,0,,2000,66.7,N,Y
+LIN,Aerolimousine,,LIN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+LIS,Eastern Express,,LIS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LJB,Al Jaber Aviation,,LJB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+LJY,L J Aviation,,LJY,,Unknown,,,0,0,6,0,0,,,0,N,Y
+LKE,Lucky Air,,LKE,,Unknown,,,0,0,43,0,1,,2008,2.3,N,Y
+LKL,Lakeland Aviation,,LKL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LKP,American Aviation,,LKP,,Unknown,,,0,0,35,0,0,,1983.6,88.6,N,Y
+LLC,FlyLAL Charters,,LLC,Lithuania,Europe,,,10,10,10,0,0,11.2,,0,Y,Y
+LLM,Yamal Airlines,YL,LLM,Russia,Europe,,,25,25,66,0,0,11.2,,0,Y,Y
+LLR,Alliance Air,CD,LLR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LMG,South African Air Force,,LMG,,Unknown,,,0,0,15,0,1,,1942,6.7,N,Y
+LMJ,Masterjet,,LMJ,,Unknown,,,0,0,10,0,0,,,0,N,Y
+LMK,Grantex Aviation,,LMK,,Unknown,,,0,0,2,0,0,,2001,100,N,Y
+LMS,Lomas Helicopters,,LMS,,Unknown,,,0,0,1,0,0,,1981,100,N,Y
+LMU,AlMasria Universal Airlines,UJ,LMU,Egypt,Africa,,,5,5,5,0,0,11.2,1998.5,40,Y,Y
+LMY,Air Almaty,,LMY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LNE,Aerolane,XL,LNE,Ecuador,Latin America,,,5,5,5,0,0,11.2,,0,Y,Y
+LNI,Lion Mentari Airlines,JT,LNI,Indonesia,Asia-Pacific,,,115,115,115,0,0,11.2,,0,Y,Y
+LNK,Airlink,4Z,LNK,,Unknown,,,0,0,6,0,14,,2000,33.3,N,Y
+LNP,Linea Aerea Sapsa,L7,LNP,,Unknown,,,0,0,3,0,0,,,0,N,Y
+LNX,London Executive Aviation,,LNX,,Unknown,,,0,0,25,0,0,,2004.5,84,N,Y
+LOF,Trans States Airlines,AX,LOF,United States,North America,,,23,23,52,0,0,11.2,2001.4,96.2,Y,Y
+LOG,Loganair Limited - United Kingdom,LC,LOG,,Unknown,,,0,0,4,0,0,,,0,N,Y
+LOL,Easy Charter,,LOL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LOT,LOT Polish Airlines,LO,LOT,Poland,Europe,,,58,58,67,0,0,11.2,2009.3,4.5,Y,Y
+LPC,Alpine Aviation,,LPC,,Unknown,,,0,0,60,0,0,,1987.7,86.7,N,Y
+LPE,LAN Peru,LP,LPE,Peru,Latin America,,,28,28,28,0,0,11.2,,0,Y,Y
+LRC,LACSA,LR,LRC,Costa Rica,Latin America,,,2,2,2,0,0,11.2,2011.5,100,Y,Y
+LRQ,Luxembourg Air Ambulance S.a. - Luxembourg,,LRQ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LRR,Lorraine Aviation,,LRR,,Unknown,,,0,0,2,0,0,,1960,50,N,Y
+LSI,MSC Air,CP,LSI,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+LSR,Alsair,,LSR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LSY,Lindsay Aviation,,LSY,,Unknown,,,0,0,2,0,0,,1977,100,N,Y
+LTC,LatCharter,,LTC,Latvia,Europe,,,2,2,8,0,0,11.2,2014,12.5,Y,Y
+LTD,Southern Airways Express,,LTD,,Unknown,,,0,0,3,0,0,,2016.3,100,N,Y
+LTR,LTR,,LTR,,Unknown,,,0,0,22,0,0,,,0,N,Y
+LTU,Air Lituanica,LT,LTU,Lithuania,Europe,,,0,0,0,0,0,,,,Y,N
+LUC,Albinati Aeronautics,,LUC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LUE,Aeroclub de Alicante,,LUE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+LUK,Lukoil-avia,,LUK,,Unknown,,,0,0,4,0,0,,,0,N,Y
+LUR,Atlantis European Airways,TD,LUR,Armenia,Europe,,,0,0,0,0,0,,,,Y,N
+LUV,Luxembourg Air Rescue,,LUV,,Unknown,,,0,0,10,0,0,,,0,N,Y
+LVB,Irs Airlines,,LVB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LWA,Libyan Wings,YL,LWA,International,Unknown,,,2,2,2,0,0,11.2,2006,50,Y,Y
+LWD,Leisure Air,,LWD,,Unknown,,,0,0,1,0,0,,2022,100,N,Y
+LWG,Luxwing,BN,LWG,International,Unknown,,,2,2,5,0,0,11.2,,0,Y,Y
+LXA,Luxaviation S.a. - Luxembourg,,LXA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+LXG,Luxaviation Germany,L8,LXG,,Unknown,,,0,0,2,0,0,,,0,N,Y
+LXJ,Bombardier Business Jet Solutions,,LXJ,,Unknown,,,0,0,13,0,3,,2011.5,15.4,N,Y
+LXR,Air Luxor,LK,LXR,Portugal,Europe,,,0,0,0,0,0,,,,Y,N
+LYC,Lynden Air Cargo,L2,LYC,,Unknown,,,0,0,13,0,0,,1977,46.2,N,Y
+LYD,Lydd Air,,LYD,,Unknown,,,0,0,2,0,0,,1988.5,100,N,Y
+LYF,Lithuanian Air Force,,LYF,,Unknown,,,0,0,10,0,0,,,0,N,Y
+LYM,Key Lime Air,,LYM,,Unknown,,,0,0,2,0,1,,2001,50,N,Y
+LYW,Libyan Airlines,,LYW,,Unknown,,,0,0,3,0,0,,2013,100,N,Y
+LZB,Bulgaria Air,FB,LZB,Bulgaria,Europe,,,10,10,11,0,0,11.2,,0,Y,Y
+M7A,All America AR,2R,M7A,Argentina,Latin America,,,0,0,0,0,0,,,,Y,N
+MAA,MasAir,M7,MAA,Mexico,North America,,,1,1,1,0,2,11.2,2006,100,Y,Y
+MAC,Malta Air Charter,3O,MAC,Malta,Europe,,,7,7,7,0,0,11.2,2015,14.3,Y,Y
+MAD,Maple Air Services,,MAD,,Unknown,,,0,0,2,0,0,,,0,N,Y
+MAF,Mission Aviation Fellowship,,MAF,,Unknown,,,0,0,20,0,0,,1989.1,70,N,Y
+MAI,Mauritania Airlines International,L6,MAI,Mauritania,Africa,,,6,6,6,0,0,11.2,2005,16.7,Y,Y
+MAL,Morningstar Air Express,,MAL,Canada,North America,,,8,8,16,0,0,11.2,,0,Y,Y
+MAQ,Mac Aviation,,MAQ,,Unknown,,,0,0,2,0,0,,2021,50,N,Y
+MAS,Malaysia Airlines,MH,MAS,Malaysia,Asia-Pacific,,,81,81,81,0,0,11.2,2011.7,3.7,Y,Y
+MAU,Air Mauritius,MK,MAU,Mauritius,Africa,,,18,18,18,0,0,11.2,2006.5,11.1,Y,Y
+MAV,Maldivo Airlines,NR,MAV,Maldives,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+MAY,Malta Air,AL,MAY,International,Unknown,,,16,16,16,0,0,11.2,,0,Y,Y
+MBB,Air Manas,,MBB,,Unknown,,,0,0,3,0,0,,,0,N,Y
+MBE,Martin-baker Ltd. - United Kingdom,,MBE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MBR,Brazilian Navy Aviation,,MBR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MCC,Mcc Aviation,,MCC,,Unknown,,,0,0,4,0,0,,,0,N,Y
+MCD,Air Medical,,MCD,,Unknown,,,0,0,2,0,0,,,0,N,Y
+MCJ,Avianca Argentina,A0,MCJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MCM,Heli-air-monaco,,MCM,,Unknown,,,0,0,1,0,0,,1988,100,N,Y
+MCT,Transportacion Aerea Del Mar De Cortes,,MCT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MDA,Mandarin Airlines,AE,MDA,Taiwan,Asia-Pacific,,,6,6,6,0,0,11.2,,0,Y,Y
+MDF,Mediterranean Air Freight,,MDF,,Unknown,,,0,0,2,0,0,,,0,N,Y
+MDG,Air Madagascar,MD,MDG,Madagascar,Africa,,,5,5,5,0,0,11.2,2000,20,Y,Y
+MDK,Air Wanganui Commuter,,MDK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MDM,Medavia Company,,MDM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MDN,Meridian Jsc,,MDN,,Unknown,,,0,0,1,0,0,,2011,100,N,Y
+MEA,Middle East Airlines,ME,MEA,Lebanon,Middle East,,,22,22,24,0,0,11.2,,0,Y,Y
+MEG,Mega Maldives,LV,MEG,International,Unknown,,,2,2,2,0,0,11.2,1992.5,100,Y,Y
+MEP,Midwest Airlines,YX,MEP,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MET,Meteorological Research Flight,,MET,,Unknown,,,0,0,1,0,0,,1981,100,N,Y
+MEV,Med-View Airline,VL,MEV,International,Unknown,,,2,2,2,0,0,11.2,1996.5,100,Y,Y
+MEX,Metro Express,,MEX,,Unknown,,,0,0,4,0,0,,,0,N,Y
+MFT,Multiflight,,MFT,,Unknown,,,0,0,6,0,0,,1985.4,100,N,Y
+MGE,Asia Pacific Airlines,,MGE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MGL,MIAT Mongolian Airlines,OM,MGL,Mongolia,Asia-Pacific,,,4,4,6,0,0,11.2,2002,16.7,Y,Y
+MGX,Montenegro Airlines,YM,MGX,Montenegro,Europe,,,6,6,6,0,0,11.2,,0,Y,Y
+MHU,Air Memphis,,MHU,,Unknown,,,0,0,1,0,0,,2000,100,N,Y
+MHV,Mhs Aviation Gmbh,M2,MHV,,Unknown,,,0,0,5,0,0,,,0,N,Y
+MJF,Samples Ryan,,MJF,,Unknown,,,0,0,2,0,0,,1966,50,N,Y
+MJN,Royal Air Force Of Oman,RS,MJN,,Unknown,,,0,0,20,0,0,,,0,N,Y
+MJP,Air Majoro,,MJP,Peru,Latin America,,,0,0,0,0,0,,,,Y,N
+MKG,Air Mekong,P8,MKG,Vietnam,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+MKH,Air Marrakech Service,,MKH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MKL,Mccall Aviation,,MKL,,Unknown,,,0,0,1,0,0,,1965,100,N,Y
+MKS,Pimichikamac Air,,MKS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MLA,40-Mile Air,Q5,MLA,United States,North America,,,0,0,0,0,0,,,,Y,N
+MLD,Air Moldova,9U,MLD,Moldova,Europe,,,9,9,9,0,0,11.2,,0,Y,Y
+MLK,Millennium Air,,MLK,,Unknown,,,0,0,3,0,0,,1978.5,66.7,N,Y
+MLL,Aeroclub de Mallorca,,MLL,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MLT,Maleth-Aero,DB,MLT,International,Unknown,,,6,6,6,0,0,11.2,1988,16.7,Y,Y
+MMD,Air Alsie,,MMD,,Unknown,,,0,0,22,0,0,,,0,N,Y
+MMG,Aereo Ruta Maya,,MMG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MMM,Myanmar Airways International,8M,MMM,Myanmar,Asia-Pacific,,,4,4,7,0,0,11.2,2008,14.3,Y,Y
+MMO,Malta MedAir,MM,MMO,International,Unknown,,,7,7,7,0,0,11.2,,0,Y,Y
+MMX,Airmax,,MMX,,Unknown,,,0,0,3,0,0,,2005,33.3,N,Y
+MMZ,Euroatlantic Airways,MM,MMZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MNB,MNG Airlines,MB,MNB,Turkey,Europe,,,11,11,11,0,0,11.2,,0,Y,Y
+MNG,Aero Mongolia,M0,MNG,,Unknown,,,0,0,4,0,0,,,0,N,Y
+MNL,Miniliner,,MNL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MNO,Mango,JE,MNO,South Africa,Africa,,,10,10,10,0,0,11.2,,0,Y,Y
+MNS,Ministic Air,,MNS,,Unknown,,,0,0,2,0,0,,,0,N,Y
+MNU,Elite Airways,7Q,MNU,International,Unknown,,,1,1,1,0,0,11.2,2003,100,Y,Y
+MON,Monarch Airlines,ZB,MON,United Kingdom,Europe,,,36,36,36,0,0,11.2,2004.8,97.2,Y,Y
+MOV,VIM Airlines,NN,MOV,Russia,Europe,,,18,18,18,0,0,11.2,1994,22.2,Y,Y
+MPD,Air Plus Comet,A7,MPD,Spain,Europe,,,0,0,0,0,0,,,,Y,N
+MPE,Canadian North,5T,MPE,Canada,North America,,,14,14,18,0,0,11.2,,0,Y,Y
+MPH,Martinair,MP,MPH,Netherlands,Europe,,,2,2,2,1,0,11.2,,0,Y,Y
+MQT,Air Itm,,MQT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MRA,Martinaire,,MRA,,Unknown,,,0,0,7,0,0,,,0,N,Y
+MSA,Mistral Air,,MSA,,Unknown,,,0,0,7,0,0,,,0,N,Y
+MSC,Air Cairo,,MSC,,Unknown,,,0,0,10,0,0,,2008.7,60,N,Y
+MSE,EgyptAir Express,,MSE,Egypt,Africa,,,12,12,12,0,0,11.2,2008.2,33.3,Y,Y
+MSI,MSI,,MSI,,Unknown,,,0,0,10,0,0,,,0,N,Y
+MSL,Marsland Aviation,M7,MSL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MSN,Missionair,,MSN,,Unknown,,,0,0,3,0,0,,1974,33.3,N,Y
+MSR,Egyptair,MS,MSR,Egypt,Africa,,,80,80,80,0,0,11.2,2007.6,43.8,Y,Y
+MSX,Egyptair Cargo,MS,MSX,,Unknown,,,0,0,6,0,0,,1997.4,83.3,N,Y
+MSY,Massey University School Of Aviation,,MSY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MTF,Interjet,,MTF,,Unknown,,,0,0,75,0,0,,2010.5,16,N,Y
+MTH,Massachusetts Institute Of Technology,,MTH,,Unknown,,,0,0,1,0,0,,1989,100,N,Y
+MTJ,Metrojet,,MTJ,,Unknown,,,0,0,14,0,0,,,0,N,Y
+MTN,Fedex Feeder,C2,MTN,,Unknown,,,0,0,2,0,1,,,0,N,Y
+MUA,Murray Air,,MUA,,Unknown,,,0,0,4,0,0,,1976.7,75,N,Y
+MUI,Trans Air,,MUI,,Unknown,,,0,0,1,0,0,,1996,100,N,Y
+MUS,Air Adelphi,,MUS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MUT,Azimuth,A4,MUT,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MWG,Maswings,MH,MWG,,Unknown,,,0,0,4,0,0,,,0,N,Y
+MWI,Malaysia Wings,3W,MWI,Malaysia,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+MXA,Mexicana de Aviaci,MX,MXA,Mexico,North America,,,3,3,3,0,0,11.2,1996.7,100,Y,Y
+MXD,Malindo Air,OD,MXD,Malaysia,Asia-Pacific,,,42,42,42,0,0,11.2,,0,Y,Y
+MXL,Maxair,8M,MXL,,Unknown,,,0,0,10,0,0,,1992.3,70,N,Y
+MXU,Maximus Air Cargo,,MXU,,Unknown,,,0,0,2,0,0,,,0,N,Y
+MXY,Breeze Airways,MX,MXY,International,Unknown,,,0,0,0,0,0,,,,Y,N
+MYD,MYD,,MYD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+MYP,Mann Yadanarpon Airlines,7Y,MYP,Burma,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+MYX,SmartLynx Airlines Estonia,6X,MYX,International,Unknown,,,2,2,2,0,0,11.2,,0,Y,Y
+N12,12 North,12,N12,India,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+N77,All Spain,N7,N77,Spain,Europe,,,0,0,0,0,0,,,,Y,N
+N99,All Europe,N9,N99,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+NAA,National Oceanic And Atmospheric Administration,,NAA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NAC,Northern Air Cargo,NC,NAC,,Unknown,,,0,0,6,0,0,,1989.5,33.3,N,Y
+NAF,Royal Netherlands Air Force,,NAF,,Unknown,,,0,0,144,0,0,,,0,N,Y
+NAJ,North American Jet Charter Group,,NAJ,,Unknown,,,0,0,3,0,0,,,0,N,Y
+NAK,Arik Niger,Q9,NAK,Niger,Africa,,,0,0,0,0,0,,,,Y,N
+NAL,Northway Aviation Ltd,,NAL,,Unknown,,,0,0,8,0,0,,,0,N,Y
+NAS,Nasair,UE,NAS,Eritrea,Africa,,,1,1,2,0,0,11.2,1958,50,Y,Y
+NAX,Norwegian Air Shuttle,DY,NAX,Norway,Europe,,,115,115,115,0,0,11.2,2017,6.1,Y,Y
+NBL,Nobil Air,,NBL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NBS,Nimbus Aviation,,NBS,,Unknown,,,0,0,5,0,0,,1973.6,100,N,Y
+NCA,Nippon Cargo Airlines,KZ,NCA,,Unknown,,,0,0,12,0,0,,,0,N,Y
+NCR,National Air Cargo,N8,NCR,United States,North America,,,9,9,9,0,0,11.2,1993.2,100,Y,Y
+NDU,University Of North Dakota,,NDU,,Unknown,,,0,0,70,0,1,,2018.1,91.4,N,Y
+NEA,New England Airlines,EJ,NEA,,Unknown,,,0,0,8,0,0,,1973.4,87.5,N,Y
+NEB,State Of Nebraska,,NEB,,Unknown,,,0,0,1,0,0,,2014,100,N,Y
+NEP,My Jet Xpress Airlines,N7,NEP,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+NET,Network Aviation Services,,NET,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NGK,Oriental Air Bridge,,NGK,,Unknown,,,0,0,3,0,0,,,0,N,Y
+NGR,Nigerian Air Force,,NGR,,Unknown,,,0,0,7,0,0,,2008,28.6,N,Y
+NGT,Armenia Aircompany,RM,NGT,International,Unknown,,,0,0,0,0,0,,,,Y,N
+NHK,Federal Aviation Administration,,NHK,,Unknown,,,0,0,46,0,0,,1996.2,87,N,Y
+NHL,Northumbria Helicopters,,NHL,,Unknown,,,0,0,2,0,0,,2000,100,N,Y
+NHX,Noordzee Helikopters Vlaanderen,,NHX,,Unknown,,,0,0,2,0,1,,,0,N,Y
+NHZ,Noordzee Helikopters Vlaanderen - United Kingdom,,NHZ,,Unknown,,,0,0,5,0,0,,2014,20,N,Y
+NIA,Nile Air,NP,NIA,Egypt,Africa,,,7,7,7,0,0,11.2,2005,14.3,Y,Y
+NIG,Aero Contractors,AJ,NIG,Nigeria,Africa,,,9,9,11,0,0,11.2,,0,Y,Y
+NIT,Midwest Aviation,,NIT,,Unknown,,,0,0,4,0,0,,2000,75,N,Y
+NJE,Netjets Europe,1I,NJE,,Unknown,,,0,0,24,0,0,,2017.4,20.8,N,Y
+NKF,Barents AirLink,8N,NKF,Sweden,Europe,,,0,0,1,0,0,,,0,Y,Y
+NKL,Nakheel Aviation,,NKL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NKS,Spirit Airlines,NK,NKS,United States,North America,,,148,148,148,0,0,11.2,2013.8,96.6,Y,Y
+NKY,Aeromonkey,,NKY,International,Unknown,,,0,0,0,0,0,,,,Y,N
+NKZ,Aerokuzbass,,NKZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NLT,Newfoundland Labrador Air Transport,,NLT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NLY,Niki,HG,NLY,Austria,Europe,,,35,35,35,0,0,11.2,,0,Y,Y
+NMA,Nesma Airlines,NE,NMA,Egypt,Africa,,,10,10,10,0,0,11.2,,0,Y,Y
+NMB,Air Namibia,SW,NMB,Namibia,Africa,,,11,11,11,0,0,11.2,,0,Y,Y
+NMD,Nomad Aviation,,NMD,,Unknown,,,0,0,7,0,0,,2007.3,42.9,N,Y
+NMI,Pacific Wings,LW,NMI,,Unknown,,,0,0,2,0,0,,1965,100,N,Y
+NOJ,NovaJet,,NOJ,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+NOK,Nok Air,DD,NOK,Thailand,Asia-Pacific,,,31,31,31,0,0,11.2,,0,Y,Y
+NOS,Neos,NO,NOS,,Unknown,,,0,0,13,0,3,,,0,N,Y
+NOW,Royal Norwegian Air Force,,NOW,,Unknown,,,0,0,21,0,0,,,0,N,Y
+NOZ,Norwegian Air Shuttle,DY,NOZ,International,Unknown,,,5,5,5,0,0,11.2,,0,Y,Y
+NPT,Atlantic Airlines,,NPT,,Unknown,,,0,0,4,0,0,,2005,50,N,Y
+NRG,Ross Aviation,,NRG,,Unknown,,,0,0,5,0,0,,1994,80,N,Y
+NRO,Aero Rent Jsc,,NRO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NRT,Norestair,,NRT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NRW,Polizeifliegerstaffel Nordrhein-westfalen,,NRW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NRX,Norse Air Charter,,NRX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NSE,NSE,,NSE,,Unknown,,,0,0,2,0,0,,,0,N,Y
+NSK,Air Intersalonika,,NSK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NSS,Northstar Aviation,,NSS,,Unknown,,,0,0,1,0,0,,1981,100,N,Y
+NSW,Norwegian Air Sweden,,NSW,,Unknown,,,0,0,3,0,0,,,0,N,Y
+NSZ,Norwegian Air Sweden,D8,NSZ,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+NTA,Northern Thunderbird Air,,NTA,,Unknown,,,0,0,10,0,0,,,0,N,Y
+NTC,Gibson Aviation,,NTC,,Unknown,,,0,0,2,0,0,,1987,100,N,Y
+NTH,Hokkaido Air System,,NTH,,Unknown,,,0,0,6,0,0,,,0,N,Y
+NTJ,NextJet,2N,NTJ,Sweden,Europe,,,1,1,15,0,0,11.2,,0,Y,Y
+NTS,Cirrus Air,,NTS,,Unknown,,,0,0,2,0,0,,1983.5,100,N,Y
+NTX,Northern Jet Management,,NTX,,Unknown,,,0,0,4,0,0,,2012.3,75,N,Y
+NVC,Nav Canada,,NVC,,Unknown,,,0,0,3,0,0,,,0,N,Y
+NVD,Avion Express,X9,NVD,,Unknown,,,0,0,2,0,0,,2001,50,N,Y
+NVJ,Fly International Airways,,NVJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NVK,Nizhnevartovskavia,,NVK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+NVM,Naviera Mexicana,,NVM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NVR,Novair,N9,NVR,Sweden,Europe,,,4,4,4,0,0,11.2,2006,25,Y,Y
+NVY,Royal Navy,,NVY,,Unknown,,,0,0,107,0,0,,,0,N,Y
+NWC,North-West Air Company,0E,NWC,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+NWG,Airwing As - Norway,,NWG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+NWK,Network Aviation,QF,NWK,International,Unknown,,,16,16,16,0,0,11.2,1998.3,100,Y,Y
+NWL,North-wright Airways,HW,NWL,,Unknown,,,0,0,22,0,0,,,0,N,Y
+NWS,Nordwind Airlines,N4,NWS,,Unknown,,,0,0,36,0,0,,2010,2.8,N,Y
+NYT,Yeti Airlines,,NYT,Nepal,Asia-Pacific,,,4,4,10,0,0,11.2,,0,Y,Y
+OAE,Omni Air International,OY,OAE,United States,North America,,,15,15,15,0,0,11.2,1999.8,86.7,Y,Y
+OAL,Olympic Airlines,OA,OAL,Greece,Europe,,,11,11,14,0,0,11.2,,0,Y,Y
+OAW,Helvetic Airways,2L,OAW,Switzerland,Europe,,,22,22,23,0,0,11.2,2005.7,65.2,Y,Y
+OBS,Orbest,6O,OBS,Portugal,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+OCA,Aserca Airlines,R7,OCA,Venezuela,Latin America,,,5,5,5,0,0,11.2,,0,Y,Y
+OCE,Heliocean,,OCE,,Unknown,,,0,0,3,0,0,,,0,N,Y
+OCO,Ostend Air College,,OCO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+OEA,Orient Thai Airlines,OX,OEA,Thailand,Asia-Pacific,,,7,7,7,0,0,11.2,,0,Y,Y
+OES,ART Aviation,,OES,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+OEW,Canarian Airways,OX,OEW,International,Unknown,,,0,0,0,0,0,,,,Y,N
+OHY,Onur Air,8Q,OHY,Turkey,Europe,,,24,24,24,0,0,11.2,,0,Y,Y
+OIX,Orion-x,,OIX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+OKL,Oklahoma Department Of Public Safety,,OKL,,Unknown,,,0,0,6,0,0,,2010.7,50,N,Y
+OLA,Overland Airways,OJ,OLA,Nigeria,Africa,,,7,7,9,0,0,11.2,,0,Y,Y
+OLC,Solar Cargo,,OLC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+OLY,Olympic Aviation,,OLY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+OMA,Oman Air,WY,OMA,Oman,Middle East,,,44,44,48,0,0,11.2,2015,2.1,Y,Y
+OME,Homer Air,MR,OME,Germany,Europe,,,1,1,3,0,0,11.2,1972.5,66.7,Y,Y
+OMF,Omniflys,,OMF,,Unknown,,,0,0,1,0,0,,,0,N,Y
+OMS,Salamair,OV,OMS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ONE,Oceanair,O6,ONE,Brazil,Latin America,,,35,35,35,0,0,11.2,2009,5.7,Y,Y
+OPT,Flight Options,,OPT,,Unknown,,,0,0,26,0,0,,2001.1,42.3,N,Y
+ORB,Orenburg Airlines,R2,ORB,,Unknown,,,0,0,22,0,0,,,0,N,Y
+ORF,Oman Royal Flight,,ORF,,Unknown,,,0,0,9,0,0,,,0,N,Y
+ORS,Action Air,,ORS,,Unknown,,,0,0,3,0,0,,1973,33.3,N,Y
+OSA,Open Sky Aviation,,OSA,,Unknown,,,0,0,2,0,0,,1959,50,N,Y
+OTC,Air Travel,A6,OTC,International,Unknown,,,0,0,0,0,0,,,,Y,N
+OVA,Aero Nova,,OVA,,Unknown,,,0,0,4,0,0,,,0,N,Y
+OXO,Million Air,,OXO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+OZW,Skywest Airlines,,OZW,Australia,Asia-Pacific,,,145,145,168,0,0,11.2,2014.4,86.3,Y,Y
+PAC,Polar Air Cargo,PO,PAC,,Unknown,,,0,0,7,0,0,,2004.5,85.7,N,Y
+PAG,Perimeter Aviation,,PAG,,Unknown,,,0,0,1,0,1,,,0,N,Y
+PAL,Philippine Airlines,PR,PAL,Philippines,Asia-Pacific,,,73,73,74,0,0,11.2,2018,1.4,Y,Y
+PAS,Pelita Air Service,,PAS,,Unknown,,,0,0,3,0,0,,,0,N,Y
+PAT,Priority Air Transport,,PAT,,Unknown,,,0,0,3,0,0,,,0,N,Y
+PBA,Pb Air,9Q,PBA,,Unknown,,,0,0,2,0,0,,2003,100,N,Y
+PBD,Pobeda,DP,PBD,Russia,Europe,,,26,26,26,0,0,11.2,,0,Y,Y
+PCH,Pilatus Flugzeugwerke,,PCH,,Unknown,,,0,0,45,0,0,,2013.1,44.4,N,Y
+PCO,PCO,,PCO,,Unknown,,,0,0,18,0,0,,,0,N,Y
+PCP,Aerolínea Principal Chile,,PCP,International,Unknown,,,0,0,0,0,0,,,,Y,N
+PDT,Piedmont Airlines (1948-1989),PT,PDT,United States,North America,,,18,18,36,0,0,11.2,1997.2,63.9,Y,Y
+PEA,Pan Europeenne Air Service,,PEA,,Unknown,,,0,0,6,0,0,,,0,N,Y
+PEL,Aeropelican Air Services,OT,PEL,Australia,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+PEN,PEN,,PEN,,Unknown,,,0,0,22,0,0,,1992.9,27.3,N,Y
+PEV,Pegasus Aviation,,PEV,,Unknown,,,0,0,6,0,0,,1990.4,83.3,N,Y
+PFY,Pel-air Aviation,,PFY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PGP,Perm Airlines,P9,PGP,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PGT,Pegasus Airlines,PC,PGT,Turkey,Europe,,,100,100,100,0,0,11.2,,0,Y,Y
+PHA,Phoenix Air Group,,PHA,,Unknown,,,0,0,22,0,0,,1974.7,77.3,N,Y
+PHB,Phoebus Apollo Aviation,,PHB,,Unknown,,,0,0,3,0,0,,,0,N,Y
+PHD,Duncan Aviation,,PHD,,Unknown,,,0,0,10,0,0,,1995.9,90,N,Y
+PHG,Phoenix Aviation,,PHG,,Unknown,,,0,0,10,0,0,,1970,30,N,Y
+PHM,Petroleum Helicopters,,PHM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PHU,Pannon Air Service,,PHU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PIA,Pakistan International Airlines,PK,PIA,Pakistan,Asia-Pacific,,,37,37,37,0,0,11.2,,0,Y,Y
+PIC,Jetstar Pacific,BL,PIC,Vietnam,Asia-Pacific,,,17,17,17,0,0,11.2,,0,Y,Y
+PIO,Pioneer Airlines,,PIO,,Unknown,,,0,0,4,0,0,,,0,N,Y
+PIU,43 Air School,,PIU,International,Unknown,,,0,0,0,0,0,,,,Y,N
+PIV,Sokol,,PIV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PJP,Princely Jets,,PJP,,Unknown,,,0,0,6,0,0,,,0,N,Y
+PJS,Jet Aviation,,PJS,,Unknown,,,0,0,2,0,0,,1979,50,N,Y
+PJZ,Premium Jet Ag,,PJZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PKW,Pak West Airlines,,PKW,,Unknown,,,0,0,3,0,0,,,0,N,Y
+PKZ,Prime Aviation,,PKZ,,Unknown,,,0,0,2,0,0,,1980,50,N,Y
+PLC,Nz Police,,PLC,,Unknown,,,0,0,2,0,0,,2006,100,N,Y
+PLF,Polish Air Force,,PLF,,Unknown,,,0,0,87,0,0,,,0,N,Y
+PLI,Aeroper,PL,PLI,Peru,Latin America,,,0,0,0,0,0,,,,Y,N
+PLM,Wamos Air,,PLM,,Unknown,,,0,0,4,0,0,,,0,N,Y
+PLR,PLR,,PLR,,Unknown,,,0,0,8,0,0,,,0,N,Y
+PLS,Aeroflot-Plus,,PLS,International,Unknown,,,0,0,0,0,0,,,,Y,N
+PLX,Pool Aviation,,PLX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PNH,Panh,,PNH,,Unknown,,,0,0,4,0,0,,,0,N,Y
+PNK,Air Pink,,PNK,International,Unknown,,,0,0,3,0,0,,,0,Y,Y
+PNL,Aero Personal,,PNL,,Unknown,,,0,0,1,0,0,,2002,100,N,Y
+PNP,Pineapple Air,,PNP,,Unknown,,,0,0,3,0,0,,1957,33.3,N,Y
+PNR,PNR,,PNR,,Unknown,,,0,0,8,0,0,,,0,N,Y
+PNU,Aero Servicios Platinum,,PNU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PNW,Palestinian Airlines,PF,PNW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+POE,Porter Airlines,PD,POE,Canada,North America,,,29,29,29,0,0,11.2,,0,Y,Y
+POT,POT,,POT,,Unknown,,,0,0,3,0,0,,,0,N,Y
+POV,Meridian,,POV,,Unknown,,,0,0,2,0,0,,,0,N,Y
+PPG,Phoenix Air Transport,,PPG,,Unknown,,,0,0,1,0,0,,2015,100,N,Y
+PPL,Air Pegasus,OP,PPL,India,Asia-Pacific,,,0,0,1,0,0,,1964,100,Y,Y
+PPS,Butte Aviation,,PPS,,Unknown,,,0,0,3,0,0,,1991.7,100,N,Y
+PRD,Presidential Aviation,,PRD,,Unknown,,,0,0,3,0,1,,1987,33.3,N,Y
+PRF,Precision Air,PW,PRF,Tanzania,Africa,,,8,8,13,0,0,11.2,1993.4,38.5,Y,Y
+PRM,Prime Air,,PRM,,Unknown,,,0,0,2,0,0,,2005.5,100,N,Y
+PRO,Propair,,PRO,,Unknown,,,0,0,17,0,0,,,0,N,Y
+PRP,Prt Aviation,,PRP,,Unknown,,,0,0,2,0,0,,1969.5,100,N,Y
+PRY,Priority Air Charter,,PRY,,Unknown,,,0,0,9,0,0,,1981.4,77.8,N,Y
+PSC,Pascan Aviation,,PSC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PSN,Potosina Del Aire,,PSN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PST,Air Panama,,PST,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PSW,Pskovavia,,PSW,,Unknown,,,0,0,8,0,0,,1983,12.5,N,Y
+PTA,Pontair,,PTA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+PTB,Passaredo Transportes Aereos,2Z,PTB,Brazil,Latin America,,,10,10,10,0,0,11.2,,0,Y,Y
+PTI,Privatair,,PTI,Switzerland,Europe,,,2,2,4,0,0,11.2,2002,25,Y,Y
+PTO,North West Geomatics,,PTO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+PUE,Plus Ultra Lineas Aereas,,PUE,,Unknown,,,0,0,1,0,2,,2006,100,N,Y
+PVG,Privilege Style,,PVG,,Unknown,,,0,0,1,0,1,,1999,100,N,Y
+PWA,Priester Aviation,,PWA,,Unknown,,,0,0,5,0,1,,,0,N,Y
+PWF,Private Wings Flugcharter,8W,PWF,,Unknown,,,0,0,11,0,0,,2021,9.1,N,Y
+PXX,Aroostook Aviation,,PXX,,Unknown,,,0,0,1,0,0,,1967,100,N,Y
+PYA,Pouya Air,,PYA,Iran,Middle East,,,2,2,5,0,0,11.2,,0,Y,Y
+PYB,All America BOPY,0P,PYB,Paraguay,Latin America,,,0,0,0,0,0,,,,Y,N
+QAC,Qatar Air Cargo,,QAC,,Unknown,,,0,0,6,0,0,,2015,33.3,N,Y
+QAF,Qatar Amiri Flight,,QAF,,Unknown,,,0,0,11,0,0,,2008.7,27.3,N,Y
+QAJ,Quick Air Jet Charter,,QAJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+QAV,Qa Aviation,,QAV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+QCA,QCA,,QCA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+QFA,Qantas,QF,QFA,Australia,Asia-Pacific,,,135,135,135,0,0,11.2,2007,54.8,Y,Y
+QFZ,Fars Air Qeshm,,QFZ,Iran,Middle East,,,1,1,1,0,0,11.2,,0,Y,Y
+QGA,Windrose Air,7W,QGA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+QJE,QantasLink / National Jet Systems,QF,QJE,International,Unknown,,,6,6,7,0,0,11.2,2003.2,71.4,Y,Y
+QLK,QantasLink,QF,QLK,International,Unknown,,,1,1,8,0,0,11.2,2001.7,87.5,Y,Y
+QNA,Queen Air,,QNA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+QNK,Kabo Air,N2,QNK,,Unknown,,,0,0,3,0,0,,,0,N,Y
+QNZ,Jetconnect,,QNZ,,Unknown,,,0,0,8,0,0,,,0,N,Y
+QQE,Qatar Executive,QE,QQE,International,Unknown,,,4,4,10,0,0,11.2,2008.7,80,Y,Y
+QTR,Qatar Airways,QR,QTR,Qatar,Middle East,,,261,261,261,40,0,11.2,2011.5,37.9,Y,Y
+QVR,Kvadro Aero,,QVR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+QXE,Horizon Air,QX,QXE,United States,North America,,,63,63,63,0,0,11.2,2010.5,66.7,Y,Y
+R1R,All America CL,1R,R1R,Chile,Latin America,,,0,0,0,0,0,,,,Y,N
+RAC,Royal Air Cambodge,VJ,RAC,Cambodia,Asia-Pacific,,,4,4,5,0,0,11.2,,0,Y,Y
+RAM,Royal Air Maroc,AT,RAM,Morocco,Africa,,,65,65,65,0,0,11.2,2006.9,50.8,Y,Y
+RAP,Air Center Helicopters,,RAP,,Unknown,,,0,0,8,0,0,,2008.5,50,N,Y
+RAR,Air Rarotonga,GZ,RAR,Cook Islands,Asia-Pacific,,,0,0,1,0,0,,,0,Y,Y
+RAV,Reed Aviation,,RAV,,Unknown,,,0,0,10,0,0,,1979.5,80,N,Y
+RAX,Royal Air Freight,,RAX,,Unknown,,,0,0,58,0,0,,1979.2,79.3,N,Y
+RBA,Royal Brunei Airlines,BI,RBA,Brunei,Asia-Pacific,,,11,11,11,0,0,11.2,,0,Y,Y
+RBB,Rabbit-air,,RBB,,Unknown,,,0,0,1,0,0,,2009,100,N,Y
+RBG,Air Arabia Egypt,E5,RBG,Egypt,Africa,,,1,1,1,0,0,11.2,,0,Y,Y
+RBN,Red Baron Aviation,,RBN,,Unknown,,,0,0,4,0,0,,1968.3,75,N,Y
+RBV,Air Roberval,,RBV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RBY,RBY,,RBY,,Unknown,,,0,0,5,0,0,,,0,N,Y
+RCA,Richland Aviation,,RCA,,Unknown,,,0,0,10,0,0,,1977.5,80,N,Y
+RCH,Air Mobility Command,MC,RCH,,Unknown,,,0,0,114,0,0,,1995,0.9,N,Y
+RCP,Aerocorp,,RCP,,Unknown,,,0,0,4,0,0,,1984,75,N,Y
+RDA,Rada Airlines,,RDA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RDS,Rhoades Aviation,,RDS,,Unknown,,,0,0,2,0,0,,1981,100,N,Y
+REA,Aer Arann,L5,REA,Ireland,Europe,,,0,0,0,0,0,,,,Y,N
+REB,Rebus,,REB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+REG,Regional Air Services,,REG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+REL,Reliance Aviation,,REL,,Unknown,,,0,0,3,0,0,,1998,33.3,N,Y
+RER,Servicio Aéreo Regional Regair,,RER,,Unknown,,,0,0,1,0,0,,,0,N,Y
+REU,Air Austral,UU,REU,France,Europe,,,12,12,12,0,0,11.2,2016,8.3,Y,Y
+REV,Rvl Aviation,,REV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+REY,Aero-rey,,REY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RFD,Aerotransportes Rafilher,,RFD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RFJ,Royal Falcon,RL,RFJ,Jordan,Middle East,,,2,2,2,0,0,11.2,,0,Y,Y
+RFR,Royal Air Force (raf),,RFR,,Unknown,,,0,0,7,0,0,,,0,N,Y
+RFT,Scoala Superioara De Aviatie Civila,,RFT,,Unknown,,,0,0,10,0,0,,,0,N,Y
+RGN,Cygnus Air,,RGN,,Unknown,,,0,0,4,0,0,,1991,25,N,Y
+RGO,Argo,,RGO,,Unknown,,,0,0,3,0,0,,2015,33.3,N,Y
+RHA,Robin Hood Aviation,,RHA,,Unknown,,,0,0,1,0,0,,2018,100,N,Y
+RHD,Bond Air Services,,RHD,,Unknown,,,0,0,1,0,0,,2005,100,N,Y
+RHL,Air Archipels,,RHL,,Unknown,,,0,0,3,0,0,,,0,N,Y
+RIL,Regional Air,,RIL,,Unknown,,,0,0,1,0,0,,1956,100,N,Y
+RIT,Asian Spirit,6K,RIT,Philippines,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+RJA,Royal Jordanian,RJ,RJA,Jordan,Middle East,,,25,25,29,0,0,11.2,,0,Y,Y
+RJD,Rotana Jet,RG,RJD,United Arab Emirates,Middle East,,,1,1,1,0,0,11.2,,0,Y,Y
+RJR,Air CM Global,,RJR,International,Unknown,,,0,0,0,0,0,,,,Y,N
+RJZ,Royal Jordanian Air Force,,RJZ,,Unknown,,,0,0,7,0,0,,,0,N,Y
+RKA,Air Afrique,RK,RKA,Ivory Coast,Africa,,,0,0,28,0,0,,,0,Y,Y
+RLA,Airlinair,AN,RLA,France,Europe,,,0,0,0,0,0,,,,Y,N
+RLH,Ruili Airlines,DR,RLH,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+RLN,Aero Lanka,QL,RLN,Sri Lanka,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+RLU,Rusline,7R,RLU,Russia,Europe,,,9,9,15,0,0,11.2,,0,Y,Y
+RLV,Real Aviation,,RLV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RLX,Go2Sky,6G,RLX,Slovakia,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+RMF,Royal Malaysian Air Force,,RMF,,Unknown,,,0,0,31,0,0,,,0,N,Y
+RNA,Royal Nepal Airlines,RA,RNA,Nepal,Asia-Pacific,,,5,5,5,0,0,11.2,,0,Y,Y
+RNE,Air Salone,2O,RNE,Sierra Leone,Africa,,,0,0,0,0,0,,,,Y,N
+RNV,Armavia,U8,RNV,Armenia,Europe,,,0,0,0,0,0,,,,Y,N
+RNX,1Time Airline,1T,RNX,South Africa,Africa,,,0,0,0,0,0,,,,Y,N
+RNY,Rainbow Air Us,RM,RNY,,Unknown,,,0,0,1,0,0,,,0,N,Y
+ROF,Romanian Air Force,,ROF,,Unknown,,,0,0,11,0,0,,,0,N,Y
+ROI,Avior Airlines,,ROI,,Unknown,,,0,0,14,0,0,,,0,N,Y
+ROJ,Royal Jet,,ROJ,,Unknown,,,0,0,11,0,0,,,0,N,Y
+ROT,Tarom,RO,ROT,Romania,Europe,,,33,33,33,0,0,11.2,1993,3,Y,Y
+ROU,Air Canada Rouge,RV,ROU,,Unknown,,,0,0,7,29,20,,,0,N,Y
+RPA,Republic Airlines,YX,RPA,United States,North America,,,53,53,53,15,3,11.2,2010.7,98.1,Y,Y
+RPB,AeroRep,P5,RPB,Colombia,Latin America,,,4,4,4,0,0,11.2,,0,Y,Y
+RRB,Aero Club de Castellon,,RRB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+RRJ,AirRussia,R8,RRJ,Russia,Europe,,,0,0,0,0,0,,,,Y,N
+RRO,Aerocredo,,RRO,International,Unknown,,,0,0,0,0,0,,,,Y,N
+RRR,72 Squadron,,RRR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RRU,Cirrus,,RRU,,Unknown,,,0,0,1,0,0,,1977,100,N,Y
+RRV,Mombasa Air Safari,,RRV,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RSD,Russia State Transport,,RSD,,Unknown,,,0,0,54,0,0,,2012.3,5.6,N,Y
+RSF,Royal Saudi Air Force,,RSF,,Unknown,,,0,0,140,0,0,,,0,N,Y
+RSH,Air Sahara,S2,RSH,India,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+RSI,Air Sunshine,,RSI,United States,North America,,,0,0,0,0,0,,,,Y,N
+RSJ,Rusjet,,RSJ,,Unknown,,,0,0,6,0,0,,,0,N,Y
+RSK,Dswa,,RSK,,Unknown,,,0,0,3,0,0,,2017.5,66.7,N,Y
+RSP,RSP,,RSP,,Unknown,,,0,0,18,0,0,,2008.4,66.7,N,Y
+RSR,Aero-Service,BF,RSR,Republic of the Congo,Africa,,,0,0,0,0,0,,,,Y,N
+RSS,Rossair,,RSS,,Unknown,,,0,0,3,0,0,,,0,N,Y
+RST,Resort Air,,RST,,Unknown,,,0,0,1,0,0,,1992,100,N,Y
+RSU,Aerosur,5L,RSU,Bolivia,Latin America,,,0,0,1,0,0,,,0,Y,Y
+RSY,I-Fly,H5,RSY,Russia,Europe,,,12,12,14,0,0,11.2,2000.6,64.3,Y,Y
+RTE,Aeronorte,,RTE,Portugal,Europe,,,0,0,0,0,0,,,,Y,N
+RTN,Raytheon Aircraft Company,,RTN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RTO,Rectimo Air Transports,,RTO,,Unknown,,,0,0,2,0,0,,,0,N,Y
+RUK,Ryanair UK,RK,RUK,International,Unknown,,,2,2,2,0,0,11.2,,0,Y,Y
+RUN,Act Havayollari,,RUN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RVC,Richards Aviation,,RVC,,Unknown,,,0,0,1,0,0,,2006,100,N,Y
+RVE,Airventure,,RVE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+RVN,Raven Air,,RVN,,Unknown,,,0,0,2,0,0,,1977.5,100,N,Y
+RVQ,Aero Jet International,,RVQ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+RWD,Rwandair Express,WB,RWD,Rwanda,Africa,,,12,12,12,0,0,11.2,2014,16.7,Y,Y
+RWZ,Red Wings,WZ,RWZ,Russia,Europe,,,7,7,20,0,0,11.2,2007,10,Y,Y
+RXA,Regional Express,ZL,RXA,Australia,Asia-Pacific,,,4,4,59,0,0,11.2,1991.4,30.5,Y,Y
+RYR,Ryanair,FR,RYR,Ireland,Europe,,,497,497,500,0,7,11.2,2010.7,82,Y,Y
+RYS,Ryanair Sun,,RYS,,Unknown,,,0,0,12,0,0,,,0,N,Y
+RZO,SATA International,S4,RZO,Portugal,Europe,,,8,8,8,0,0,11.2,,0,Y,Y
+SAA,South African Airways,SA,SAA,South Africa,Africa,,,59,59,60,0,3,11.2,2002.3,5,Y,Y
+SAF,Republic Of Singapore Air Force,,SAF,,Unknown,,,0,0,36,0,0,,,0,N,Y
+SAI,Shaheen Air International,NL,SAI,Pakistan,Asia-Pacific,,,21,21,22,0,0,11.2,,0,Y,Y
+SAP,Avia Jaynar,,SAP,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SAS,Scandinavian Airlines System,SK,SAS,Sweden,Europe,,,188,188,190,0,0,11.2,2015.9,3.7,Y,Y
+SAT,SATA Air Acores,SP,SAT,Portugal,Europe,,,4,4,6,0,0,11.2,,0,Y,Y
+SAU,United Aviation Services,,SAU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SAY,ScotAirways,,SAY,United Kingdom,Europe,,,2,2,2,0,0,11.2,2000,50,Y,Y
+SAZ,Swiss Air-ambulance,,SAZ,,Unknown,,,0,0,7,0,0,,2012.7,42.9,N,Y
+SBD,SBD,,SBD,,Unknown,,,0,0,5,0,0,,1959,60,N,Y
+SBI,S7 Airlines,S7,SBI,Russia,Europe,,,107,107,107,0,0,11.2,2009,0.9,Y,Y
+SBS,SBS,,SBS,,Unknown,,,0,0,11,0,0,,1985,27.3,N,Y
+SBT,Taftan Airlines,,SBT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SCE,SCE,,SCE,,Unknown,,,0,0,2,0,0,,1996,50,N,Y
+SCM,American Jet International,,SCM,,Unknown,,,0,0,7,0,0,,2007,14.3,N,Y
+SCQ,Scandinavian Aviation Academy,,SCQ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SCR,Silver Cloud Air,,SCR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SCW,SCW,,SCW,,Unknown,,,0,0,11,0,0,,,0,N,Y
+SCX,Sun Country Airlines,SY,SCX,United States,North America,,,35,35,35,0,3,11.2,2003.8,74.3,Y,Y
+SDL,Skydrift,,SDL,,Unknown,,,0,0,1,0,0,,1980,100,N,Y
+SDM,Rossiya-Russian Airlines,FV,SDM,Russia,Europe,,,79,79,87,0,0,11.2,2000.7,20.7,Y,Y
+SDR,City Airline,SR,SDR,Sweden,Europe,,,4,4,6,0,0,11.2,,0,Y,Y
+SEC,3d Aviation,,SEC,,Unknown,,,0,0,2,0,0,,1998,100,N,Y
+SEH,Sky Express,G3,SEH,Greece,Europe,,,6,6,9,0,0,11.2,,0,Y,Y
+SEJ,Spicejet,SG,SEJ,India,Asia-Pacific,,,61,61,62,0,0,11.2,2019,1.6,Y,Y
+SEN,Sevenair,UG,SEN,Tunisia,Africa,,,1,1,1,0,0,11.2,2006,100,Y,Y
+SEU,XL Airways France,U5,SEU,France,Europe,,,6,6,6,0,0,11.2,,0,Y,Y
+SEY,Air Seychelles,HM,SEY,Seychelles,Africa,,,6,6,11,0,0,11.2,2006,9.1,Y,Y
+SFA,"Enac, 31 Toulouse",,SFA,,Unknown,,,0,0,1,0,0,,2008,100,N,Y
+SFE,Sefofane Air Charters,,SFE,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SFJ,Star Flyer,7G,SFJ,Japan,Asia-Pacific,,,11,11,11,0,5,11.2,,0,Y,Y
+SFP,Safe Air,,SFP,,Unknown,,,0,0,1,0,0,,1975,100,N,Y
+SFR,Safair,FA,SFR,,Unknown,,,0,0,11,0,9,,1991,9.1,N,Y
+SFU,Solent Flight,,SFU,,Unknown,,,0,0,3,0,0,,2006.3,100,N,Y
+SFZ,Pionair Australia,,SFZ,,Unknown,,,0,0,1,0,0,,1989,100,N,Y
+SGB,Sky King,,SGB,,Unknown,,,0,0,7,0,0,,1990,71.4,N,Y
+SGK,Skyward Aviation,,SGK,,Unknown,,,0,0,1,0,0,,1966,100,N,Y
+SHA,Sharp Airlines,SH,SHA,,Unknown,,,0,0,4,0,0,,1993,25,N,Y
+SHE,Shell Aircraft,,SHE,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SHF,Royal Air Force,,SHF,,Unknown,,,0,0,503,0,0,,2016.2,0.8,N,Y
+SHL,Samson Aviation,,SHL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SHM,Sheltam Aviation,,SHM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SHT,British Airways Shuttle Flights - United Kingdom,BA,SHT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SHU,Aurora,HZ,SHU,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SIA,Singapore Airlines,SQ,SIA,Singapore,Asia-Pacific,,,161,161,161,0,40,11.2,2018,1.9,Y,Y
+SID,Sideral Linhas Aéreas,,SID,International,Unknown,,,1,1,1,0,0,11.2,1990,100,Y,Y
+SIF,Air Sial,PF,SIF,International,Unknown,,,0,0,0,0,0,,,,Y,N
+SIJ,Seco International,,SIJ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SIO,Sirio,,SIO,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SJM,Svyaz Rossiya,7R,SJM,Russia,Europe,,,2,2,12,0,0,11.2,2012,8.3,Y,Y
+SJO,Spring Airlines Japan,IJ,SJO,Japan,Asia-Pacific,,,6,6,6,0,0,11.2,,0,Y,Y
+SJT,Swiss Jet,,SJT,,Unknown,,,0,0,1,0,0,,2015,100,N,Y
+SJY,Sriwijaya Air,SJ,SJY,Indonesia,Asia-Pacific,,,42,42,42,0,0,11.2,,0,Y,Y
+SKE,Sky Tours,,SKE,,Unknown,,,0,0,2,0,0,,1986.5,100,N,Y
+SKI,Skyking,,SKI,,Unknown,,,0,0,2,0,0,,1969.5,100,N,Y
+SKK,Skylink Aviation,,SKK,,Unknown,,,0,0,6,0,0,,1962.6,83.3,N,Y
+SKU,Sky Airline,H2,SKU,Chile,Latin America,,,28,28,28,0,0,11.2,,0,Y,Y
+SKV,Air Canada Express,,SKV,,Unknown,,,0,0,21,0,0,,,0,N,Y
+SKW,SkyWest,OO,SKW,United States,North America,,,398,398,399,7,7,11.2,2007.3,88,Y,Y
+SKY,Skymark Airlines,BC,SKY,Japan,Asia-Pacific,,,27,27,27,0,0,11.2,,0,Y,Y
+SKZ,Skyway Enterprises,,SKZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SLD,Silver Air,,SLD,,Unknown,,,0,0,6,0,0,,,0,N,Y
+SLH,Silverhawk Aviation,,SLH,,Unknown,,,0,0,12,0,0,,1993.4,58.3,N,Y
+SLI,Aerolitoral,5D,SLI,Mexico,North America,,,61,61,61,0,0,11.2,2005.8,21.3,Y,Y
+SLK,SilkAir,MI,SLK,Singapore,Asia-Pacific,,,33,33,33,0,0,11.2,,0,Y,Y
+SLM,Surinam Airways,PY,SLM,Suriname,Latin America,,,4,4,4,0,0,11.2,,0,Y,Y
+SMJ,Avient Aviation,Z3,SMJ,Zimbabwe,Africa,,,0,0,2,0,0,,1977,50,Y,Y
+SMR,Somon Air,,SMR,,Unknown,,,0,0,5,0,0,,,0,N,Y
+SMW,Carpatair Flight Training,,SMW,Romania,Europe,,,2,2,2,0,0,11.2,,0,Y,Y
+SMX,Alitalia Express,XM,SMX,Italy,Europe,,,0,0,0,0,0,,,,Y,N
+SNC,Air Cargo Carriers,2Q,SNC,United States,North America,,,0,0,19,0,0,,1984.8,78.9,Y,Y
+SNG,Air Senegal International,V7,SNG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SNJ,Skynet Asia Airways,6J,SNJ,Japan,Asia-Pacific,,,11,11,11,0,0,11.2,,0,Y,Y
+SNM,Servizi Aerei,,SNM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SNT,Suncoast Aviation,,SNT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SNU,Snunit Aviation,,SNU,,Unknown,,,0,0,5,0,0,,,0,N,Y
+SOA,Southern Air Charter,,SOA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SOD,Aerolineas Sol,,SOD,,Unknown,,,0,0,1,0,0,,1998,100,N,Y
+SOI,Southern Aviation,,SOI,,Unknown,,,0,0,8,0,0,,1989.9,87.5,N,Y
+SOL,Solomon Airlines,IE,SOL,Solomon Islands,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+SOO,Southern Air,9S,SOO,,Unknown,,,0,0,16,0,0,,2002.9,87.5,N,Y
+SOP,Solinair,,SOP,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SOR,Sonair Servico Aereo,,SOR,,Unknown,,,0,0,12,0,0,,,0,N,Y
+SOU,Southern Airways,,SOU,,Unknown,,,0,0,1,0,0,,1994,100,N,Y
+SOV,Saratov Aviation Division,6W,SOV,Russia,Europe,,,2,2,15,0,0,11.2,,0,Y,Y
+SOY,Island Aviation,,SOY,,Unknown,,,0,0,6,0,0,,1989,33.3,N,Y
+SPA,Sierra Pacific Airlines,,SPA,,Unknown,,,0,0,4,0,0,,1991.3,75,N,Y
+SPB,Springbok Classic Air,,SPB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SPD,Airspeed Aviation,,SPD,,Unknown,,,0,0,4,0,0,,1998.2,100,N,Y
+SPJ,Air Service,M3,SPJ,,Unknown,,,0,0,2,0,0,,2010,100,N,Y
+SPK,Diamond Aviation,,SPK,,Unknown,,,0,0,5,0,0,,1991.2,100,N,Y
+SPM,Air Saint Pierre,PJ,SPM,France,Europe,,,1,1,2,0,0,11.2,,0,Y,Y
+SPT,Speed Aviation,,SPT,,Unknown,,,0,0,2,0,0,,1991,100,N,Y
+SQC,Singapore Airlines Cargo,SQ,SQC,Singapore,Asia-Pacific,,,9,9,9,0,0,11.2,2014,11.1,Y,Y
+SQF,Slovak Air Force,,SQF,,Unknown,,,0,0,5,0,0,,,0,N,Y
+SQH,SQH,,SQH,,Unknown,,,0,0,9,0,0,,1999.3,100,N,Y
+SQP,SkyUp Airlines,PQ,SQP,International,Unknown,,,3,3,3,0,0,11.2,,0,Y,Y
+SRN,Sprintair,,SRN,Poland,Europe,,,5,5,19,0,0,11.2,,0,Y,Y
+SRQ,South East Asian Airlines,DG,SRQ,Philippines,Asia-Pacific,,,15,15,15,0,0,11.2,,0,Y,Y
+SRY,ViaAir,,SRY,United States,North America,,,6,6,12,0,0,11.2,1995.2,41.7,Y,Y
+SSA,All America US,AG,SSA,United States,North America,,,0,0,0,0,0,,,,Y,N
+SSB,Sasair,,SSB,,Unknown,,,0,0,14,0,0,,,0,N,Y
+SSC,Southern Seaplane,,SSC,,Unknown,,,0,0,8,0,0,,1974.7,75,N,Y
+SSF,Severstal Air Company,D2,SSF,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SSP,Starspeed,,SSP,,Unknown,,,0,0,14,0,0,,2010.2,71.4,N,Y
+SSV,Skyservice Airlines,5G,SSV,Canada,North America,,,1,1,1,0,0,11.2,,0,Y,Y
+SSW,Streamline Aviation,,SSW,,Unknown,,,0,0,6,0,0,,1999.3,50,N,Y
+SSY,Sky Aviation,,SSY,,Unknown,,,0,0,13,0,0,,1974.4,69.2,N,Y
+SSZ,Csa Czech Airlines,,SSZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+STA,Star Aviation,,STA,,Unknown,,,0,0,12,0,0,,1983.8,41.7,N,Y
+STK,Stobart Air,RE,STK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+STL,Stapleford Flight Centre,,STL,,Unknown,,,0,0,29,0,0,,1986.2,100,N,Y
+STR,Red Star,,STR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SUA,Silesia Air,,SUA,,Unknown,,,0,0,3,0,0,,,0,N,Y
+SUB,Suburban Air Freight,,SUB,,Unknown,,,0,0,12,0,0,,1989.7,83.3,N,Y
+SUD,Sudan Airways,SD,SUD,Sudan,Africa,,,4,4,4,0,0,11.2,,0,Y,Y
+SUI,Swiss Air Force,,SUI,,Unknown,,,0,0,100,0,0,,1967,2,N,Y
+SUR,Sun Air,,SUR,,Unknown,,,0,0,5,0,0,,,0,N,Y
+SVA,Saudi Arabian Airlines,SV,SVA,Saudi Arabia,Middle East,,,189,189,204,0,0,11.2,2018,0.5,Y,Y
+SVD,St. Vincent Grenadines Air (1990),,SVD,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SVG,Svg Air,,SVG,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SVO,Servicios Aeronauticos De Oriente,,SVO,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SVR,Ural Airlines,U6,SVR,Russia,Europe,,,55,55,55,0,0,11.2,,0,Y,Y
+SVW,Global Jet Luxembourg,,SVW,,Unknown,,,0,0,5,0,0,,,0,N,Y
+SWA,Southwest Airlines,WN,SWA,United States,North America,,,875,875,917,0,20,11.2,2009.3,90.8,Y,Y
+SWC,South West Air,,SWC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SWD,SWD,,SWD,,Unknown,,,0,0,1,0,0,,2005,100,N,Y
+SWG,Sunwing Airlines,WG,SWG,,Unknown,,,0,0,31,0,0,,,0,N,Y
+SWM,Sky Angkor Airlines (ZA),ZA,SWM,Cambodia,Asia-Pacific,,,3,3,3,0,0,11.2,,0,Y,Y
+SWN,West Air Sweden Ab - Sweden,,SWN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SWQ,Swift Air (interstate Equipment Leasing),,SWQ,,Unknown,,,0,0,1,0,0,,2000,100,N,Y
+SWR,Swissair,LX,SWR,Switzerland,Europe,,,107,107,124,0,0,11.2,2009.4,73.4,Y,Y
+SWT,Swiftair,,SWT,,Unknown,,,0,0,37,0,1,,1993,2.7,N,Y
+SWY,Sky Jet,,SWY,,Unknown,,,0,0,2,0,0,,2017,50,N,Y
+SXA,Southern Cross Aviation,,SXA,,Unknown,,,0,0,9,0,0,,1970.3,66.7,N,Y
+SXD,SunExpress Germany,XG,SXD,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+SXR,Sky Express,XW,SXR,Russia,Europe,,,4,4,4,0,0,11.2,,0,Y,Y
+SXS,SunExpress,XQ,SXS,Turkey,Europe,,,64,64,64,0,0,11.2,2014,1.6,Y,Y
+SYA,Skyways,,SYA,,Unknown,,,0,0,1,0,0,,2001,100,N,Y
+SYB,Skyservice Business Aviation,,SYB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SYG,Synergy Aviation,,SYG,,Unknown,,,0,0,19,0,0,,1984.6,26.3,N,Y
+SYL,Aircompany Yakutia,R3,SYL,Russia,Europe,,,11,11,21,0,0,11.2,,0,Y,Y
+SYN,Syncrude Canada,,SYN,,Unknown,,,0,0,2,0,0,,,0,N,Y
+SYR,Syrian Arab Airlines,RB,SYR,Syrian Arab Republic,Middle East,,,10,10,26,0,0,11.2,,0,Y,Y
+SYS,Shawbury Flying Training Unit,,SYS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+SZB,Aerolineas heredas santa maria,,SZB,Dominican Republic,North America,,,0,0,0,0,0,,,,Y,N
+SZN,Air Senegal,HC,SZN,International,Unknown,,,3,3,3,0,0,11.2,,0,Y,Y
+SZS,SAS Connect,SL,SZS,International,Unknown,,,4,4,4,0,0,11.2,,0,Y,Y
+TAE,TAME,EQ,TAE,Ecuador,Latin America,,,12,12,12,0,0,11.2,,0,Y,Y
+TAH,Air Moorea,6K,TAH,France,Europe,,,0,0,1,0,0,,,0,Y,Y
+TAI,Avianca El Salvador,TA,TAI,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TAJ,Tunisavia,,TAJ,,Unknown,,,0,0,4,0,0,,,0,N,Y
+TAM,Latam Brasil,JJ,TAM,,Unknown,,,0,0,149,0,0,,,0,N,Y
+TAO,Aeromar,VW,TAO,Mexico,North America,,,18,18,18,0,0,11.2,,0,Y,Y
+TAP,TAP Portugal,TP,TAP,Portugal,Europe,,,126,126,126,0,0,11.2,2016.5,3.2,Y,Y
+TAR,Tunisair,TU,TAR,Tunisia,Africa,,,35,35,35,0,0,11.2,2001.1,68.6,Y,Y
+TAU,Transportes Aereos Tauro,,TAU,,Unknown,,,0,0,1,0,0,,2001,100,N,Y
+TAX,Thai Airasia X,XJ,TAX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TAY,Tnt Airways,3V,TAY,,Unknown,,,0,0,10,0,0,,2001,20,N,Y
+TBG,Tropical Airways,M7,TBG,,Unknown,,,0,0,1,0,0,,1972,100,N,Y
+TBM,Taban Air Lines,,TBM,,Unknown,,,0,0,10,0,0,,,0,N,Y
+TBZ,TrasBrasil,I3,TBZ,Brazil,Latin America,,,15,15,15,0,0,11.2,,0,Y,Y
+TCH,Transcontinental Air,,TCH,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TCR,Laneas Aereas Trans Costa Rica - S.a. - Costa Rica,,TCR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TCV,TACV,VR,TCV,Portugal,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+TCW,Thomas Cook Airlines,FQ,TCW,Belgium,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+TCX,Thomas Cook Airlines,MT,TCX,United Kingdom,Europe,,,45,45,46,0,0,11.2,2007.4,71.7,Y,Y
+TCY,Twin Cities Air Service,,TCY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TDR,Trade Air,,TDR,,Unknown,,,0,0,4,0,0,,,0,N,Y
+TDT,Atlas Helicopters,,TDT,,Unknown,,,0,0,2,0,0,,1993.5,100,N,Y
+TEA,Executive Turbine Aviation,,TEA,,Unknown,,,0,0,3,0,0,,,0,N,Y
+TEC,ADI Shuttle Group,,TEC,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TED,Aero Servicios Azteca,,TED,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TEJ,Aero Jet,,TEJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TEU,Tag Aviation (malta) Ltd - Malta,,TEU,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TEZ,TEZ,,TEZ,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TFF,Talon Air,,TFF,,Unknown,,,0,0,7,0,0,,2006,14.3,N,Y
+TFL,Arkefly,OR,TFL,Netherlands,Europe,,,14,14,14,0,0,11.2,2012,7.1,Y,Y
+TFR,Toll Aviation,,TFR,International,Unknown,,,1,1,1,0,0,11.2,1990,100,Y,Y
+TFT,Thai Flying Service,,TFT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TFY,Tayside Aviation,,TFY,,Unknown,,,0,0,17,0,0,,1990.7,100,N,Y
+TGC,Tg Aviation,,TGC,,Unknown,,,0,0,5,0,0,,1980.8,100,N,Y
+TGI,Transportes Aereos Regionales,,TGI,,Unknown,,,0,0,7,0,0,,,0,N,Y
+TGN,Trigana Air Service,,TGN,Indonesia,Asia-Pacific,,,1,1,1,0,0,11.2,,0,Y,Y
+TGW,Tiger Airways Australia,TR,TGW,Australia,Asia-Pacific,,,42,42,46,0,7,11.2,1977.4,13,Y,Y
+TGY,Trans Guyana Airways,,TGY,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TGZ,Georgian Airways,A9,TGZ,Georgia,Europe,,,9,9,12,0,0,11.2,2006.5,16.7,Y,Y
+THA,Thai Airways International,TG,THA,Thailand,Asia-Pacific,,,81,81,81,0,0,11.2,,0,Y,Y
+THC,Tar Heel Aviation,,THC,,Unknown,,,0,0,1,0,0,,1986,100,N,Y
+THK,THK,,THK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+THT,Air Tahiti Nui,TN,THT,France,Europe,,,9,9,9,0,0,11.2,,0,Y,Y
+THY,Turkish Airlines,TK,THY,Turkey,Europe,,,393,393,405,59,0,11.2,2011.5,0.5,Y,Y
+THZ,Trans Helicoptere Service,,THZ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TIB,TRIP Linhas A,T4,TIB,Brazil,Latin America,,,7,7,7,0,0,11.2,,0,Y,Y
+TID,Air Tindi,8T,TID,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TIE,Time Air,,TIE,,Unknown,,,0,0,9,0,0,,1984.3,33.3,N,Y
+TIH,S C Ion Tiriac,,TIH,,Unknown,,,0,0,6,0,0,,,0,N,Y
+TJD,Aliserio,,TJD,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TJT,TJT,,TJT,,Unknown,,,0,0,10,0,0,,,0,N,Y
+TKJ,AJet,VF,TKJ,International,Unknown,,,0,0,0,3,0,,,,Y,N
+TLB,Atlantique Air Assistance,,TLB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TLR,Air Libya Tibesti,,TLR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TLS,Tlc Air,,TLS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TLT,Turtle Airways,,TLT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TLV,Travelair,,TLV,,Unknown,,,0,0,1,0,0,,1965,100,N,Y
+TMG,Tri-mg Intra Asia Airlines,GY,TMG,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TMI,Tamir Airways,,TMI,,Unknown,,,0,0,3,0,0,,,0,N,Y
+TML,Tam,,TML,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TMN,Tasman Cargo Airlines,HJ,TMN,International,Unknown,,,1,1,1,0,0,11.2,2012,100,Y,Y
+TMS,Temsco Helicopters,,TMS,,Unknown,,,0,0,40,0,0,,1991.3,90,N,Y
+TMW,Trans Maldivian Airways,M8,TMW,,Unknown,,,0,0,44,0,0,,,0,N,Y
+TNA,TransAsia Airways,GE,TNA,Taiwan,Asia-Pacific,,,1,1,1,0,0,11.2,,0,Y,Y
+TNO,Aerotransporte De Carga Union,6R,TNO,,Unknown,,,0,0,8,0,0,,1979.5,25,N,Y
+TNU,TransNusa Air,8B,TNU,Indonesia,Asia-Pacific,,,4,4,4,0,0,11.2,,0,Y,Y
+TNV,Transnorthern,,TNV,,Unknown,,,0,0,1,0,0,,1951,100,N,Y
+TOK,Airlines PNG,CG,TOK,Papua New Guinea,Asia-Pacific,,,6,6,11,0,0,11.2,,0,Y,Y
+TOL,Tol-air Services,TI,TOL,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TOM,Thomsonfly,BY,TOM,United Kingdom,Europe,,,75,75,75,0,0,11.2,2008.3,81.3,Y,Y
+TOP,Top Air,,TOP,,Unknown,,,0,0,2,0,0,,1978,50,N,Y
+TOR,Toronto Airways,,TOR,,Unknown,,,0,0,22,0,0,,,0,N,Y
+TOS,TOS,,TOS,,Unknown,,,0,0,3,0,0,,,0,N,Y
+TPA,TAMPA,QT,TPA,Colombia,Latin America,,,5,5,5,0,3,11.2,2013,100,Y,Y
+TPG,Transportes Aereos Pegaso,,TPG,,Unknown,,,0,0,3,0,0,,,0,N,Y
+TPM,Transpais Aereo,,TPM,,Unknown,,,0,0,6,0,0,,,0,N,Y
+TRA,Transavia Holland,HV,TRA,Netherlands,Europe,,,50,50,50,0,0,11.2,,0,Y,Y
+TRK,Turkuaz Airlines,,TRK,Turkey,Europe,,,5,5,13,0,0,11.2,,0,Y,Y
+TRL,Starlite Aviation,,TRL,,Unknown,,,0,0,2,0,0,,,0,N,Y
+TRP,Maryland State Police,,TRP,,Unknown,,,0,0,3,0,0,,1986,33.3,N,Y
+TRS,AirTran Airways,FL,TRS,United States,North America,,,0,0,0,0,0,,,,Y,N
+TSC,Air Transat,TS,TSC,Canada,North America,,,43,43,43,0,5,11.2,,0,Y,Y
+TSO,Transaero Airlines,UN,TSO,Russia,Europe,,,6,6,6,0,0,11.2,,0,Y,Y
+TTL,Total Linhas Aereas,,TTL,,Unknown,,,0,0,4,0,0,,,0,N,Y
+TTN,Absolute Flight Services,,TTN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TTZ,Transair,,TTZ,Canada,North America,,,2,2,3,0,0,11.2,1969,33.3,Y,Y
+TUA,Turkmenistan Airlines,T5,TUA,Turkmenistan,Asia-Pacific,,,27,27,32,0,0,11.2,,0,Y,Y
+TUI,Tuninter,X3,TUI,Tunisia,Africa,,,30,30,30,0,0,11.2,,0,Y,Y
+TUL,Tulpar Air,,TUL,,Unknown,,,0,0,6,0,0,,2010,16.7,N,Y
+TUP,Aviastar-tu,,TUP,,Unknown,,,0,0,6,0,0,,,0,N,Y
+TUR,ATUR,,TUR,Ecuador,Latin America,,,0,0,0,0,0,,,,Y,N
+TUS,ABSA - Aerolinhas Brasileiras,M3,TUS,Brazil,Latin America,,,0,0,0,0,0,,,,Y,N
+TUX,Tunisair Express,UG,TUX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+TVF,Transavia France,TO,TVF,France,Europe,,,34,34,34,0,0,11.2,,0,Y,Y
+TVJ,Thai Vietjet Air,VZ,TVJ,Thailand,Asia-Pacific,,,4,4,4,0,0,11.2,,0,Y,Y
+TVS,Travel Service,QS,TVS,Czech Republic,Europe,,,46,46,50,0,0,11.2,2000,2,Y,Y
+TWB,Tway Airlines,TW,TWB,South Korea,Asia-Pacific,,,19,19,19,0,0,11.2,,0,Y,Y
+TWG,Air-Taxi Europe,,TWG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TWN,Avialeasing Aviation Company,V2,TWN,Uzbekistan,Asia-Pacific,,,0,0,0,0,0,,,,Y,N
+TWY,Sunset Aviation - Llc - United States Of America,,TWY,,Unknown,,,0,0,1,0,1,,,0,N,Y
+TXA,Texair Charter,,TXA,,Unknown,,,0,0,24,0,0,,,0,N,Y
+TXB,Bell Helicopter Textron,,TXB,,Unknown,,,0,0,46,0,0,,,0,N,Y
+TXG,7Air Cargo,,TXG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TXJ,Brilliant Jet,,TXJ,International,Unknown,,,0,0,0,0,0,,,,Y,N
+TXW,Texas Wings,TQ,TXW,,Unknown,,,0,0,2,0,0,,1961,100,N,Y
+TYA,Nordstar Airlines,Y7,TYA,International,Unknown,,,2,2,2,0,0,11.2,,0,Y,Y
+TYW,Tyrol Air Ambulance,,TYW,,Unknown,,,0,0,7,0,0,,,0,N,Y
+UAE,Emirates,EK,UAE,United Arab Emirates,Middle East,,,289,289,290,49,0,11.2,2016.2,3.1,Y,Y
+UAF,United Arab Emirates Air Force,,UAF,,Unknown,,,0,0,32,0,0,,,0,N,Y
+UAL,United Airlines,UA,UAL,United States,North America,,,1016,1016,1062,0,18,11.2,2006.5,94.9,Y,Y
+UAR,Aerostar Airlines,,UAR,,Unknown,,,0,0,2,0,0,,,0,N,Y
+UBA,Myanma Airways,UB,UBA,Myanmar,Asia-Pacific,,,14,14,20,0,0,11.2,,0,Y,Y
+UBD,United Airways,UD,UBD,Bangladesh,Asia-Pacific,,,3,3,3,0,0,11.2,,0,Y,Y
+UBE,Bees Airline,,UBE,International,Unknown,,,0,0,0,0,0,,,,Y,N
+UBG,US-Bangla Airlines,BS,UBG,Bangladesh,Asia-Pacific,,,7,7,7,0,0,11.2,,0,Y,Y
+UCA,UCA,,UCA,,Unknown,,,0,0,32,0,0,,2001.2,68.8,N,Y
+UCC,Uganda Air Cargo,,UCC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UDN,Dniproavia,,UDN,Ukraine,Europe,,,11,11,11,0,0,11.2,,0,Y,Y
+UEA,Chengdu Airlines,,UEA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UEJ,Jetcorp,,UEJ,,Unknown,,,0,0,1,0,0,,1982,100,N,Y
+UEU,United Express,,UEU,,Unknown,,,0,0,1,0,0,,2001,100,N,Y
+UGP,Shar Ink,,UGP,,Unknown,,,0,0,3,0,0,,1997,33.3,N,Y
+UHL,Ukrainian Helicopters,,UHL,,Unknown,,,0,0,6,0,0,,,0,N,Y
+UHS,Ulyanovsk Higher Civil Aviation School,,UHS,,Unknown,,,0,0,37,0,0,,,0,N,Y
+UIA,Uni Air,B7,UIA,Taiwan,Asia-Pacific,,,17,17,17,0,0,11.2,,0,Y,Y
+UJR,Universal Jet Rental De Mexico,,UJR,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UJX,AtlasGlobal Ukraine,,UJX,Ukraine,Europe,,,3,3,3,0,0,11.2,,0,Y,Y
+UKL,Ukraine Air Alliance,,UKL,,Unknown,,,0,0,6,0,0,,,0,N,Y
+UKM,UKM,,UKM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UKN,Ukraine Air Enterprise,,UKN,,Unknown,,,0,0,2,0,0,,,0,N,Y
+ULC,Albinati Aviation,,ULC,International,Unknown,,,0,0,2,0,0,,,0,Y,Y
+UMB,Air Umbria,,UMB,,Unknown,,,0,0,1,0,0,,2005,100,N,Y
+UMK,UMK,,UMK,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UNA,Business Aviation Asia,,UNA,International,Unknown,,,0,0,0,0,0,,,,Y,N
+UNC,Uni-fly,,UNC,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UNY,Lund University School Of Aviation,,UNY,,Unknown,,,0,0,8,0,0,,,0,N,Y
+UPA,Air Foyle,GS,UPA,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+UPS,United Parcel Service,5X,UPS,,Unknown,,,0,0,269,0,6,,2001.3,96.7,N,Y
+URG,Air Urga,3N,URG,,Unknown,,,0,0,5,0,0,,,0,N,Y
+URV,Uraiavia,,URV,,Unknown,,,0,0,2,0,0,,,0,N,Y
+URY,Century Aviation,,URY,,Unknown,,,0,0,6,0,0,,1992,83.3,N,Y
+USH,Us Helicopter,,USH,,Unknown,,,0,0,2,0,0,,1976,50,N,Y
+UTA,UTair Aviation,UT,UTA,Russia,Europe,,,58,58,217,0,0,11.2,,0,Y,Y
+UTN,Azur Air Ukraine,QU,UTN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+UTY,Alliance Airlines,QQ,UTY,Australia,Asia-Pacific,,,32,32,32,0,0,11.2,1993.3,56.2,Y,Y
+UVA,Universal Airways,,UVA,,Unknown,,,0,0,1,0,0,,1973,100,N,Y
+UVN,United Aviation,,UVN,,Unknown,,,0,0,4,0,0,,1995,25,N,Y
+UZB,Uzbekistan Airways,HY,UZB,Uzbekistan,Asia-Pacific,,,5,5,6,0,0,11.2,,0,Y,Y
+VAJ,Avcon Jet San Marino,,VAJ,International,Unknown,,,1,1,1,0,0,11.2,,0,Y,Y
+VAM,Ameravia,,VAM,,Unknown,,,0,0,1,0,0,,2022,100,N,Y
+VAN,Caravan Air,,VAN,,Unknown,,,0,0,2,0,0,,2006,100,N,Y
+VAS,ATRAN Cargo Airlines,V8,VAS,Russian Federation,Europe,,,5,5,5,0,0,11.2,,0,Y,Y
+VAT,Visionair,,VAT,,Unknown,,,0,0,1,0,0,,1975,100,N,Y
+VBB,ALK Airlines,,VBB,International,Unknown,,,0,0,0,0,0,,,,Y,N
+VBW,Air Burkina,2J,VBW,Burkina Faso,Africa,,,2,2,3,0,0,11.2,,0,Y,Y
+VCG,Catreus,,VCG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+VCJ,Avcon Jet Malta,,VCJ,International,Unknown,,,0,0,1,0,0,,,0,Y,Y
+VCN,Execujet Charter,,VCN,,Unknown,,,0,0,1,0,0,,,0,N,Y
+VCV,Conviasa,V0,VCV,Venezuela,Latin America,,,19,19,21,0,0,11.2,2013,4.8,Y,Y
+VDA,Volga-dnepr Airlines,VI,VDA,,Unknown,,,0,0,18,0,0,,2011,5.6,N,Y
+VEE,Victor Echo,,VEE,,Unknown,,,0,0,1,0,0,,2017,100,N,Y
+VES,Vieques Air Link,,VES,,Unknown,,,0,0,11,0,0,,1980.1,72.7,N,Y
+VIM,Air VIA,VL,VIM,Bulgaria,Europe,,,1,1,1,0,0,11.2,,0,Y,Y
+VIO,Aviator.S5,,VIO,International,Unknown,,,0,0,0,0,0,,,,Y,N
+VIR,Virgin Atlantic Airways,VS,VIR,United Kingdom,Europe,,,54,54,54,0,0,11.2,2009.4,72.2,Y,Y
+VIS,Vision Air International,,VIS,Pakistan,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+VIV,Viva Aerobus,VB,VIV,,Unknown,,,0,0,13,0,0,,2013.6,38.5,N,Y
+VJC,VietJet Air,VJ,VJC,Vietnam,Asia-Pacific,,,39,39,39,0,0,11.2,,0,Y,Y
+VJM,Viajes Ejecutivos Mexicanos,,VJM,,Unknown,,,0,0,1,0,0,,,0,N,Y
+VJT,Vistajet,,VJT,,Unknown,,,0,0,6,0,0,,2019,16.7,N,Y
+VKG,Sunclass Airlines,,VKG,,Unknown,,,0,0,9,0,0,,,0,N,Y
+VLA,Valan International Cargo Charter,,VLA,,Unknown,,,0,0,2,0,0,,,0,N,Y
+VLG,Vueling Airlines,VY,VLG,Spain,Europe,,,134,134,135,0,2,11.2,2008,1.5,Y,Y
+VLJ,Valljet,,VLJ,,Unknown,,,0,0,2,0,0,,,0,N,Y
+VLK,VLK,,VLK,,Unknown,,,0,0,4,0,0,,,0,N,Y
+VLM,VLM Airlines,VG,VLM,Belgium,Europe,,,10,10,10,0,0,11.2,,0,Y,Y
+VLV,Avialift Vladivostok,,VLV,,Unknown,,,0,0,12,0,0,,,0,N,Y
+VME,Aviacion Comercial De America,,VME,,Unknown,,,0,0,1,0,0,,2008,100,N,Y
+VMP,Execujet Scandinavia,,VMP,,Unknown,,,0,0,14,0,0,,,0,N,Y
+VNR,Avantair,,VNR,International,Unknown,,,0,0,0,0,0,,,,Y,N
+VOE,VOLOTEA Airways,V7,VOE,Spain,Europe,,,44,44,44,0,0,11.2,2003.8,50,Y,Y
+VOI,Volaris,Y4,VOI,Mexico,North America,,,81,81,81,0,1,11.2,2012.1,53.1,Y,Y
+VOL,Blue Chip Jet,,VOL,,Unknown,,,0,0,2,0,0,,,0,N,Y
+VOR,Flight Calibration Services Ltd.,,VOR,,Unknown,,,0,0,1,0,0,,2019,100,N,Y
+VOZ,Virgin Australia,VA,VOZ,Australia,Asia-Pacific,,,112,112,112,0,0,11.2,2007.9,37.5,Y,Y
+VPC,Panaviatic,,VPC,,Unknown,,,0,0,2,0,0,,,0,N,Y
+VQI,Flyme (VP),VP,VQI,Maldives,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+VRD,Virgin America,VX,VRD,United States,North America,,,63,63,63,0,0,11.2,2009.7,57.1,Y,Y
+VRS,Sirvair,,VRS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+VSR,Aviostart As,,VSR,,Unknown,,,0,0,3,0,0,,,0,N,Y
+VSV,Scat Air,DV,VSV,Kazakhstan,Asia-Pacific,,,12,12,12,0,0,11.2,,0,Y,Y
+VTA,Air Tahiti,VT,VTA,French Polynesia,Asia-Pacific,,,9,9,9,0,0,11.2,,0,Y,Y
+VTE,Corporate Flight Management,,VTE,,Unknown,,,0,0,17,0,3,,2000.8,58.8,N,Y
+VTI,Air Vistara,UK,VTI,India,Asia-Pacific,,,26,26,26,0,0,11.2,2021,7.7,Y,Y
+VTK,Vostok Airlines,,VTK,,Unknown,,,0,0,2,0,0,,,0,N,Y
+VTM,Aeronaves Tsm,,VTM,,Unknown,,,0,0,8,0,0,,,0,N,Y
+VUE,AD Aviation,,VUE,United Kingdom,Europe,,,0,0,0,0,0,,,,Y,N
+VUN,Air Ivoire,VU,VUN,Ivory Coast,Africa,,,0,0,0,0,0,,,,Y,N
+VVC,VivaColombia,5Z,VVC,Colombia,Latin America,,,14,14,14,0,0,11.2,,0,Y,Y
+VVN,88,47,VVN,Cyprus,Europe,,,0,0,0,0,0,,,,Y,N
+VXN,Sunset Aviation,,VXN,,Unknown,,,0,0,10,0,0,,1976.1,80,N,Y
+VXP,Avelo,,VXP,,Unknown,,,0,0,2,0,0,,2008,50,N,Y
+VXX,Aviaexpress Aircompany,,VXX,,Unknown,,,0,0,2,0,0,,,0,N,Y
+WAA,Westair Aviation,,WAA,,Unknown,,,0,0,3,0,0,,,0,N,Y
+WAJ,AirAsia Japan,DJ,WAJ,Japan,Asia-Pacific,,,2,2,2,0,0,11.2,,0,Y,Y
+WAL,West Atlantic,WL,WAL,,Unknown,,,0,0,3,0,0,,1974.7,100,N,Y
+WAV,Warbelow's Air Ventures,,WAV,,Unknown,,,0,0,1,0,0,,1981,100,N,Y
+WAZ,Wizz Air Abu Dhabi,,WAZ,,Unknown,,,0,0,3,0,0,,,0,N,Y
+WBA,Finncomm Airlines,FC,WBA,Finland,Europe,,,11,11,11,0,0,11.2,,0,Y,Y
+WCO,Columbia Helicopters,,WCO,,Unknown,,,0,0,35,0,0,,1972.2,68.6,N,Y
+WDL,Wdl Aviation,WD,WDL,,Unknown,,,0,0,6,0,0,,,0,N,Y
+WDS,Four Winds Aviation,,WDS,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WEA,White Eagle Aviation,,WEA,,Unknown,,,0,0,1,0,0,,1973,100,N,Y
+WEN,WestJet Encore,WR,WEN,Canada,North America,,,46,46,46,13,5,11.2,,0,Y,Y
+WER,AeroWorld,W4,WER,Russia,Europe,,,0,0,0,0,0,,,,Y,N
+WEW,West Wind Aviation,,WEW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WFL,World2Fly,2W,WFL,International,Unknown,,,1,1,1,0,1,11.2,2021,100,Y,Y
+WGN,Western Global Airlines,KD,WGN,International,Unknown,,,1,1,1,0,0,11.2,1994,100,Y,Y
+WGT,Lion Air Services,,WGT,,Unknown,,,0,0,2,0,0,,,0,N,Y
+WHE,Westland Helicopters,,WHE,,Unknown,,,0,0,3,0,0,,2006,33.3,N,Y
+WHS,Wiking Helikopter Service,,WHS,,Unknown,,,0,0,2,0,0,,,0,N,Y
+WHT,White,,WHT,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WIF,Widerøe,WF,WIF,Norway,Europe,,,11,11,42,0,0,11.2,,0,Y,Y
+WIG,Wiggins Airways,,WIG,,Unknown,,,0,0,23,0,0,,1979.9,91.3,N,Y
+WIL,Aero Air,,WIL,,Unknown,,,0,0,8,0,0,,1984.3,87.5,N,Y
+WJA,WestJet,WS,WJA,Canada,North America,,,137,137,137,43,1,11.2,,0,Y,Y
+WLB,Wings Of Lebanon Aviation,,WLB,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WLG,Volga Aviaexpress,,WLG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WLT,Aviation Partners,,WLT,,Unknown,,,0,0,11,0,0,,1990.9,72.7,N,Y
+WML,Chantilly Air,,WML,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WNA,Winair,,WNA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WOL,Wings Aviation,,WOL,,Unknown,,,0,0,5,0,0,,1987,60,N,Y
+WON,Wings Air,IW,WON,Indonesia,Asia-Pacific,,,51,51,52,0,0,11.2,2002,1.9,Y,Y
+WOW,Air Southwest,WW,WOW,United Kingdom,Europe,,,17,17,17,0,0,11.2,,0,Y,Y
+WPR,Auckland Regional Rescue Helicopter Trust,,WPR,,Unknown,,,0,0,1,0,0,,2019,100,N,Y
+WRC,Wind Rose Aviation,7W,WRC,Ukraine,Europe,,,8,8,9,0,0,11.2,,0,Y,Y
+WRF,Wright Air Service,8V,WRF,,Unknown,,,0,0,27,0,0,,1996.2,92.6,N,Y
+WSG,Wasaya Airways,,WSG,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WST,Western Air,,WST,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WSW,Swoop Airlines,,WSW,,Unknown,,,0,0,1,0,0,,,0,N,Y
+WTA,Africa West,FK,WTA,Togo,Africa,,,0,0,0,0,0,,,,Y,N
+WTN,Bae Systems,,WTN,,Unknown,,,0,0,8,0,0,,1989.2,50,N,Y
+WUK,Wizz Air UK,W9,WUK,International,Unknown,,,3,3,3,0,0,11.2,,0,Y,Y
+WWG,Aereo WWG,,WWG,International,Unknown,,,0,0,0,0,0,,,,Y,N
+WWI,Worldwide Jet Charter,,WWI,,Unknown,,,0,0,7,0,0,,1996.8,71.4,N,Y
+WWS,Worldwide Aviation Services,,WWS,,Unknown,,,0,0,2,0,0,,2017,100,N,Y
+WZZ,Wizz Air,W6,WZZ,Hungary,Europe,,,122,122,122,0,0,11.2,2017,0.8,Y,Y
+XAH,Executive Aircraft Services,,XAH,,Unknown,,,0,0,9,0,0,,,0,N,Y
+XAX,AirAsia X,D7,XAX,Malaysia,Asia-Pacific,,,23,23,23,0,0,11.2,,0,Y,Y
+XBM,CBM America,,XBM,United States,North America,,,0,0,0,0,0,,,,Y,N
+XGO,AirGO Private Airline,,XGO,International,Unknown,,,0,0,10,0,0,,1976.6,70,Y,Y
+XKX,Asecna,,XKX,,Unknown,,,0,0,1,0,0,,,0,N,Y
+XMA,Martin Aviation Services,,XMA,,Unknown,,,0,0,1,0,0,,,0,N,Y
+XMS,British Airways,,XMS,,Unknown,,,0,0,16,0,0,,,0,N,Y
+XOJ,XOJ,,XOJ,,Unknown,,,0,0,41,0,0,,2005.8,97.6,N,Y
+XPN,Aero Express,,XPN,International,Unknown,,,0,0,0,0,0,,,,Y,N
+XSL,Embry-riddle Aeronautical University,,XSL,,Unknown,,,0,0,136,0,0,,2016.4,94.9,N,Y
+XSR,Executive Airshare,,XSR,,Unknown,,,0,0,50,0,1,,2012.7,64,N,Y
+YBE,Stewart Aviation Services,,YBE,,Unknown,,,0,0,4,0,0,,1991.8,100,N,Y
+YCP,Canadian National Airways,CN,YCP,Canada,North America,,,0,0,0,0,0,,,,Y,N
+YOG,Central Aviation,,YOG,,Unknown,,,0,0,8,0,0,,1991.3,75,N,Y
+YZR,Yangtze River Express,Y8,YZR,,Unknown,,,0,0,3,0,0,,,0,N,Y
+Z9H,All Argentina Express,Z0,Z9H,Argentina,Latin America,,,0,0,0,0,0,,,,Y,N
+ZYZ,Caribbean Wings,XP,ZYZ,,Unknown,,,0,0,1,0,0,,1977,100,N,Y

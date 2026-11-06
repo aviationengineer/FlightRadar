@@ -1,0 +1,238 @@
+{
+  "snapshot_date": "2026-11-05",
+  "total_fleet_afm": 25226,
+  "active_fleet_afm": 25226,
+  "registered_fleet_opensky": 41752,
+  "airlines_afm": 860,
+  "operators_opensky": 1750,
+  "airlabs_aircraft": 649,
+  "skylink_airborne": 762,
+  "icao_overlap_afm_opensky": 597,
+  "airlabs_avg_age": 10.8,
+  "airlabs_age_bands": {
+    ">20": 45,
+    "<5": 124,
+    "10-15": 72,
+    "15-20": 54,
+    "5-10": 42
+  },
+  "airlabs_manufacturer_split": {
+    "Unknown": 253,
+    "Airbus": 122,
+    "Boeing": 112,
+    "Beechcraft": 8,
+    "Cessna": 43,
+    "Embraer": 43,
+    "Piper": 7,
+    "Dassault": 3,
+    "Leonardo": 1,
+    "Sikorsky": 1,
+    "Pilatus": 12,
+    "Bombardier": 23,
+    "Gulfstream": 9,
+    "McDonnell Douglas": 1,
+    "Cirrus": 3,
+    "ATR": 1,
+    "Robinson": 2,
+    "De Havilland Canada": 5
+  },
+  "opensky_manufacturer_split_top_types": {
+    "Beechcraft": 905,
+    "Boeing": 10987,
+    "Lockheed Martin": 579,
+    "Fairchild Republic": 201,
+    "Bombardier": 1264,
+    "McDonnell Douglas": 404,
+    "Airbus": 9126,
+    "Embraer": 1917,
+    "Cessna": 1282,
+    "Unknown": 3865,
+    "Eurofighter": 151,
+    "BAE Systems": 92,
+    "Panavia": 227,
+    "Sukhoi": 94,
+    "Antonov": 302,
+    "Pilatus": 325,
+    "Mil": 260,
+    "ATR": 752,
+    "Gulfstream": 186,
+    "Airbus Helicopters": 209,
+    "De Havilland Canada": 836,
+    "Leonardo": 101,
+    "Fokker": 86,
+    "Piper": 154,
+    "Saab": 158,
+    "Sikorsky": 43,
+    "Dassault": 67,
+    "Cirrus": 11,
+    "Robinson": 9
+  },
+  "body_type_split_airlabs_skylink": {
+    "Other": 327,
+    "Narrowbody": 599,
+    "Widebody": 343,
+    "Regional": 142
+  },
+  "fleet_by_region_afm": {
+    "Europe": 6963,
+    "North America": 7559,
+    "Unknown": 642,
+    "Latin America": 829,
+    "Asia-Pacific": 7050,
+    "Africa": 729,
+    "Middle East": 1454
+  },
+  "top_afm": [
+    {
+      "icao": "DAL",
+      "name": "Delta Air Lines",
+      "total": 1388,
+      "active": 1388,
+      "country": "United States",
+      "region": "North America"
+    },
+    {
+      "icao": "AAL",
+      "name": "American Airlines",
+      "total": 1239,
+      "active": 1239,
+      "country": "United States",
+      "region": "North America"
+    },
+    {
+      "icao": "UAL",
+      "name": "United Airlines",
+      "total": 1016,
+      "active": 1016,
+      "country": "United States",
+      "region": "North America"
+    },
+    {
+      "icao": "SWA",
+      "name": "Southwest Airlines",
+      "total": 875,
+      "active": 875,
+      "country": "United States",
+      "region": "North America"
+    },
+    {
+      "icao": "CSN",
+      "name": "China Southern Airlines",
+      "total": 579,
+      "active": 579,
+      "country": "China",
+      "region": "Asia-Pacific"
+    },
+    {
+      "icao": "RYR",
+      "name": "Ryanair",
+      "total": 497,
+      "active": 497,
+      "country": "Ireland",
+      "region": "Europe"
+    },
+    {
+      "icao": "CES",
+      "name": "China Eastern Airlines",
+      "total": 491,
+      "active": 491,
+      "country": "China",
+      "region": "Asia-Pacific"
+    },
+    {
+      "icao": "CCA",
+      "name": "Air China",
+      "total": 412,
+      "active": 412,
+      "country": "China",
+      "region": "Asia-Pacific"
+    },
+    {
+      "icao": "DLH",
+      "name": "Lufthansa",
+      "total": 400,
+      "active": 400,
+      "country": "Germany",
+      "region": "Europe"
+    },
+    {
+      "icao": "SKW",
+      "name": "SkyWest",
+      "total": 398,
+      "active": 398,
+      "country": "United States",
+      "region": "North America"
+    }
+  ],
+  "top_opensky": [
+    {
+      "icao": "AIO",
+      "name": "United States Air Force",
+      "registered": 2218
+    },
+    {
+      "icao": "DAL",
+      "name": "Delta Air Lines",
+      "registered": 1423
+    },
+    {
+      "icao": "AAL",
+      "name": "American Airlines",
+      "registered": 1247
+    },
+    {
+      "icao": "UAL",
+      "name": "United Airlines",
+      "registered": 1062
+    },
+    {
+      "icao": "SWA",
+      "name": "Southwest Airlines",
+      "registered": 917
+    },
+    {
+      "icao": "COO",
+      "name": "Corporate Airlink",
+      "registered": 650
+    },
+    {
+      "icao": "CSN",
+      "name": "China Southern Airlines",
+      "registered": 580
+    },
+    {
+      "icao": "FDX",
+      "name": "Federal Express",
+      "registered": 563
+    },
+    {
+      "icao": "SHF",
+      "name": "Royal Air Force",
+      "registered": 503
+    },
+    {
+      "icao": "CES",
+      "name": "China Eastern Airlines",
+      "registered": 501
+    }
+  ],
+  "unavailable_kpis": [
+    "Fleet Growth YoY %",
+    "Fleet CAGR",
+    "Aircraft on Order",
+    "Options",
+    "Firm Orders",
+    "Deliveries Next 12 Months",
+    "Deliveries Next 3 Years",
+    "Order-to-Fleet Ratio",
+    "Expected Fleet Growth",
+    "Fleet Utilization",
+    "Replacement Ratio",
+    "Retired Aircraft",
+    "Aircraft Added",
+    "Seats per Aircraft",
+    "New Aircraft Growth",
+    "Retirement Rate"
+  ],
+  "unavailable_reason": "No order-book, fleet-history, or utilization source is connected. FACT_AIRCRAFT_ORDER and FACT_FLEET_HISTORY are empty by design."
+}

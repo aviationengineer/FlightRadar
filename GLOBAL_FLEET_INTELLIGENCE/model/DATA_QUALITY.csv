@@ -1,0 +1,23 @@
+source,check,severity,affected_records,total_records,detail
+afm,avg_age is site-wide placeholder (11.2),HIGH,549,860,549 of 860 airlines share exactly 11.2; do not use as headline age
+afm,idle/stored columns are 0 for all rows,HIGH,860,860,idle_7_29d and stored_30d_plus are 0 everywhere
+afm,country value is not a country (ALASKA/AVIANCA/DRAGON/S.A./International),MEDIUM,217,860,rows carry a non-country value in the country field
+afm,missing ICAO code,MEDIUM,0,860,
+afm,"ICAO code is not 3 letters (e.g. FI5, AI0, 99F, ...)",MEDIUM,26,860,AFM's icao field mixes designators and internal codes; join keys on these rows are unreliable
+afm,airline name is a placeholder ('...'),LOW,0,860,one row carries no usable airline name
+afm,duplicate country naming (Russia / Russian Federation; South Korea / Republic of Korea; Burma / Myanmar),LOW,0,860,same country under two names; region mapping normalises
+opensky,aircraft with no known operator (excluded from counts),HIGH,478248,520000,"only 41,752 of ~520,000 aircraft have operatoricao; counts are the known-operator subset"
+opensky,missing built year (age coverage),MEDIUM,28726,41752,"built-year coverage is 31.2% overall; US carriers 80-95%, Chinese/European 0-1%"
+opensky,operator with no ICAO code (keyed by operator_key),MEDIUM,51,1750,"51 operators (345 aircraft) incl. Thai Lion Air, Peach Aviation, Thai Smile; keyed by IATA operator_key instead"
+opensky,operator with UNKNOWN top typecode,LOW,32,1750,
+airlabs,"partial snapshot (quota exhausted, 650 of ~25k expected)",HIGH,0,650,November quota spent before the run; December reset will show whether the dataset genuinely ends at 650
+airlabs,airline name blank,MEDIUM,649,649,649 rows carry no airline name
+airlabs,missing aircraft type (icao_type blank),HIGH,233,649,233 of 649 rows carry no typecode; manufacturer and body type cannot be derived for these rows
+airlabs,missing manufacturer (raw field),MEDIUM,233,649,233 of 649 rows blank; dashboard derives manufacturer from the ICAO typecode instead
+airlabs,missing age,LOW,312,649,
+skylink,manufacturer blank,MEDIUM,737,762,737 of 762 rows; derive manufacturer from typecode
+skylink,aircraft model blank,LOW,762,762,
+skylink,operator blank (derive from callsign prefix),LOW,762,762,
+all,no order-book source connected,HIGH,0,0,FACT_AIRCRAFT_ORDER is empty; order KPIs render N/A
+all,no fleet history source connected,HIGH,0,0,FACT_FLEET_HISTORY is empty; growth/CAGR KPIs render N/A
+all,no utilization source connected (block hours / cycles),HIGH,0,0,fleet_status does not carry block hours or cycles

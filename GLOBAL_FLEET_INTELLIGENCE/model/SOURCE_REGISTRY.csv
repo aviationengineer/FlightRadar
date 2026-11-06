@@ -1,0 +1,7 @@
+source_name,source_url,source_date,retrieval_date,data_confidence,record_count,coverage,status
+AirLabs,,2026-11-05,2026-11-05,MEDIUM,,Partial snapshot — 649 aircraft in tab (see ingestion log),ok
+Airline Fleet Monitor,,2026-11-05,2026-11-05,MEDIUM,,"860 airlines, 25,226 airframes (snapshot 2026-09-17; idle/stored split + avg age are placeholders)",ok
+Skylink,,2026-11-05,2026-11-05,MEDIUM,,"762 airborne aircraft across 10 airlines (live ADS-B snapshot, direct trial)",ok
+OpenSky,,2026-11-05,2026-11-05,MEDIUM,,"1,750 airlines, 5,897 records (registered airframes)",ok
+afm_site_snapshot,https://airlinefleetmonitor.com/data/airlines.json,2026-09-17,2026-11-05,MEDIUM,860,"860 active airlines; 25,226 airframes",LIVE
+opensky_aircraft_database,https://opensky-network.org/datasets/metadata/,2026-11-05,2026-11-05,HIGH,520000,"41,752 aircraft with known operator",LIVE
