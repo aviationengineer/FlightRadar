@@ -19,5 +19,5 @@ skylink,manufacturer blank,MEDIUM,737,762,737 of 762 rows; derive manufacturer f
 skylink,aircraft model blank,LOW,762,762,
 skylink,operator blank (derive from callsign prefix),LOW,762,762,
 all,no order-book source connected,HIGH,0,0,FACT_AIRCRAFT_ORDER is empty; order KPIs render N/A
-all,no fleet history source connected,HIGH,0,0,FACT_FLEET_HISTORY is empty; growth/CAGR KPIs render N/A
+all,fleet history is weekly only (no YoY yet),MEDIUM,0,0,weekly snapshots since 2026-11-08 (1); growth YoY/CAGR need 12 months of snapshots
 all,no utilization source connected (block hours / cycles),HIGH,0,0,fleet_status does not carry block hours or cycles

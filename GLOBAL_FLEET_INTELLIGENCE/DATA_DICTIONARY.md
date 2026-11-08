@@ -1,7 +1,10 @@
 # Data Dictionary — Global Airline Fleet Intelligence
 
 Snapshot date: **2026-11-05**. All tables live in `model/`, built by
-`build_model.py` from the four Fleet Intelligence source CSVs.
+`build_model.py` from the four Fleet Intelligence source CSVs. Source CSVs
+are refreshed weekly from the live sheet by `../snapshot_weekly.py`, which
+also appends one snapshot row per source to `FACT_FLEET_HISTORY_WEEKLY.csv`
+and `WEEKLY_CHANGES.csv` (baseline 2026-11-08).
 
 ## DIM_AIRLINE (2,013 rows)
 
@@ -60,8 +63,22 @@ that cell. `avg_age_years` is populated only where the source carries ages
 
 ## FACT_AIRCRAFT_ORDER (0 rows) and FACT_FLEET_HISTORY (0 rows)
 
-Schema only, by design. No order-book or fleet-history source is connected.
-The dashboard renders every dependent KPI as `N/A — Data unavailable`.
+Schema only, by design. No order-book source is connected, and no full year
+of history exists yet. The dashboard renders every dependent KPI as
+`N/A — Data unavailable`.
+
+## FACT_FLEET_HISTORY_WEEKLY (append-only) and WEEKLY_CHANGES (append-only)
+
+Written by `../snapshot_weekly.py` each Monday, never by `build_model.py`.
+One snapshot per week, starting 2026-11-08 (baseline). Week-over-week
+change is real from the second snapshot on; growth YoY / CAGR need 12
+months of snapshots. Net fleet change per airline is observable; gross
+retirements vs deliveries are not (net deltas cannot split them).
+
+| File | Columns | Grain |
+|---|---|---|
+| FACT_FLEET_HISTORY_WEEKLY.csv | snapshot_date, source, airline_id, fleet_count, active_fleet | one row per (week, source, airline) for AFM; one `ALL` row per source |
+| WEEKLY_CHANGES.csv | snapshot_date, source, airline_id, metric, previous_value, current_value, delta, delta_pct | one row per non-zero week-over-week delta (source totals + top 10 AFM airline movers) |
 
 ## DATA_QUALITY (22 rows)
 

@@ -1,8 +1,9 @@
 """Fleet Intelligence Dashboard — Streamlit app.
 
-Data: Fleet Intelligence Google Sheet, snapshot 2026-11-05.
-CSVs in ./data are the snapshot; re-run fetch_data.py (or re-export the
-sheet tabs) to refresh them. See README.md.
+Data: Fleet Intelligence Google Sheet, refreshed weekly by
+snapshot_weekly.py (../snapshot_weekly.py). CSVs in ./data are the latest
+snapshot; the weekly job re-exports the sheet tabs to refresh them.
+See README.md.
 """
 from pathlib import Path
 

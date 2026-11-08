@@ -1,5 +1,9 @@
 {
   "snapshot_date": "2026-11-05",
+  "weekly_history": {
+    "first_snapshot": "2026-11-08",
+    "snapshots": 1
+  },
   "total_fleet_afm": 25226,
   "active_fleet_afm": 25226,
   "registered_fleet_opensky": 41752,
@@ -234,5 +238,5 @@
     "New Aircraft Growth",
     "Retirement Rate"
   ],
-  "unavailable_reason": "No order-book, fleet-history, or utilization source is connected. FACT_AIRCRAFT_ORDER and FACT_FLEET_HISTORY are empty by design."
+  "unavailable_reason": "Weekly fleet history started 2026-11-08 (1 snapshot(s)); growth YoY/CAGR need 12 months of snapshots. No order-book or utilization source is connected."
 }

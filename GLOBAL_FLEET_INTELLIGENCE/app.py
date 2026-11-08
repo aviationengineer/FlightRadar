@@ -5,7 +5,8 @@ Pages: 1 Executive Overview · 2 Fleet Composition · 3 Fleet Age & Replacement
        6 Data Quality & Sources
 
 Data: the analytical model in ./model (built by build_model.py from the four
-Fleet Intelligence sources, snapshot 2026-11-05). Every KPI without a source
+Fleet Intelligence sources, snapshot 2026-11-05, refreshed weekly by
+snapshot_weekly.py). Every KPI without a source
 renders as an explicit N/A placeholder — nothing is fabricated.
 """
 import altair as alt
@@ -15,7 +16,8 @@ import streamlit as st
 import kpis
 from kpis import (UNAVAILABLE_KPIS, body_type_split, flag_age,
                   fleet_by_region, generate_insights, load_model,
-                  manufacturer_split, top_airlines)
+                  load_weekly_history, manufacturer_split, top_airlines,
+                  weekly_change_summary)
 
 st.set_page_config(page_title="Global Airline Fleet Intelligence",
                    page_icon="✈️", layout="wide")
@@ -204,8 +206,11 @@ def page_overview():
                  if tot_body else "N/A",
                  "Per-aircraft snapshot (AirLabs + Skylink)")
     with c[3]:
-        kpi_card("Fleet Growth YoY %", "", "No fleet-history source connected",
-                 na=True)
+        wh_dates = load_weekly_history()["dates"]
+        hist_sub = ("Weekly history started " + wh_dates[0] +
+                    "; YoY needs 12 months of snapshots") if wh_dates else \
+            "No fleet-history source connected"
+        kpi_card("Fleet Growth YoY %", "", hist_sub, na=True)
     c = st.columns(4)
     with c[0]:
         kpi_card("Aircraft on Order", "", "No order-book source connected",
@@ -214,8 +219,7 @@ def page_overview():
         kpi_card("Fleet Utilization", "",
                  "No block-hours / cycles source connected", na=True)
     with c[2]:
-        kpi_card("Fleet CAGR", "", "No fleet-history source connected",
-                 na=True)
+        kpi_card("Fleet CAGR", "", hist_sub, na=True)
     with c[3]:
         kpi_card("Replacement Ratio", "",
                  "Needs retirements + deliveries — no source", na=True)
@@ -271,11 +275,30 @@ def page_overview():
                 'shares — see the Composition page for percentages.</p>',
                 unsafe_allow_html=True)
 
-    st.subheader("Top Fleet Growth Airlines")
-    na_panel("N/A — Data unavailable",
-             "Fleet growth needs a fleet-history source (year-over-year "
-             "snapshots). FACT_FLEET_HISTORY is empty by design until a "
-             "history source is connected.")
+    st.subheader("Weekly Fleet Change")
+    wcs = weekly_change_summary()
+    if wcs is None:
+        wh0 = load_weekly_history()
+        if wh0["dates"]:
+            na_panel("Baseline established " + wh0["dates"][0],
+                     "First week-over-week comparison lands after the next "
+                     "Monday snapshot. Growth YoY and CAGR need 12 months "
+                     "of snapshots.")
+        else:
+            na_panel("N/A — Data unavailable",
+                     "Fleet growth needs a fleet-history source "
+                     "(year-over-year snapshots). FACT_FLEET_HISTORY is "
+                     "empty by design until a history source is connected.")
+    else:
+        st.markdown(f"Week over week: {wcs['previous_date']} → "
+                    f"{wcs['latest_date']} ({wcs['n_snapshots']} snapshots "
+                    f"since {wcs['first_date']}).")
+        chg = wcs["changes"]
+        if chg is None or chg.empty:
+            st.markdown("No change detected this week — all source totals "
+                        "unchanged.")
+        else:
+            st.dataframe(chg, use_container_width=True, hide_index=True)
     st.subheader("Top Aircraft Order Books")
     na_panel("N/A — Data unavailable",
              "Order books need an order-book source (e.g. manufacturer "
@@ -690,8 +713,11 @@ def page_quality():
     st.subheader("Export the model")
     for name in ("DIM_AIRLINE.csv", "DIM_AIRCRAFT.csv",
                  "FACT_FLEET_SNAPSHOT.csv", "DATA_QUALITY.csv",
-                 "SOURCE_REGISTRY.csv"):
+                 "SOURCE_REGISTRY.csv", "FACT_FLEET_HISTORY_WEEKLY.csv",
+                 "WEEKLY_CHANGES.csv"):
         path = kpis.MODEL / name
+        if not path.exists():
+            continue  # WEEKLY_CHANGES appears only once a change is found
         st.download_button(f"Download {name}", path.read_bytes(),
                            file_name=name, mime="text/csv")
     st.subheader("Adding airlines / aircraft types / refreshing data")

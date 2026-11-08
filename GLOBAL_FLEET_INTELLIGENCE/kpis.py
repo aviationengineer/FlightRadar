@@ -132,18 +132,56 @@ def order_book():
 
 
 def fleet_growth_yoy():
-    """No history source connected -> None."""
+    """No year-over-year history yet -> None. Weekly snapshots need 12
+    months before a YoY figure is honest."""
     return None
 
 
 def fleet_cagr():
-    """No history source connected -> None."""
+    """No multi-year history yet -> None."""
     return None
 
 
 def fleet_utilization():
     """No block-hours/cycles source connected -> None."""
     return None
+
+
+def load_weekly_history():
+    """Weekly snapshot history, if any snapshot has been recorded.
+
+    Returns {"snapshots": DataFrame, "changes": DataFrame or None,
+    "dates": [sorted snapshot dates]}. Missing files mean no history yet
+    (baseline not run) — never an error.
+    """
+    weekly = MODEL / "FACT_FLEET_HISTORY_WEEKLY.csv"
+    changes = MODEL / "WEEKLY_CHANGES.csv"
+    if not weekly.exists():
+        return {"snapshots": None, "changes": None, "dates": []}
+    snaps = pd.read_csv(weekly)
+    chg = pd.read_csv(changes) if changes.exists() else None
+    dates = sorted(snaps["snapshot_date"].astype(str).unique().tolist())
+    return {"snapshots": snaps, "changes": chg, "dates": dates}
+
+
+def weekly_change_summary():
+    """Week-over-week change summary.
+
+    Returns None when fewer than 2 snapshots exist (nothing to compare
+    yet), otherwise {"first_date", "latest_date", "previous_date",
+    "n_snapshots", "changes": DataFrame}.
+    """
+    hist = load_weekly_history()
+    if len(hist["dates"]) < 2:
+        return None
+    chg = hist["changes"]
+    return {
+        "first_date": hist["dates"][0],
+        "latest_date": hist["dates"][-1],
+        "previous_date": hist["dates"][-2],
+        "n_snapshots": len(hist["dates"]),
+        "changes": chg,
+    }
 
 
 # --------------------------------------------------------- insight engine
@@ -181,7 +219,26 @@ def generate_insights(model):
         f"AirLabs average fleet age is {age} years; "
         f"{over15} of {aged} aircraft with a known age "
         f"({round(100 * over15 / aged)}%) are older than 15 years.")
+    hist = load_weekly_history()
+    if len(hist["dates"]) >= 2:
+        latest = hist["dates"][-1]
+        n_chg = (len(hist["changes"]) if hist["changes"] is not None else 0)
+        lines.append(
+            f"Weekly fleet history covers {len(hist['dates'])} snapshots "
+            f"since {hist['dates'][0]}; the latest ({latest}) shows "
+            f"{n_chg} week-over-week changes. Growth YoY and CAGR still "
+            f"need 12 months of snapshots.")
+    elif len(hist["dates"]) == 1:
+        lines.append(
+            f"Weekly fleet history started {hist['dates'][0]} (baseline "
+            f"snapshot); the first week-over-week comparison lands after "
+            f"the next Monday snapshot. Growth YoY and CAGR need 12 "
+            f"months of snapshots.")
+    else:
+        lines.append(
+            "Growth, order book and utilization are N/A: no fleet-history, "
+            "order-book or block-hours source is connected yet.")
     lines.append(
-        "Growth, order book and utilization are N/A: no fleet-history, "
-        "order-book or block-hours source is connected yet.")
+        "Order book and utilization remain N/A: no order-book or "
+        "block-hours source is connected.")
     return lines

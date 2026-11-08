@@ -32,6 +32,15 @@ def load(name):
         return list(csv.DictReader(f))
 
 
+def read_history():
+    """Weekly snapshots recorded by snapshot_weekly.py (may be empty)."""
+    p = HERE.parent / "history" / "weekly_snapshots.csv"
+    if not p.exists():
+        return []
+    with open(p, newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
 def num(x, default=0.0):
     try:
         return float(x)
@@ -477,8 +486,12 @@ for r in afm:
 wcsv("FACT_FLEET_SNAPSHOT.csv", list(fact[0].keys()), fact)
 
 # --------------------------------- FACT_AIRCRAFT_ORDER / FACT_FLEET_HISTORY
-# No source: schema only, zero rows. The dashboard renders these pages as
-# explicit N/A placeholders, never fabricated values.
+# No order source, and no full year of history: schema only, zero rows. The
+# dashboard renders these pages as explicit N/A placeholders, never
+# fabricated values. Week-over-week history lives in
+# FACT_FLEET_HISTORY_WEEKLY.csv (populated by snapshot_weekly.py, never by
+# this builder); this yearly file stays empty until 12 months of weekly
+# snapshots exist.
 wcsv("FACT_AIRCRAFT_ORDER.csv",
      ["airline_id", "aircraft_family", "manufacturer", "order_status",
       "order_quantity", "delivery_year", "delivery_month",
@@ -577,8 +590,16 @@ dq_row("skylink", "operator blank (derive from callsign prefix)", "LOW",
 # Cross-source
 dq_row("all", "no order-book source connected", "HIGH", 0, 0,
        "FACT_AIRCRAFT_ORDER is empty; order KPIs render N/A")
-dq_row("all", "no fleet history source connected", "HIGH", 0, 0,
-       "FACT_FLEET_HISTORY is empty; growth/CAGR KPIs render N/A")
+hist_dates = sorted({r.get("snapshot_date", "") for r in read_history()}
+                    - {""})
+if hist_dates:
+    dq_row("all", "fleet history is weekly only (no YoY yet)", "MEDIUM",
+           0, 0,
+           f"weekly snapshots since {hist_dates[0]} ({len(hist_dates)}); "
+           "growth YoY/CAGR need 12 months of snapshots")
+else:
+    dq_row("all", "no fleet history source connected", "HIGH", 0, 0,
+           "FACT_FLEET_HISTORY is empty; growth/CAGR KPIs render N/A")
 dq_row("all", "no utilization source connected (block hours / cycles)",
        "HIGH", 0, 0, "fleet_status does not carry block hours or cycles")
 wcsv("DATA_QUALITY.csv", list(dq[0].keys()), dq)
@@ -645,8 +666,20 @@ for a in al_ages:
     age_bands["<5" if a < 5 else "5-10" if a < 10 else "10-15"
               if a < 15 else "15-20" if a < 20 else ">20"] += 1
 
+if hist_dates:
+    unavail_reason = (f"Weekly fleet history started {hist_dates[0]} "
+                      f"({len(hist_dates)} snapshot(s)); growth YoY/CAGR "
+                      "need 12 months of snapshots. No order-book or "
+                      "utilization source is connected.")
+else:
+    unavail_reason = ("No order-book, fleet-history, or utilization "
+                      "source is connected. FACT_AIRCRAFT_ORDER and "
+                      "FACT_FLEET_HISTORY are empty by design.")
+
 summary = {
     "snapshot_date": SNAPSHOT_DATE,
+    "weekly_history": {"first_snapshot": hist_dates[0] if hist_dates else None,
+                       "snapshots": len(hist_dates)},
     "total_fleet_afm": afm_tot,
     "active_fleet_afm": afm_act,
     "registered_fleet_opensky": osk_tot,
@@ -675,9 +708,7 @@ summary = {
         "Replacement Ratio", "Retired Aircraft", "Aircraft Added",
         "Seats per Aircraft", "New Aircraft Growth", "Retirement Rate",
     ],
-    "unavailable_reason": ("No order-book, fleet-history, or utilization "
-                           "source is connected. FACT_AIRCRAFT_ORDER and "
-                           "FACT_FLEET_HISTORY are empty by design."),
+    "unavailable_reason": unavail_reason,
 }
 (OUT / "KPI_SUMMARY.json").write_text(json.dumps(summary, indent=2))
 print("KPI summary:", json.dumps({k: v for k, v in summary.items()
