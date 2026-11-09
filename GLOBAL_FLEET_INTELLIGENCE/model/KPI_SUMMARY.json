@@ -2,7 +2,7 @@
   "snapshot_date": "2026-11-05",
   "weekly_history": {
     "first_snapshot": "2026-11-08",
-    "snapshots": 1
+    "snapshots": 2
   },
   "total_fleet_afm": 25226,
   "active_fleet_afm": 25226,
@@ -238,5 +238,5 @@
     "New Aircraft Growth",
     "Retirement Rate"
   ],
-  "unavailable_reason": "Weekly fleet history started 2026-11-08 (1 snapshot(s)); growth YoY/CAGR need 12 months of snapshots. No order-book or utilization source is connected."
+  "unavailable_reason": "Weekly fleet history started 2026-11-08 (2 snapshot(s)); growth YoY/CAGR need 12 months of snapshots. No order-book or utilization source is connected."
 }
