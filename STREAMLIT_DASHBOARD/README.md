@@ -36,3 +36,38 @@ and restart the app (or push the new CSVs — Streamlit Cloud picks them up).
 - **Airlines** — AFM joined to OpenSky on ICAO, searchable and filterable by country.
 - **Fleet mix** — AirLabs manufacturer / model / age charts; Skylink airborne breakdowns.
 - **Sources & quality** — source catalog and the per-source caveats.
+
+## Analytics (Google Analytics 4)
+
+The app reports anonymous usage to Google Analytics 4 (GA4) once a
+Measurement ID is configured — until then tracking is completely off and
+the app behaves exactly as before.
+
+**What is tracked:** a `page_view` when the app loads. Tab switches
+inside this single-page dashboard are client-side, so they are not sent
+as separate events. No personal data is sent — no user IDs, no custom
+dimensions, nothing that identifies a visitor. GA4 anonymises IP
+addresses by default. The injection lives in `analytics.py`
+(`inject_analytics`, called once in `app.py`).
+
+**Setup (one GA4 property, three streams):** create one GA4 property
+for the three Streamlit apps at https://analytics.google.com, then add
+one web data stream per app URL
+(`fleet-intelligence-2026.streamlit.app`,
+`global-fleet-intelligence.streamlit.app`,
+`aviationenterprisect.streamlit.app`). Each stream has its own
+Measurement ID (`G-XXXXXXXXXX`). In Streamlit Cloud, open the app →
+Manage app → Settings → Secrets and add:
+
+```
+GA_MEASUREMENT_ID = "G-XXXXXXXXXX"
+```
+
+(using this app's own stream ID). Tracking starts on the next run;
+remove the secret to switch it off again. The ID can also be set as the
+`GA_MEASUREMENT_ID` constant in `analytics.py`, but secrets are
+preferred — never commit a real Measurement ID to the repo.
+
+Note: Streamlit Cloud's built-in "App analytics" (view counts in the
+Cloud dashboard) is separate from Google Analytics; this integration
+does not affect it.

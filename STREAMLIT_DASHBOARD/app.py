@@ -10,7 +10,14 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+from analytics import inject_analytics
+
 st.set_page_config(page_title="Fleet Intelligence Dashboard", layout="wide")
+
+# Google Analytics (GA4): page_view on load. Tab switches in this
+# single-page dashboard are client-side, so they are not sent as separate
+# events. Does nothing until GA_MEASUREMENT_ID is set in Streamlit secrets.
+inject_analytics()
 
 # Resolve the data dir from the script's own location: Streamlit Cloud runs
 # the app from the repo root, so a bare relative "data" path breaks there.

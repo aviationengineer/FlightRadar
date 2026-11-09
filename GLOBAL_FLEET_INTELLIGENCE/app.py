@@ -13,6 +13,7 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
+from analytics import inject_analytics
 import kpis
 from kpis import (UNAVAILABLE_KPIS, body_type_split, flag_age,
                   fleet_by_region, generate_insights, load_model,
@@ -93,6 +94,10 @@ page = st.sidebar.radio(
     ["1 · Executive Overview", "2 · Fleet Composition",
      "3 · Fleet Age & Replacement", "4 · Future Fleet & Order Book",
      "5 · Competitive Benchmark", "6 · Data Quality & Sources"])
+# Google Analytics (GA4): page_view on load, page_navigation event when
+# the sidebar page changes. Does nothing until GA_MEASUREMENT_ID is set
+# in Streamlit secrets.
+inject_analytics(page_name=page)
 st.sidebar.markdown("---")
 st.sidebar.subheader("Global filters")
 regions = sorted(dim["region"].dropna().unique())
