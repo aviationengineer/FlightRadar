@@ -50,23 +50,24 @@ dimensions, nothing that identifies a visitor. GA4 anonymises IP
 addresses by default. The injection lives in `analytics.py`
 (`inject_analytics`, called once in `app.py`).
 
-**Setup (one GA4 property, three streams):** create one GA4 property
-for the three Streamlit apps at https://analytics.google.com, then add
-one web data stream per app URL
-(`fleet-intelligence-2026.streamlit.app`,
-`global-fleet-intelligence.streamlit.app`,
-`aviationenterprisect.streamlit.app`). Each stream has its own
-Measurement ID (`G-XXXXXXXXXX`). In Streamlit Cloud, open the app →
-Manage app → Settings → Secrets and add:
+**Setup — property "Streamlit Initiatives" (Property ID 563317959):**
+one GA4 property holds all three Streamlit apps, with one web data
+stream per app. This app's stream is **Fleet Intelligence Dashboard**
+(`fleet-intelligence-2026.streamlit.app`) — Measurement ID
+**`G-350W7X94ZY`**. (The other two streams: Global Airline Fleet
+Intelligence `G-7DDSXWRLNQ`, WestJet Control Tower `G-CT7F9YCNEZ`.)
+In Streamlit Cloud, open this app → Manage app → Settings → Secrets
+and add:
 
 ```
-GA_MEASUREMENT_ID = "G-XXXXXXXXXX"
+GA_MEASUREMENT_ID = "G-350W7X94ZY"
 ```
 
-(using this app's own stream ID). Tracking starts on the next run;
-remove the secret to switch it off again. The ID can also be set as the
-`GA_MEASUREMENT_ID` constant in `analytics.py`, but secrets are
-preferred — never commit a real Measurement ID to the repo.
+Tracking starts on the next run; remove the secret to switch it off
+again. The ID can also be set as the `GA_MEASUREMENT_ID` constant in
+`analytics.py`, but secrets are preferred — never commit a real
+Measurement ID to the repo. (Measurement IDs are public identifiers
+by design, so listing them here as reference is fine.)
 
 Note: Streamlit Cloud's built-in "App analytics" (view counts in the
 Cloud dashboard) is separate from Google Analytics; this integration
